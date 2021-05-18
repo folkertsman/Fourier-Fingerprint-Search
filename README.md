@@ -2,11 +2,12 @@
 
 ## Fourier Fingerprint Search (FFS) Overview
 
-![alt text][Class Project]
+### Class Project
 Install the database as mentioned below.
 Change the search method in line 53 of main.py
 run "bash runbench.sh"
 Results are stored in the results/ directory"
+
 ![alt text][overview]
 
 
