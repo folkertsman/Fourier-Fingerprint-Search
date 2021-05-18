@@ -21,7 +21,7 @@ VERBOSE = False
 """
 The maximum number of matches to return
 """
-NUMBER_OF_MATCHES = 5
+NUMBER_OF_MATCHES = 10
 
 """
 Degree to which a fingerprint can be paired with its neighbors -- higher will cause more fingerprints, but potentially better accuracy.

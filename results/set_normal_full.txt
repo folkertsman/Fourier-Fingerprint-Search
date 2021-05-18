@@ -1,0 +1,2306 @@
+1 1 ./benchmarks/FabWave/Bearings/bcd7f4f0-c649-412d-81d8-53ce27db1b53-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Bearings/bcd7f4f0-c649-412d-81d8-53ce27db1b53-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Bearings/bcd7f4f0-c649-412d-81d8-53ce27db1b53-ascii.stl	(similarity = 0.57)
+	benchmarks/FabWave/Bearings/ad861ce9-5d60-4248-90c4-e049e9243f7c-ascii.stl	(similarity = 0.492)
+	benchmarks/FabWave/Bearings/d8ee3a87-9f0b-4cec-a62a-871bee58f279-ascii.stl	(similarity = 0.486)
+	benchmarks/FabWave/Bearings/189828df-1faa-4c04-81ef-c88438f350b5-ascii.stl	(similarity = 0.485)
+	benchmarks/FabWave/Bearings/f676ecd7-78ba-4480-82cd-19dea06eb923-ascii.stl	(similarity = 0.148)
+	benchmarks/FabWave/Bearings/f589d7e0-afbd-4653-ba8c-a07d970991d8-ascii.stl	(similarity = 0.123)
+	benchmarks/FabWave/O_Rings/7e53e37d-832a-4d11-ac4d-73c59d32c850-ascii.stl	(similarity = 0.075)
+	benchmarks/FabWave/O_Rings/74305955-b06d-4e97-ac98-d823b67aabf2-ascii.stl	(similarity = 0.063)
+	benchmarks/FabWave/Pipe_Fittings/44965k434-ascii.stl	(similarity = 0.062)
+	benchmarks/FabWave/Grommets/9c3eae38-c1d1-4d7b-b655-2e2b010b6c10-ascii.stl	(similarity = 0.061)
+58
+Signature Match Score:  0.8186808430811412 
+
+
+Files matched with ./benchmarks/FabWave/Bearings/bcd7f4f0-c649-412d-81d8-53ce27db1b53-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Bearings/bcd7f4f0-c649-412d-81d8-53ce27db1b53-ascii.stl	(similarity = 0.586)
+	benchmarks/FabWave/Bearings/ad861ce9-5d60-4248-90c4-e049e9243f7c-ascii.stl	(similarity = 0.521)
+	benchmarks/FabWave/Bearings/189828df-1faa-4c04-81ef-c88438f350b5-ascii.stl	(similarity = 0.512)
+	benchmarks/FabWave/Bearings/d8ee3a87-9f0b-4cec-a62a-871bee58f279-ascii.stl	(similarity = 0.508)
+	benchmarks/FabWave/Bearings/f676ecd7-78ba-4480-82cd-19dea06eb923-ascii.stl	(similarity = 0.333)
+	benchmarks/FabWave/Bearings/f589d7e0-afbd-4653-ba8c-a07d970991d8-ascii.stl	(similarity = 0.269)
+	benchmarks/FabWave/Pipe_Fittings/44965k434-ascii.stl	(similarity = 0.239)
+	benchmarks/FabWave/O_Rings/7e53e37d-832a-4d11-ac4d-73c59d32c850-ascii.stl	(similarity = 0.23)
+	benchmarks/FabWave/Grommets/f2a158e8-c59c-4f45-9285-2d10d1798275-ascii.stl	(similarity = 0.188)
+	benchmarks/FabWave/Grommets/9c3eae38-c1d1-4d7b-b655-2e2b010b6c10-ascii.stl	(similarity = 0.136)
+58
+Neighborhood Match Score:  0.7856353972957808 
+
+Signature Match Score: 0.8186808430811412 Neighborhood Match Score: 0.7856353972957808
+2 2 ./benchmarks/FabWave/Bearings/d8ee3a87-9f0b-4cec-a62a-871bee58f279-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Bearings/d8ee3a87-9f0b-4cec-a62a-871bee58f279-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Bearings/d8ee3a87-9f0b-4cec-a62a-871bee58f279-ascii.stl	(similarity = 0.574)
+	benchmarks/FabWave/Bearings/ad861ce9-5d60-4248-90c4-e049e9243f7c-ascii.stl	(similarity = 0.5)
+	benchmarks/FabWave/Bearings/189828df-1faa-4c04-81ef-c88438f350b5-ascii.stl	(similarity = 0.493)
+	benchmarks/FabWave/Bearings/bcd7f4f0-c649-412d-81d8-53ce27db1b53-ascii.stl	(similarity = 0.48)
+	benchmarks/FabWave/Bearings/f676ecd7-78ba-4480-82cd-19dea06eb923-ascii.stl	(similarity = 0.153)
+	benchmarks/FabWave/Bearings/f589d7e0-afbd-4653-ba8c-a07d970991d8-ascii.stl	(similarity = 0.12)
+	benchmarks/FabWave/O_Rings/7e53e37d-832a-4d11-ac4d-73c59d32c850-ascii.stl	(similarity = 0.075)
+	benchmarks/FabWave/O_Rings/74305955-b06d-4e97-ac98-d823b67aabf2-ascii.stl	(similarity = 0.063)
+	benchmarks/FabWave/Pipe_Fittings/44965k434-ascii.stl	(similarity = 0.061)
+	benchmarks/FabWave/Grommets/9c3eae38-c1d1-4d7b-b655-2e2b010b6c10-ascii.stl	(similarity = 0.046)
+58
+Signature Match Score:  0.8186808430811412 
+
+
+Files matched with ./benchmarks/FabWave/Bearings/d8ee3a87-9f0b-4cec-a62a-871bee58f279-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Bearings/d8ee3a87-9f0b-4cec-a62a-871bee58f279-ascii.stl	(similarity = 0.597)
+	benchmarks/FabWave/Bearings/ad861ce9-5d60-4248-90c4-e049e9243f7c-ascii.stl	(similarity = 0.543)
+	benchmarks/FabWave/Bearings/189828df-1faa-4c04-81ef-c88438f350b5-ascii.stl	(similarity = 0.524)
+	benchmarks/FabWave/Bearings/bcd7f4f0-c649-412d-81d8-53ce27db1b53-ascii.stl	(similarity = 0.495)
+	benchmarks/FabWave/Bearings/f676ecd7-78ba-4480-82cd-19dea06eb923-ascii.stl	(similarity = 0.343)
+	benchmarks/FabWave/Bearings/f589d7e0-afbd-4653-ba8c-a07d970991d8-ascii.stl	(similarity = 0.263)
+	benchmarks/FabWave/Pipe_Fittings/44965k434-ascii.stl	(similarity = 0.24)
+	benchmarks/FabWave/O_Rings/7e53e37d-832a-4d11-ac4d-73c59d32c850-ascii.stl	(similarity = 0.236)
+	benchmarks/FabWave/Grommets/f2a158e8-c59c-4f45-9285-2d10d1798275-ascii.stl	(similarity = 0.182)
+	benchmarks/FabWave/O_Rings/751ff279-f788-4cf8-b172-289304bb7d84-ascii.stl	(similarity = 0.115)
+58
+Neighborhood Match Score:  0.8142922254324034 
+
+Signature Match Score: 0.8186808430811412 Neighborhood Match Score: 0.8142922254324034
+3 3 ./benchmarks/FabWave/Bearings/bcf4f855-6f5c-44e1-9fa3-e149a77d98a3-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Bearings/bcf4f855-6f5c-44e1-9fa3-e149a77d98a3-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Bearings/bcf4f855-6f5c-44e1-9fa3-e149a77d98a3-ascii.stl	(similarity = 0.589)
+	benchmarks/FabWave/Bearings/9467e101-07d3-413c-b797-39e2c4460a7f-ascii.stl	(similarity = 0.522)
+	benchmarks/FabWave/Bearings/00ed2536-3d80-4f07-8851-4f49f1606498-ascii.stl	(similarity = 0.509)
+	benchmarks/FabWave/Bearings/696fb9b9-ad6d-47c7-9ae5-4f88daa3dd9d-ascii.stl	(similarity = 0.477)
+	benchmarks/FabWave/Bearings/53ceb4a5-37be-42e5-9e7d-e7544bb36283-ascii.stl	(similarity = 0.469)
+	benchmarks/FabWave/Bearings/8f76477c-7bb6-4561-b7ba-253d1211890f-ascii.stl	(similarity = 0.169)
+	benchmarks/FabWave/Bearings/1757496f-2a70-4509-bfc3-854b1eac8ab2-ascii.stl	(similarity = 0.158)
+	benchmarks/FabWave/Bearings/957c6db0-cd26-484c-9210-4fcee4438132-ascii.stl	(similarity = 0.157)
+	benchmarks/FabWave/Bearings/2205d9b1-f294-466f-b721-ddc9a5c6a83c-ascii.stl	(similarity = 0.065)
+	benchmarks/FabWave/Grommets/45815e1e-3eb2-437c-820e-43406c57b11e-ascii.stl	(similarity = 0.061)
+58
+Signature Match Score:  0.9426863437267546 
+
+
+Files matched with ./benchmarks/FabWave/Bearings/bcf4f855-6f5c-44e1-9fa3-e149a77d98a3-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Bearings/bcf4f855-6f5c-44e1-9fa3-e149a77d98a3-ascii.stl	(similarity = 0.677)
+	benchmarks/FabWave/Bearings/9467e101-07d3-413c-b797-39e2c4460a7f-ascii.stl	(similarity = 0.676)
+	benchmarks/FabWave/Bearings/00ed2536-3d80-4f07-8851-4f49f1606498-ascii.stl	(similarity = 0.673)
+	benchmarks/FabWave/Bearings/696fb9b9-ad6d-47c7-9ae5-4f88daa3dd9d-ascii.stl	(similarity = 0.59)
+	benchmarks/FabWave/Bearings/53ceb4a5-37be-42e5-9e7d-e7544bb36283-ascii.stl	(similarity = 0.586)
+	benchmarks/FabWave/Bearings/1757496f-2a70-4509-bfc3-854b1eac8ab2-ascii.stl	(similarity = 0.377)
+	benchmarks/FabWave/Bearings/8f76477c-7bb6-4561-b7ba-253d1211890f-ascii.stl	(similarity = 0.33)
+	benchmarks/FabWave/Bearings/957c6db0-cd26-484c-9210-4fcee4438132-ascii.stl	(similarity = 0.318)
+	benchmarks/FabWave/Bearings/2205d9b1-f294-466f-b721-ddc9a5c6a83c-ascii.stl	(similarity = 0.211)
+	benchmarks/FabWave/Grommets/45815e1e-3eb2-437c-820e-43406c57b11e-ascii.stl	(similarity = 0.204)
+58
+Neighborhood Match Score:  0.9426863437267546 
+
+Signature Match Score: 0.9426863437267546 Neighborhood Match Score: 0.9426863437267546
+59 1 ./benchmarks/FabWave/Bolts/1eba09d4-653e-429b-b249-83c3d511c826-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Bolts/1eba09d4-653e-429b-b249-83c3d511c826-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Bolts/1eba09d4-653e-429b-b249-83c3d511c826-ascii.stl	(similarity = 0.576)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew94-ascii.stl	(similarity = 0.14)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew19-ascii.stl	(similarity = 0.134)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew36-ascii.stl	(similarity = 0.131)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew58-ascii.stl	(similarity = 0.13)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew8-ascii.stl	(similarity = 0.07)
+	benchmarks/FabWave/HeadlessScrews/1a360df4-13aa-4ace-a598-31b7e4d13048-ascii.stl	(similarity = 0.063)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew15-ascii.stl	(similarity = 0.051)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew32-ascii.stl	(similarity = 0.05)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew103-ascii.stl	(similarity = 0.042)
+11
+Signature Match Score:  0.6156590602487615 
+
+
+Files matched with ./benchmarks/FabWave/Bolts/1eba09d4-653e-429b-b249-83c3d511c826-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Bolts/1eba09d4-653e-429b-b249-83c3d511c826-ascii.stl	(similarity = 0.715)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew94-ascii.stl	(similarity = 0.414)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew58-ascii.stl	(similarity = 0.381)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew19-ascii.stl	(similarity = 0.367)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew36-ascii.stl	(similarity = 0.356)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew15-ascii.stl	(similarity = 0.303)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew32-ascii.stl	(similarity = 0.292)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew103-ascii.stl	(similarity = 0.283)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew8-ascii.stl	(similarity = 0.251)
+	benchmarks/FabWave/Brackets/bracket29-ascii.stl	(similarity = 0.186)
+11
+Neighborhood Match Score:  0.6200476778974993 
+
+Signature Match Score: 0.6174304735807336 Neighborhood Match Score: 0.6200476778974993
+60 2 ./benchmarks/FabWave/Bolts/62faa507-382b-473e-b63f-ef0a14d11ab9-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Bolts/62faa507-382b-473e-b63f-ef0a14d11ab9-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Bolts/62faa507-382b-473e-b63f-ef0a14d11ab9-ascii.stl	(similarity = 0.595)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew37-ascii.stl	(similarity = 0.111)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew96-ascii.stl	(similarity = 0.111)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew46-ascii.stl	(similarity = 0.1)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew91-ascii.stl	(similarity = 0.092)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew55-ascii.stl	(similarity = 0.089)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew16-ascii.stl	(similarity = 0.088)
+	benchmarks/FabWave/Bolts/1eba09d4-653e-429b-b249-83c3d511c826-ascii.stl	(similarity = 0.051)
+	benchmarks/FabWave/Bolts/a6244b79-8794-479a-8811-c66d69ccda8f-ascii.stl	(similarity = 0.042)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew48-ascii.stl	(similarity = 0.027)
+11
+Signature Match Score:  0.7098215496909426 
+
+
+Files matched with ./benchmarks/FabWave/Bolts/62faa507-382b-473e-b63f-ef0a14d11ab9-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Bolts/62faa507-382b-473e-b63f-ef0a14d11ab9-ascii.stl	(similarity = 0.715)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew37-ascii.stl	(similarity = 0.357)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew46-ascii.stl	(similarity = 0.328)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew91-ascii.stl	(similarity = 0.321)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew55-ascii.stl	(similarity = 0.32)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew16-ascii.stl	(similarity = 0.304)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew96-ascii.stl	(similarity = 0.293)
+	benchmarks/FabWave/Bolts/1eba09d4-653e-429b-b249-83c3d511c826-ascii.stl	(similarity = 0.156)
+	benchmarks/FabWave/Bolts/a6244b79-8794-479a-8811-c66d69ccda8f-ascii.stl	(similarity = 0.147)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew48-ascii.stl	(similarity = 0.146)
+11
+Neighborhood Match Score:  0.7098215496909426 
+
+Signature Match Score: 0.7384783778275651 Neighborhood Match Score: 0.7384783778275651
+61 3 ./benchmarks/FabWave/Bolts/07b46ed1-3801-45ad-9f42-5adfffb4e1c7-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Bolts/07b46ed1-3801-45ad-9f42-5adfffb4e1c7-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Bolts/07b46ed1-3801-45ad-9f42-5adfffb4e1c7-ascii.stl	(similarity = 0.604)
+	benchmarks/FabWave/Bolts/634a2f17-872e-45d0-9650-faa70156afad-ascii.stl	(similarity = 0.169)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew56-ascii.stl	(similarity = 0.114)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew17-ascii.stl	(similarity = 0.111)
+	benchmarks/FabWave/Bolts/b8d3657b-a054-4c83-816c-9bce74c59724-ascii.stl	(similarity = 0.092)
+	benchmarks/FabWave/Gasket/05591b0d-c996-4a82-8965-140c11a0cba1-ascii.stl	(similarity = 0.083)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile101-ascii.stl	(similarity = 0.064)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew55-ascii.stl	(similarity = 0.036)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew34-ascii.stl	(similarity = 0.036)
+	benchmarks/FabWave/Brackets/bracket217-ascii.stl	(similarity = 0.033)
+11
+Signature Match Score:  0.6525883915296713 
+
+
+Files matched with ./benchmarks/FabWave/Bolts/07b46ed1-3801-45ad-9f42-5adfffb4e1c7-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Bolts/07b46ed1-3801-45ad-9f42-5adfffb4e1c7-ascii.stl	(similarity = 0.679)
+	benchmarks/FabWave/Bolts/634a2f17-872e-45d0-9650-faa70156afad-ascii.stl	(similarity = 0.373)
+	benchmarks/FabWave/Bolts/b8d3657b-a054-4c83-816c-9bce74c59724-ascii.stl	(similarity = 0.243)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew56-ascii.stl	(similarity = 0.225)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew17-ascii.stl	(similarity = 0.225)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile101-ascii.stl	(similarity = 0.223)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew30-ascii.stl	(similarity = 0.174)
+	benchmarks/FabWave/Gasket/05591b0d-c996-4a82-8965-140c11a0cba1-ascii.stl	(similarity = 0.166)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew8-ascii.stl	(similarity = 0.16)
+	benchmarks/FabWave/Bolts/4ced7e80-446c-42f1-bc05-5f1eb472198b-ascii.stl	(similarity = 0.145)
+11
+Neighborhood Match Score:  0.7228904594119157 
+
+Signature Match Score: 0.6525883915296713 Neighborhood Match Score: 0.7196880248299874
+70 1 ./benchmarks/FabWave/Brackets/bracket29-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Brackets/bracket29-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Brackets/bracket29-ascii.stl	(similarity = 0.662)
+	benchmarks/FabWave/Brackets/bracket219-ascii.stl	(similarity = 0.662)
+	benchmarks/FabWave/Brackets/bracket218-ascii.stl	(similarity = 0.19)
+	benchmarks/FabWave/Brackets/bracket28-ascii.stl	(similarity = 0.115)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew30-ascii.stl	(similarity = 0.1)
+	benchmarks/FabWave/Pipes/0a79f67b-2028-46e7-899d-7c134f29079f-ascii.stl	(similarity = 0.083)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile41-ascii.stl	(similarity = 0.079)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile77-ascii.stl	(similarity = 0.065)
+	benchmarks/FabWave/Brackets/bracket327-ascii.stl	(similarity = 0.055)
+	benchmarks/FabWave/Brackets/bracket321-ascii.stl	(similarity = 0.05)
+52
+Signature Match Score:  0.7240325509794224 
+
+
+Files matched with ./benchmarks/FabWave/Brackets/bracket29-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Brackets/bracket29-ascii.stl	(similarity = 0.742)
+	benchmarks/FabWave/Brackets/bracket219-ascii.stl	(similarity = 0.735)
+	benchmarks/FabWave/Brackets/bracket218-ascii.stl	(similarity = 0.437)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile42-ascii.stl	(similarity = 0.331)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew30-ascii.stl	(similarity = 0.318)
+	benchmarks/FabWave/Brackets/bracket28-ascii.stl	(similarity = 0.31)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew94-ascii.stl	(similarity = 0.309)
+	benchmarks/FabWave/Bolts/1eba09d4-653e-429b-b249-83c3d511c826-ascii.stl	(similarity = 0.264)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew1-ascii.stl	(similarity = 0.246)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew41-ascii.stl	(similarity = 0.189)
+52
+Neighborhood Match Score:  0.5922676309394679 
+
+Signature Match Score: 0.7240325509794224 Neighborhood Match Score: 0.5922676309394679
+71 2 ./benchmarks/FabWave/Brackets/bracket28-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Brackets/bracket28-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Brackets/bracket28-ascii.stl	(similarity = 0.539)
+	benchmarks/FabWave/Brackets/bracket218-ascii.stl	(similarity = 0.444)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew35-ascii.stl	(similarity = 0.115)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew31-ascii.stl	(similarity = 0.113)
+	benchmarks/FabWave/Pipes/1c73517f-eea9-44ef-9a0a-54618d258816-ascii.stl	(similarity = 0.101)
+	benchmarks/FabWave/Brackets/bracket29-ascii.stl	(similarity = 0.082)
+	benchmarks/FabWave/Brackets/bracket219-ascii.stl	(similarity = 0.082)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew93-ascii.stl	(similarity = 0.064)
+	benchmarks/FabWave/Pipes/263a8e36-91ce-4e57-a867-86c5b88cd925-ascii.stl	(similarity = 0.056)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew102-ascii.stl	(similarity = 0.048)
+52
+Signature Match Score:  0.5592221851541075 
+
+
+Files matched with ./benchmarks/FabWave/Brackets/bracket28-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Brackets/bracket28-ascii.stl	(similarity = 0.69)
+	benchmarks/FabWave/Brackets/bracket218-ascii.stl	(similarity = 0.599)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew31-ascii.stl	(similarity = 0.362)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew35-ascii.stl	(similarity = 0.358)
+	benchmarks/FabWave/Brackets/bracket29-ascii.stl	(similarity = 0.29)
+	benchmarks/FabWave/Brackets/bracket219-ascii.stl	(similarity = 0.29)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile46-ascii.stl	(similarity = 0.279)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew102-ascii.stl	(similarity = 0.253)
+	benchmarks/FabWave/Pipes/1c73517f-eea9-44ef-9a0a-54618d258816-ascii.stl	(similarity = 0.24)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew94-ascii.stl	(similarity = 0.214)
+52
+Neighborhood Match Score:  0.5698336343854138 
+
+Signature Match Score: 0.5592221851541075 Neighborhood Match Score: 0.5447392291559755
+72 3 ./benchmarks/FabWave/Brackets/bracket24-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Brackets/bracket24-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Brackets/bracket24-ascii.stl	(similarity = 0.501)
+	benchmarks/FabWave/Brackets/bracket215-ascii.stl	(similarity = 0.319)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew7-ascii.stl	(similarity = 0.204)
+	benchmarks/FabWave/Brackets/bracket23-ascii.stl	(similarity = 0.161)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew44-ascii.stl	(similarity = 0.143)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew41-ascii.stl	(similarity = 0.135)
+	benchmarks/FabWave/HeadlessScrews/68d49356-72be-42b7-b39e-9e95d4d7a269-ascii.stl	(similarity = 0.108)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew2-ascii.stl	(similarity = 0.079)
+	benchmarks/FabWave/HeadlessScrews/257e04d0-c8f6-4425-b66c-ef247a992e36-ascii.stl	(similarity = 0.066)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew31-ascii.stl	(similarity = 0.062)
+52
+Signature Match Score:  0.5078965349432314 
+
+
+Files matched with ./benchmarks/FabWave/Brackets/bracket24-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Brackets/bracket24-ascii.stl	(similarity = 0.65)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew7-ascii.stl	(similarity = 0.508)
+	benchmarks/FabWave/Brackets/bracket215-ascii.stl	(similarity = 0.504)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew44-ascii.stl	(similarity = 0.399)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew41-ascii.stl	(similarity = 0.36)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew31-ascii.stl	(similarity = 0.352)
+	benchmarks/FabWave/Brackets/bracket23-ascii.stl	(similarity = 0.306)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew41-ascii.stl	(similarity = 0.3)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew82-ascii.stl	(similarity = 0.277)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew27-ascii.stl	(similarity = 0.173)
+52
+Neighborhood Match Score:  0.4626362409950461 
+
+Signature Match Score: 0.5078965349432314 Neighborhood Match Score: 0.4626362409950461
+122 1 ./benchmarks/FabWave/Bushing/14d00ff9-5203-49be-bbc6-ea8bc0304963-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Bushing/14d00ff9-5203-49be-bbc6-ea8bc0304963-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Bushing/7c9f0294-8877-4906-9a4e-bccc88ca3b24-ascii.stl	(similarity = 0.45)
+	benchmarks/FabWave/Bushing/88ca4bcc-c73a-4f87-bbd7-ae1de5cc76ab-ascii.stl	(similarity = 0.448)
+	benchmarks/FabWave/Bushing/4e5b6bf8-3ace-43b8-8fed-addfb4cb53ba-ascii.stl	(similarity = 0.447)
+	benchmarks/FabWave/Bushing/ffd313c3-c110-4aed-b804-fcfa83cc28eb-ascii.stl	(similarity = 0.433)
+	benchmarks/FabWave/Bushing/d3a742fc-2515-4ff8-9519-30d1660285c5-ascii.stl	(similarity = 0.418)
+	benchmarks/FabWave/Bushing/14d00ff9-5203-49be-bbc6-ea8bc0304963-ascii.stl	(similarity = 0.417)
+	benchmarks/FabWave/Bushing/a63a3248-b78e-483c-9a8f-bc46cee7fb7b-ascii.stl	(similarity = 0.36)
+	benchmarks/FabWave/Bushing/cb537ec4-f22f-44f5-b466-2e517269a21f-ascii.stl	(similarity = 0.331)
+	benchmarks/FabWave/Bushing/3621562a-312b-4aef-8a38-3b531966d4d6-ascii.stl	(similarity = 0.296)
+	benchmarks/FabWave/Bushing/fb3bde80-bb8a-4758-b5ba-6fe36cc1e3ae-ascii.stl	(similarity = 0.296)
+310
+Signature Match Score:  0.9361767385144449 
+
+
+Files matched with ./benchmarks/FabWave/Bushing/14d00ff9-5203-49be-bbc6-ea8bc0304963-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Bushing/993eeb18-187d-4522-bacf-177cc245e3b5-ascii.stl	(similarity = 0.755)
+	benchmarks/FabWave/Bushing/cb537ec4-f22f-44f5-b466-2e517269a21f-ascii.stl	(similarity = 0.709)
+	benchmarks/FabWave/Bushing/bdfd4f96-530e-42d4-ac4d-e8e2fa3a22d6-ascii.stl	(similarity = 0.701)
+	benchmarks/FabWave/Bushing/ffd313c3-c110-4aed-b804-fcfa83cc28eb-ascii.stl	(similarity = 0.681)
+	benchmarks/FabWave/Bushing/7c0e8abf-94af-403e-838d-e01fa9cc2bda-ascii.stl	(similarity = 0.681)
+	benchmarks/FabWave/Bushing/88519bea-231d-44fe-99ef-29da10bfc59a-ascii.stl	(similarity = 0.675)
+	benchmarks/FabWave/Bushing/3621562a-312b-4aef-8a38-3b531966d4d6-ascii.stl	(similarity = 0.667)
+	benchmarks/FabWave/Bushing/111977d0-1e49-4ad2-b8e5-76f6ee003fc8-ascii.stl	(similarity = 0.662)
+	benchmarks/FabWave/Bushing/fb3bde80-bb8a-4758-b5ba-6fe36cc1e3ae-ascii.stl	(similarity = 0.435)
+	benchmarks/FabWave/Bushing/d3a742fc-2515-4ff8-9519-30d1660285c5-ascii.stl	(similarity = 0.313)
+310
+Neighborhood Match Score:  0.9008636626439187 
+
+Signature Match Score: 0.9361767385144449 Neighborhood Match Score: 0.9008636626439187
+123 2 ./benchmarks/FabWave/Bushing/cea9fa5c-6bc0-4ff7-90ba-33f64c7dfe18-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Bushing/cea9fa5c-6bc0-4ff7-90ba-33f64c7dfe18-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Bushing/ea55c19d-f083-45dd-9712-93a2484d571d-ascii.stl	(similarity = 0.394)
+	benchmarks/FabWave/Bushing/9f4c5e4e-3a39-43ee-8ebf-56f955a0bde0-ascii.stl	(similarity = 0.392)
+	benchmarks/FabWave/Bushing/e49ccbf2-9881-4d9e-a207-c5a005115401-ascii.stl	(similarity = 0.391)
+	benchmarks/FabWave/Bushing/dc7fc219-cddd-4411-9c66-a6ccc1accb20-ascii.stl	(similarity = 0.378)
+	benchmarks/FabWave/Bushing/87367f46-4e9f-4eba-a3df-81bea3ac52eb-ascii.stl	(similarity = 0.378)
+	benchmarks/FabWave/Bushing/5e189cb4-630a-47a4-96df-e07dee81e46f-ascii.stl	(similarity = 0.373)
+	benchmarks/FabWave/Bushing/cea9fa5c-6bc0-4ff7-90ba-33f64c7dfe18-ascii.stl	(similarity = 0.359)
+	benchmarks/FabWave/Bushing/2a6e0c19-7c19-4ddf-8afc-23fd6de768d5-ascii.stl	(similarity = 0.318)
+	benchmarks/FabWave/Bushing/f038c987-aa4b-40d9-838f-ab9a7a2a5c5c-ascii.stl	(similarity = 0.115)
+	benchmarks/FabWave/Bushing/6c4e7767-78d9-4a65-b2a6-2369229947d5-ascii.stl	(similarity = 0.111)
+310
+Signature Match Score:  0.933909108429279 
+
+
+Files matched with ./benchmarks/FabWave/Bushing/cea9fa5c-6bc0-4ff7-90ba-33f64c7dfe18-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Bushing/e49ccbf2-9881-4d9e-a207-c5a005115401-ascii.stl	(similarity = 0.694)
+	benchmarks/FabWave/Bushing/dc7fc219-cddd-4411-9c66-a6ccc1accb20-ascii.stl	(similarity = 0.637)
+	benchmarks/FabWave/Bushing/87367f46-4e9f-4eba-a3df-81bea3ac52eb-ascii.stl	(similarity = 0.631)
+	benchmarks/FabWave/Bushing/9f4c5e4e-3a39-43ee-8ebf-56f955a0bde0-ascii.stl	(similarity = 0.607)
+	benchmarks/FabWave/Bushing/ea55c19d-f083-45dd-9712-93a2484d571d-ascii.stl	(similarity = 0.606)
+	benchmarks/FabWave/Bushing/2a6e0c19-7c19-4ddf-8afc-23fd6de768d5-ascii.stl	(similarity = 0.605)
+	benchmarks/FabWave/Bushing/cea9fa5c-6bc0-4ff7-90ba-33f64c7dfe18-ascii.stl	(similarity = 0.596)
+	benchmarks/FabWave/Bushing/5e189cb4-630a-47a4-96df-e07dee81e46f-ascii.stl	(similarity = 0.549)
+	benchmarks/FabWave/Bushing/f038c987-aa4b-40d9-838f-ab9a7a2a5c5c-ascii.stl	(similarity = 0.46)
+	benchmarks/FabWave/Bushing/6c4e7767-78d9-4a65-b2a6-2369229947d5-ascii.stl	(similarity = 0.254)
+310
+Neighborhood Match Score:  0.933909108429279 
+
+Signature Match Score: 0.933909108429279 Neighborhood Match Score: 0.933909108429279
+124 3 ./benchmarks/FabWave/Bushing/9bc2d838-3364-4e19-9a08-7b345b3d926b-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Bushing/9bc2d838-3364-4e19-9a08-7b345b3d926b-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Bushing/9bc2d838-3364-4e19-9a08-7b345b3d926b-ascii.stl	(similarity = 0.53)
+	benchmarks/FabWave/Thumb_Screws/dca1eebf-ef6b-47e9-8948-a7c4d2db48b2-ascii.stl	(similarity = 0.186)
+	benchmarks/FabWave/Thumb_Screws/f4004b46-ef04-488d-8ffe-5ae08bfef291-ascii.stl	(similarity = 0.123)
+	benchmarks/FabWave/Thumb_Screws/5f0291f4-5d2e-4ed1-ad98-f67bc33980b4-ascii.stl	(similarity = 0.122)
+	benchmarks/FabWave/Thumb_Screws/4265df48-abfd-4c97-aaa1-3583c62e08d1-ascii.stl	(similarity = 0.112)
+	benchmarks/FabWave/Thumb_Screws/8bcb470e-ab9a-4fb0-9faf-279559583a12-ascii.stl	(similarity = 0.072)
+	benchmarks/FabWave/Thumb_Screws/6315bf89-1bd9-4f33-be3d-49e2376918be-ascii.stl	(similarity = 0.064)
+	benchmarks/FabWave/Thumb_Screws/0b14dd84-1720-48b1-96a7-4b9c23180bfe-ascii.stl	(similarity = 0.041)
+	benchmarks/FabWave/Bushing/fa76768c-89c3-4a18-be09-b15f4ac60fcf-ascii.stl	(similarity = 0.035)
+	benchmarks/FabWave/Thumb_Screws/ba4988f2-c506-4d3c-8e4f-eb0be222909e-ascii.stl	(similarity = 0.034)
+310
+Signature Match Score:  0.6785475172375541 
+
+
+Files matched with ./benchmarks/FabWave/Bushing/9bc2d838-3364-4e19-9a08-7b345b3d926b-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Bushing/9bc2d838-3364-4e19-9a08-7b345b3d926b-ascii.stl	(similarity = 0.644)
+	benchmarks/FabWave/Thumb_Screws/dca1eebf-ef6b-47e9-8948-a7c4d2db48b2-ascii.stl	(similarity = 0.344)
+	benchmarks/FabWave/Thumb_Screws/f4004b46-ef04-488d-8ffe-5ae08bfef291-ascii.stl	(similarity = 0.289)
+	benchmarks/FabWave/Thumb_Screws/5f0291f4-5d2e-4ed1-ad98-f67bc33980b4-ascii.stl	(similarity = 0.279)
+	benchmarks/FabWave/Thumb_Screws/4265df48-abfd-4c97-aaa1-3583c62e08d1-ascii.stl	(similarity = 0.274)
+	benchmarks/FabWave/Thumb_Screws/8bcb470e-ab9a-4fb0-9faf-279559583a12-ascii.stl	(similarity = 0.227)
+	benchmarks/FabWave/Thumb_Screws/6315bf89-1bd9-4f33-be3d-49e2376918be-ascii.stl	(similarity = 0.226)
+	benchmarks/FabWave/Bushing/1df82d9f-1e2c-4fcf-881f-c4efa1f023fd-ascii.stl	(similarity = 0.158)
+	benchmarks/FabWave/Bushing/b588221f-dbd1-4f58-a59d-2908a1dd9c38-ascii.stl	(similarity = 0.144)
+	benchmarks/FabWave/Bushing/fa76768c-89c3-4a18-be09-b15f4ac60fcf-ascii.stl	(similarity = 0.127)
+310
+Neighborhood Match Score:  0.7384783778275651 
+
+Signature Match Score: 0.6174304735807336 Neighborhood Match Score: 0.7098215496909426
+432 1 ./benchmarks/FabWave/Bushing_Damping_Liners/design11-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Bushing_Damping_Liners/design11-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Bushing_Damping_Liners/design11-ascii.stl	(similarity = 0.586)
+	benchmarks/FabWave/Bushing_Damping_Liners/design7-ascii.stl	(similarity = 0.568)
+	benchmarks/FabWave/Bushing_Damping_Liners/design6-ascii.stl	(similarity = 0.555)
+	benchmarks/FabWave/Bushing_Damping_Liners/design9-ascii.stl	(similarity = 0.551)
+	benchmarks/FabWave/Bushing_Damping_Liners/design5-ascii.stl	(similarity = 0.541)
+	benchmarks/FabWave/Bushing_Damping_Liners/design10-ascii.stl	(similarity = 0.533)
+	benchmarks/FabWave/Bushing_Damping_Liners/design4-ascii.stl	(similarity = 0.506)
+	benchmarks/FabWave/Bushing_Damping_Liners/design8-ascii.stl	(similarity = 0.488)
+	benchmarks/FabWave/Bushing_Damping_Liners/design2-ascii.stl	(similarity = 0.445)
+	benchmarks/FabWave/Bushing_Damping_Liners/design3-ascii.stl	(similarity = 0.434)
+13
+Signature Match Score:  1.0 
+
+
+Files matched with ./benchmarks/FabWave/Bushing_Damping_Liners/design11-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Bushing_Damping_Liners/design7-ascii.stl	(similarity = 0.861)
+	benchmarks/FabWave/Bushing_Damping_Liners/design6-ascii.stl	(similarity = 0.821)
+	benchmarks/FabWave/Bushing_Damping_Liners/design3-ascii.stl	(similarity = 0.801)
+	benchmarks/FabWave/Bushing_Damping_Liners/design9-ascii.stl	(similarity = 0.799)
+	benchmarks/FabWave/Bushing_Damping_Liners/design5-ascii.stl	(similarity = 0.794)
+	benchmarks/FabWave/Bushing_Damping_Liners/design4-ascii.stl	(similarity = 0.792)
+	benchmarks/FabWave/Bushing_Damping_Liners/design11-ascii.stl	(similarity = 0.78)
+	benchmarks/FabWave/Bushing_Damping_Liners/design10-ascii.stl	(similarity = 0.718)
+	benchmarks/FabWave/Bushing_Damping_Liners/design2-ascii.stl	(similarity = 0.641)
+	benchmarks/FabWave/Bushing_Damping_Liners/design8-ascii.stl	(similarity = 0.616)
+13
+Neighborhood Match Score:  0.933909108429279 
+
+Signature Match Score: 1.0 Neighborhood Match Score: 0.933909108429279
+433 2 ./benchmarks/FabWave/Bushing_Damping_Liners/design7-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Bushing_Damping_Liners/design7-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Bushing_Damping_Liners/design7-ascii.stl	(similarity = 0.629)
+	benchmarks/FabWave/Bushing_Damping_Liners/design6-ascii.stl	(similarity = 0.62)
+	benchmarks/FabWave/Bushing_Damping_Liners/design5-ascii.stl	(similarity = 0.578)
+	benchmarks/FabWave/Bushing_Damping_Liners/design4-ascii.stl	(similarity = 0.54)
+	benchmarks/FabWave/Bushing_Damping_Liners/design11-ascii.stl	(similarity = 0.505)
+	benchmarks/FabWave/Bushing_Damping_Liners/design9-ascii.stl	(similarity = 0.497)
+	benchmarks/FabWave/Bushing_Damping_Liners/design2-ascii.stl	(similarity = 0.488)
+	benchmarks/FabWave/Bushing_Damping_Liners/design8-ascii.stl	(similarity = 0.481)
+	benchmarks/FabWave/Bushing_Damping_Liners/design3-ascii.stl	(similarity = 0.478)
+	benchmarks/FabWave/Bushing_Damping_Liners/design10-ascii.stl	(similarity = 0.465)
+13
+Signature Match Score:  1.0 
+
+
+Files matched with ./benchmarks/FabWave/Bushing_Damping_Liners/design7-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Bushing_Damping_Liners/design7-ascii.stl	(similarity = 0.887)
+	benchmarks/FabWave/Bushing_Damping_Liners/design6-ascii.stl	(similarity = 0.856)
+	benchmarks/FabWave/Bushing_Damping_Liners/design5-ascii.stl	(similarity = 0.817)
+	benchmarks/FabWave/Bushing_Damping_Liners/design4-ascii.stl	(similarity = 0.816)
+	benchmarks/FabWave/Bushing_Damping_Liners/design3-ascii.stl	(similarity = 0.813)
+	benchmarks/FabWave/Bushing_Damping_Liners/design9-ascii.stl	(similarity = 0.766)
+	benchmarks/FabWave/Bushing_Damping_Liners/design11-ascii.stl	(similarity = 0.72)
+	benchmarks/FabWave/Bushing_Damping_Liners/design2-ascii.stl	(similarity = 0.695)
+	benchmarks/FabWave/Bushing_Damping_Liners/design10-ascii.stl	(similarity = 0.666)
+	benchmarks/FabWave/Bushing_Damping_Liners/design8-ascii.stl	(similarity = 0.574)
+13
+Neighborhood Match Score:  1.0 
+
+Signature Match Score: 1.0 Neighborhood Match Score: 1.0
+434 3 ./benchmarks/FabWave/Bushing_Damping_Liners/design3-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Bushing_Damping_Liners/design3-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Bushing_Damping_Liners/design4-ascii.stl	(similarity = 0.686)
+	benchmarks/FabWave/Bushing_Damping_Liners/design3-ascii.stl	(similarity = 0.654)
+	benchmarks/FabWave/Bushing_Damping_Liners/design5-ascii.stl	(similarity = 0.643)
+	benchmarks/FabWave/Bushing_Damping_Liners/design2-ascii.stl	(similarity = 0.634)
+	benchmarks/FabWave/Bushing_Damping_Liners/design1-ascii.stl	(similarity = 0.561)
+	benchmarks/FabWave/Bushing_Damping_Liners/design6-ascii.stl	(similarity = 0.546)
+	benchmarks/FabWave/Bushing_Damping_Liners/design0-ascii.stl	(similarity = 0.518)
+	benchmarks/FabWave/Bushing_Damping_Liners/design7-ascii.stl	(similarity = 0.498)
+	benchmarks/FabWave/Bushing_Damping_Liners/design8-ascii.stl	(similarity = 0.422)
+	benchmarks/FabWave/Bushing_Damping_Liners/design9-ascii.stl	(similarity = 0.323)
+13
+Signature Match Score:  0.9634117275309637 
+
+
+Files matched with ./benchmarks/FabWave/Bushing_Damping_Liners/design3-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Bushing_Damping_Liners/design3-ascii.stl	(similarity = 0.914)
+	benchmarks/FabWave/Bushing_Damping_Liners/design4-ascii.stl	(similarity = 0.906)
+	benchmarks/FabWave/Bushing_Damping_Liners/design5-ascii.stl	(similarity = 0.862)
+	benchmarks/FabWave/Bushing_Damping_Liners/design2-ascii.stl	(similarity = 0.826)
+	benchmarks/FabWave/Bushing_Damping_Liners/design6-ascii.stl	(similarity = 0.819)
+	benchmarks/FabWave/Bushing_Damping_Liners/design7-ascii.stl	(similarity = 0.801)
+	benchmarks/FabWave/Bushing_Damping_Liners/design1-ascii.stl	(similarity = 0.788)
+	benchmarks/FabWave/Bushing_Damping_Liners/design9-ascii.stl	(similarity = 0.663)
+	benchmarks/FabWave/Bushing_Damping_Liners/design0-ascii.stl	(similarity = 0.646)
+	benchmarks/FabWave/Bushing_Damping_Liners/design11-ascii.stl	(similarity = 0.451)
+13
+Neighborhood Match Score:  1.0 
+
+Signature Match Score: 0.9634117275309637 Neighborhood Match Score: 1.0
+445 1 ./benchmarks/FabWave/Collets/0c329c36-2151-4bf8-b70e-a4ffd91c4e7e-ascii-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Collets/0c329c36-2151-4bf8-b70e-a4ffd91c4e7e-ascii-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Collets/0c329c36-2151-4bf8-b70e-a4ffd91c4e7e-ascii-ascii.stl	(similarity = 0.451)
+	benchmarks/FabWave/Collets/1a452844-7d2d-47b2-b6d6-8f65a9f9bd9d-ascii-ascii.stl	(similarity = 0.279)
+	benchmarks/FabWave/Collets/25bfc5eb-8e30-4b74-bf47-57ab469e9436-ascii-ascii.stl	(similarity = 0.239)
+	benchmarks/FabWave/Collets/c3e26ecd-7d05-4c4e-8ad3-c82c1f860c1d-ascii-ascii.stl	(similarity = 0.218)
+	benchmarks/FabWave/Collets/a370746f-1593-49fb-94f4-d50887ee02c5-ascii-ascii.stl	(similarity = 0.176)
+	benchmarks/FabWave/Collets/788eca98-c0ba-4a64-8ef6-e89eb060fd22-ascii-ascii.stl	(similarity = 0.173)
+	benchmarks/FabWave/Collets/2e24b0c1-3c48-4436-9f5c-e121eaffe053-ascii-ascii.stl	(similarity = 0.161)
+	benchmarks/FabWave/Collets/65e37178-cb36-4082-80e9-838b8fe801c2-ascii-ascii.stl	(similarity = 0.137)
+	benchmarks/FabWave/Collets/51c59ad5-d0fe-4ab4-9827-9a3c7210167c-ascii-ascii.stl	(similarity = 0.132)
+	benchmarks/FabWave/Collets/273bd600-06fa-42fd-9e10-88cbe7291b38-ascii-ascii.stl	(similarity = 0.103)
+70
+Signature Match Score:  1.0 
+
+
+Files matched with ./benchmarks/FabWave/Collets/0c329c36-2151-4bf8-b70e-a4ffd91c4e7e-ascii-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Collets/0c329c36-2151-4bf8-b70e-a4ffd91c4e7e-ascii-ascii.stl	(similarity = 0.674)
+	benchmarks/FabWave/Collets/1a452844-7d2d-47b2-b6d6-8f65a9f9bd9d-ascii-ascii.stl	(similarity = 0.504)
+	benchmarks/FabWave/Collets/81c55a49-de01-43aa-a18d-08e87eca200f-ascii-ascii.stl	(similarity = 0.44)
+	benchmarks/FabWave/Collets/25bfc5eb-8e30-4b74-bf47-57ab469e9436-ascii-ascii.stl	(similarity = 0.372)
+	benchmarks/FabWave/Collets/2e24b0c1-3c48-4436-9f5c-e121eaffe053-ascii-ascii.stl	(similarity = 0.358)
+	benchmarks/FabWave/Collets/c3e26ecd-7d05-4c4e-8ad3-c82c1f860c1d-ascii-ascii.stl	(similarity = 0.351)
+	benchmarks/FabWave/Collets/bae75409-db33-42dd-a1fb-e854b86acb32-ascii-ascii.stl	(similarity = 0.33)
+	benchmarks/FabWave/Collets/788eca98-c0ba-4a64-8ef6-e89eb060fd22-ascii-ascii.stl	(similarity = 0.309)
+	benchmarks/FabWave/Collets/99b954c3-13b4-445b-b822-4659ac543758-ascii-ascii.stl	(similarity = 0.284)
+	benchmarks/FabWave/Collets/51c59ad5-d0fe-4ab4-9827-9a3c7210167c-ascii-ascii.stl	(similarity = 0.268)
+70
+Neighborhood Match Score:  1.0 
+
+Signature Match Score: 1.0 Neighborhood Match Score: 1.0
+446 2 ./benchmarks/FabWave/Collets/902a1e8c-19dd-40d1-aaf8-87edc1014ba5-ascii-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Collets/902a1e8c-19dd-40d1-aaf8-87edc1014ba5-ascii-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Collets/902a1e8c-19dd-40d1-aaf8-87edc1014ba5-ascii-ascii.stl	(similarity = 0.446)
+	benchmarks/FabWave/Collets/4e9f74fa-f1b4-4508-8220-223f7f8b808b-ascii-ascii.stl	(similarity = 0.145)
+	benchmarks/FabWave/Collets/b255a8b1-d88f-40b3-a7db-63d54e10df1c-ascii-ascii.stl	(similarity = 0.144)
+	benchmarks/FabWave/Collets/d295bec5-affd-4502-acf1-519fadc2cd4e-ascii-ascii.stl	(similarity = 0.135)
+	benchmarks/FabWave/Collets/6b20aba9-4dc1-4cc8-bea6-f6cb7314cbbc-ascii-ascii.stl	(similarity = 0.113)
+	benchmarks/FabWave/Collets/fae25c9f-f701-4c6d-8cd5-0a49e421571a-ascii-ascii.stl	(similarity = 0.111)
+	benchmarks/FabWave/Collets/bae75409-db33-42dd-a1fb-e854b86acb32-ascii-ascii.stl	(similarity = 0.109)
+	benchmarks/FabWave/Collets/ff5435b5-5908-4702-84c4-385452c4f2b5-ascii-ascii.stl	(similarity = 0.086)
+	benchmarks/FabWave/Collets/1f364bf7-1d4f-44cc-8bb6-22adb969d64a-ascii-ascii.stl	(similarity = 0.07)
+	benchmarks/FabWave/Collets/4006e532-357d-4f38-9b6a-0d39f9ffe458-ascii-ascii.stl	(similarity = 0.069)
+70
+Signature Match Score:  1.0 
+
+
+Files matched with ./benchmarks/FabWave/Collets/902a1e8c-19dd-40d1-aaf8-87edc1014ba5-ascii-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Collets/902a1e8c-19dd-40d1-aaf8-87edc1014ba5-ascii-ascii.stl	(similarity = 0.646)
+	benchmarks/FabWave/Collets/d295bec5-affd-4502-acf1-519fadc2cd4e-ascii-ascii.stl	(similarity = 0.367)
+	benchmarks/FabWave/Collets/4e9f74fa-f1b4-4508-8220-223f7f8b808b-ascii-ascii.stl	(similarity = 0.354)
+	benchmarks/FabWave/Collets/b255a8b1-d88f-40b3-a7db-63d54e10df1c-ascii-ascii.stl	(similarity = 0.352)
+	benchmarks/FabWave/Collets/25bfc5eb-8e30-4b74-bf47-57ab469e9436-ascii-ascii.stl	(similarity = 0.335)
+	benchmarks/FabWave/Collets/bae75409-db33-42dd-a1fb-e854b86acb32-ascii-ascii.stl	(similarity = 0.326)
+	benchmarks/FabWave/Collets/fae25c9f-f701-4c6d-8cd5-0a49e421571a-ascii-ascii.stl	(similarity = 0.249)
+	benchmarks/FabWave/Collets/2c3b6dfa-ce4b-4e40-a86f-ddf460a760d0-ascii-ascii.stl	(similarity = 0.248)
+	benchmarks/FabWave/Collets/ff5435b5-5908-4702-84c4-385452c4f2b5-ascii-ascii.stl	(similarity = 0.227)
+	benchmarks/FabWave/Collets/b3240d22-a73f-4397-8ab4-a3b5f6639f03-ascii-ascii.stl	(similarity = 0.217)
+70
+Neighborhood Match Score:  1.0 
+
+Signature Match Score: 1.0 Neighborhood Match Score: 1.0
+447 3 ./benchmarks/FabWave/Collets/b3240d22-a73f-4397-8ab4-a3b5f6639f03-ascii-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Collets/b3240d22-a73f-4397-8ab4-a3b5f6639f03-ascii-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Collets/b3240d22-a73f-4397-8ab4-a3b5f6639f03-ascii-ascii.stl	(similarity = 0.484)
+	benchmarks/FabWave/Collets/55837612-d2a3-4a7c-a325-9588cfc61c90-ascii-ascii.stl	(similarity = 0.314)
+	benchmarks/FabWave/Collets/8c74b359-caef-471c-9231-b6285fecd1ca-ascii-ascii.stl	(similarity = 0.3)
+	benchmarks/FabWave/Collets/e386e6ae-3aac-48e8-a24c-9cb5803313e9-ascii-ascii.stl	(similarity = 0.287)
+	benchmarks/FabWave/Collets/3c319516-239d-467d-a2c8-60a8020b351b-ascii-ascii.stl	(similarity = 0.277)
+	benchmarks/FabWave/Collets/707b49f2-081e-4dec-8338-e9720d89d5c0-ascii-ascii.stl	(similarity = 0.272)
+	benchmarks/FabWave/Collets/79116ccf-6ccc-4875-8f63-46c372c09027-ascii-ascii.stl	(similarity = 0.244)
+	benchmarks/FabWave/Collets/e18ad01d-06a5-4517-980b-68ea93fe44f9-ascii-ascii.stl	(similarity = 0.231)
+	benchmarks/FabWave/Collets/3ce6b1e5-5e41-40e8-9e4e-16bcfeb63de8-ascii-ascii.stl	(similarity = 0.207)
+	benchmarks/FabWave/Collets/25ee9e78-6aa4-4f2a-bb0f-e35c03d02242-ascii-ascii.stl	(similarity = 0.187)
+70
+Signature Match Score:  1.0 
+
+
+Files matched with ./benchmarks/FabWave/Collets/b3240d22-a73f-4397-8ab4-a3b5f6639f03-ascii-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Collets/b3240d22-a73f-4397-8ab4-a3b5f6639f03-ascii-ascii.stl	(similarity = 0.776)
+	benchmarks/FabWave/Collets/55837612-d2a3-4a7c-a325-9588cfc61c90-ascii-ascii.stl	(similarity = 0.625)
+	benchmarks/FabWave/Collets/e386e6ae-3aac-48e8-a24c-9cb5803313e9-ascii-ascii.stl	(similarity = 0.605)
+	benchmarks/FabWave/Collets/c4b1f149-bed6-4c75-b0a8-9e96f6cc637e-ascii-ascii.stl	(similarity = 0.582)
+	benchmarks/FabWave/Collets/3ce6b1e5-5e41-40e8-9e4e-16bcfeb63de8-ascii-ascii.stl	(similarity = 0.522)
+	benchmarks/FabWave/Collets/707b49f2-081e-4dec-8338-e9720d89d5c0-ascii-ascii.stl	(similarity = 0.512)
+	benchmarks/FabWave/Collets/3c319516-239d-467d-a2c8-60a8020b351b-ascii-ascii.stl	(similarity = 0.492)
+	benchmarks/FabWave/Collets/79116ccf-6ccc-4875-8f63-46c372c09027-ascii-ascii.stl	(similarity = 0.398)
+	benchmarks/FabWave/Collets/8364d728-36ad-4281-856e-ec577f2e97da-ascii-ascii.stl	(similarity = 0.382)
+	benchmarks/FabWave/Collets/8c74b359-caef-471c-9231-b6285fecd1ca-ascii-ascii.stl	(similarity = 0.349)
+70
+Neighborhood Match Score:  1.0 
+
+Signature Match Score: 1.0 Neighborhood Match Score: 1.0
+515 1 ./benchmarks/FabWave/Gasket/fc9acb2c-d4ec-45fb-a046-6eef52a59048-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Gasket/fc9acb2c-d4ec-45fb-a046-6eef52a59048-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Gasket/fc9acb2c-d4ec-45fb-a046-6eef52a59048-ascii.stl	(similarity = 0.474)
+	benchmarks/FabWave/Gasket/8fd02f58-e80b-42ea-8483-68a68703e444-ascii.stl	(similarity = 0.189)
+	benchmarks/FabWave/Gasket/03486359-ec07-4a27-b50c-e70b9be93083-ascii.stl	(similarity = 0.158)
+	benchmarks/FabWave/Gasket/f8b183ad-fe74-4dce-ab96-203cfc87cced-ascii.stl	(similarity = 0.157)
+	benchmarks/FabWave/Gasket/6a5b900c-d2c3-43bd-953a-5ff087719e4c-ascii.stl	(similarity = 0.153)
+	benchmarks/FabWave/Gasket/ed788f4e-9271-46e7-8ed0-065e344e6ad0-ascii.stl	(similarity = 0.152)
+	benchmarks/FabWave/Gasket/05b13c16-55fd-46cf-a89b-0f4093ab607f-ascii.stl	(similarity = 0.113)
+	benchmarks/FabWave/Gasket/1bc015b5-adcb-4633-9469-3dfa9d96a3ce-ascii.stl	(similarity = 0.106)
+	benchmarks/FabWave/Gasket/513cb494-915e-4e51-b2af-1dcf3b063d4c-ascii.stl	(similarity = 0.084)
+	benchmarks/FabWave/Gasket/68fb5e79-63b6-4781-b84a-5d5159729ee3-ascii.stl	(similarity = 0.061)
+73
+Signature Match Score:  1.0 
+
+
+Files matched with ./benchmarks/FabWave/Gasket/fc9acb2c-d4ec-45fb-a046-6eef52a59048-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Gasket/fc9acb2c-d4ec-45fb-a046-6eef52a59048-ascii.stl	(similarity = 0.631)
+	benchmarks/FabWave/Gasket/8fd02f58-e80b-42ea-8483-68a68703e444-ascii.stl	(similarity = 0.458)
+	benchmarks/FabWave/Gasket/03486359-ec07-4a27-b50c-e70b9be93083-ascii.stl	(similarity = 0.396)
+	benchmarks/FabWave/Gasket/f8b183ad-fe74-4dce-ab96-203cfc87cced-ascii.stl	(similarity = 0.388)
+	benchmarks/FabWave/Gasket/6a5b900c-d2c3-43bd-953a-5ff087719e4c-ascii.stl	(similarity = 0.382)
+	benchmarks/FabWave/Gasket/1bc015b5-adcb-4633-9469-3dfa9d96a3ce-ascii.stl	(similarity = 0.34)
+	benchmarks/FabWave/Gasket/ed788f4e-9271-46e7-8ed0-065e344e6ad0-ascii.stl	(similarity = 0.336)
+	benchmarks/FabWave/Gasket/05b13c16-55fd-46cf-a89b-0f4093ab607f-ascii.stl	(similarity = 0.3)
+	benchmarks/FabWave/Gasket/513cb494-915e-4e51-b2af-1dcf3b063d4c-ascii.stl	(similarity = 0.291)
+	benchmarks/FabWave/Gasket/5adf29c6-2d81-404e-a68f-4d4cfe9e12f0-ascii.stl	(similarity = 0.234)
+73
+Neighborhood Match Score:  1.0 
+
+Signature Match Score: 1.0 Neighborhood Match Score: 1.0
+516 2 ./benchmarks/FabWave/Gasket/7b98e737-c908-46dd-98d7-e3db1afa0fff-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Gasket/7b98e737-c908-46dd-98d7-e3db1afa0fff-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Gasket/7b98e737-c908-46dd-98d7-e3db1afa0fff-ascii.stl	(similarity = 0.451)
+	benchmarks/FabWave/Gasket/bcbb8883-e1f4-4560-ae4d-9944e6a3f142-ascii.stl	(similarity = 0.188)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew35-ascii.stl	(similarity = 0.118)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew31-ascii.stl	(similarity = 0.112)
+	benchmarks/FabWave/HeadlessScrews/3216036b-1eb0-4d4b-855c-c03220fc649c-ascii.stl	(similarity = 0.106)
+	benchmarks/FabWave/Pipes/1b318f88-7bd4-4e71-9327-2d910a149999-ascii.stl	(similarity = 0.104)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew18-ascii.stl	(similarity = 0.1)
+	benchmarks/FabWave/Brackets/bracket210-ascii.stl	(similarity = 0.076)
+	benchmarks/FabWave/Pipes/00830e1f-727c-4866-a456-657bcf05eefa-ascii.stl	(similarity = 0.075)
+	benchmarks/FabWave/Brackets/bracket28-ascii.stl	(similarity = 0.052)
+73
+Signature Match Score:  0.4225051418423341 
+
+
+Files matched with ./benchmarks/FabWave/Gasket/7b98e737-c908-46dd-98d7-e3db1afa0fff-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Gasket/7b98e737-c908-46dd-98d7-e3db1afa0fff-ascii.stl	(similarity = 0.519)
+	benchmarks/FabWave/Gasket/bcbb8883-e1f4-4560-ae4d-9944e6a3f142-ascii.stl	(similarity = 0.36)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew35-ascii.stl	(similarity = 0.35)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew31-ascii.stl	(similarity = 0.343)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew18-ascii.stl	(similarity = 0.29)
+	benchmarks/FabWave/HeadlessScrews/3216036b-1eb0-4d4b-855c-c03220fc649c-ascii.stl	(similarity = 0.267)
+	benchmarks/FabWave/Brackets/bracket28-ascii.stl	(similarity = 0.24)
+	benchmarks/FabWave/Brackets/bracket210-ascii.stl	(similarity = 0.233)
+	benchmarks/FabWave/Brackets/bracket218-ascii.stl	(similarity = 0.228)
+	benchmarks/FabWave/Pipes/1b318f88-7bd4-4e71-9327-2d910a149999-ascii.stl	(similarity = 0.218)
+73
+Neighborhood Match Score:  0.4225051418423341 
+
+Signature Match Score: 0.4225051418423341 Neighborhood Match Score: 0.4225051418423341
+517 3 ./benchmarks/FabWave/Gasket/8fd581a8-1b11-4838-98e2-8d65e498cc59-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Gasket/8fd581a8-1b11-4838-98e2-8d65e498cc59-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Gasket/8fd581a8-1b11-4838-98e2-8d65e498cc59-ascii.stl	(similarity = 0.5)
+	benchmarks/FabWave/Gasket/d920fbde-8297-499f-b876-d0062a130109-ascii.stl	(similarity = 0.244)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile48-ascii.stl	(similarity = 0.104)
+	benchmarks/FabWave/Gasket/682fe2ff-a86b-4927-99ea-d3a43934935a-ascii.stl	(similarity = 0.099)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew94-ascii.stl	(similarity = 0.076)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew32-ascii.stl	(similarity = 0.076)
+	benchmarks/FabWave/HeadlessScrews/1a360df4-13aa-4ace-a598-31b7e4d13048-ascii.stl	(similarity = 0.051)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew27-ascii.stl	(similarity = 0.048)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile83-ascii.stl	(similarity = 0.045)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile84-ascii.stl	(similarity = 0.043)
+73
+Signature Match Score:  0.5078965349432314 
+
+
+Files matched with ./benchmarks/FabWave/Gasket/8fd581a8-1b11-4838-98e2-8d65e498cc59-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Gasket/8fd581a8-1b11-4838-98e2-8d65e498cc59-ascii.stl	(similarity = 0.6)
+	benchmarks/FabWave/Gasket/d920fbde-8297-499f-b876-d0062a130109-ascii.stl	(similarity = 0.441)
+	benchmarks/FabWave/Gasket/682fe2ff-a86b-4927-99ea-d3a43934935a-ascii.stl	(similarity = 0.261)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew94-ascii.stl	(similarity = 0.26)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile48-ascii.stl	(similarity = 0.259)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew32-ascii.stl	(similarity = 0.253)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew47-ascii.stl	(similarity = 0.211)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew82-ascii.stl	(similarity = 0.211)
+	benchmarks/FabWave/Gasket/05591b0d-c996-4a82-8965-140c11a0cba1-ascii.stl	(similarity = 0.16)
+	benchmarks/FabWave/Gasket/03486359-ec07-4a27-b50c-e70b9be93083-ascii.stl	(similarity = 0.158)
+73
+Neighborhood Match Score:  0.6386411578785253 
+
+Signature Match Score: 0.5078965349432314 Neighborhood Match Score: 0.6386411578785253
+588 1 ./benchmarks/FabWave/Grommets/59ee7936-9485-47c0-9c30-2b9bf2a82356-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Grommets/59ee7936-9485-47c0-9c30-2b9bf2a82356-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Grommets/59ee7936-9485-47c0-9c30-2b9bf2a82356-ascii.stl	(similarity = 0.479)
+	benchmarks/FabWave/Grommets/14f7d0bb-a9f7-4f99-9158-4301a41e5498-ascii.stl	(similarity = 0.11)
+	benchmarks/FabWave/Washers/02ce143d-d1e0-4d84-8096-05c423a8e331-ascii.stl	(similarity = 0.101)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew31-ascii.stl	(similarity = 0.088)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew102-ascii.stl	(similarity = 0.087)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew14-ascii.stl	(similarity = 0.072)
+	benchmarks/FabWave/Nuts/59486acb-0d5b-4c10-a949-5b3bdc354fec-ascii.stl	(similarity = 0.046)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew35-ascii.stl	(similarity = 0.041)
+	benchmarks/FabWave/HeadlessScrews/3216036b-1eb0-4d4b-855c-c03220fc649c-ascii.stl	(similarity = 0.04)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew18-ascii.stl	(similarity = 0.039)
+202
+Signature Match Score:  0.4225051418423341 
+
+
+Files matched with ./benchmarks/FabWave/Grommets/59ee7936-9485-47c0-9c30-2b9bf2a82356-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Grommets/59ee7936-9485-47c0-9c30-2b9bf2a82356-ascii.stl	(similarity = 0.491)
+	benchmarks/FabWave/Grommets/14f7d0bb-a9f7-4f99-9158-4301a41e5498-ascii.stl	(similarity = 0.265)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew102-ascii.stl	(similarity = 0.263)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew31-ascii.stl	(similarity = 0.261)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew14-ascii.stl	(similarity = 0.234)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew35-ascii.stl	(similarity = 0.23)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew18-ascii.stl	(similarity = 0.204)
+	benchmarks/FabWave/HeadlessScrews/3216036b-1eb0-4d4b-855c-c03220fc649c-ascii.stl	(similarity = 0.199)
+	benchmarks/FabWave/Washers/02ce143d-d1e0-4d84-8096-05c423a8e331-ascii.stl	(similarity = 0.19)
+	benchmarks/FabWave/Washers/9d4304da-2a2e-4713-a5ab-75fb91721d82-ascii.stl	(similarity = 0.153)
+202
+Neighborhood Match Score:  0.4225051418423341 
+
+Signature Match Score: 0.4225051418423341 Neighborhood Match Score: 0.3965453494243252
+589 2 ./benchmarks/FabWave/Grommets/45815e1e-3eb2-437c-820e-43406c57b11e-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Grommets/45815e1e-3eb2-437c-820e-43406c57b11e-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Grommets/45815e1e-3eb2-437c-820e-43406c57b11e-ascii.stl	(similarity = 0.437)
+	benchmarks/FabWave/Grommets/6ff62dd9-ec05-4c3e-849d-62de4832bc8f-ascii.stl	(similarity = 0.128)
+	benchmarks/FabWave/Grommets/41083c05-5ba4-4dea-9c79-b00e42089fc5-ascii.stl	(similarity = 0.102)
+	benchmarks/FabWave/Grommets/c6a0cf8b-a4ac-42ac-bb0b-8f26db7dbcf2-ascii.stl	(similarity = 0.101)
+	benchmarks/FabWave/Grommets/938c9156-564d-4c45-a54a-13b951428620-ascii.stl	(similarity = 0.098)
+	benchmarks/FabWave/Grommets/20d0efa4-ef5a-4eb8-bf97-73aa70240aca-ascii.stl	(similarity = 0.086)
+	benchmarks/FabWave/Grommets/f2a158e8-c59c-4f45-9285-2d10d1798275-ascii.stl	(similarity = 0.085)
+	benchmarks/FabWave/Grommets/ccc082f0-e250-4144-8829-16e231a8f140-ascii.stl	(similarity = 0.085)
+	benchmarks/FabWave/Grommets/c9275cc8-3e66-4c37-90c7-edf574c317fb-ascii.stl	(similarity = 0.084)
+	benchmarks/FabWave/Grommets/5d532634-2979-4e7d-8475-25264d27cf22-ascii.stl	(similarity = 0.08)
+202
+Signature Match Score:  1.0 
+
+
+Files matched with ./benchmarks/FabWave/Grommets/45815e1e-3eb2-437c-820e-43406c57b11e-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Grommets/45815e1e-3eb2-437c-820e-43406c57b11e-ascii.stl	(similarity = 0.484)
+	benchmarks/FabWave/O_Rings/d6c99cc2-e01b-482e-a89e-3b42b86aa453-ascii.stl	(similarity = 0.245)
+	benchmarks/FabWave/Grommets/cae8c20c-e358-40c4-a457-fd4d657099a1-ascii.stl	(similarity = 0.215)
+	benchmarks/FabWave/O_Rings/9001cb87-596b-44cf-b419-37c3bc2bf894-ascii.stl	(similarity = 0.186)
+	benchmarks/FabWave/Grommets/767b602b-a88e-4bca-8f02-2454db8361b1-ascii.stl	(similarity = 0.185)
+	benchmarks/FabWave/O_Rings/e7806ed7-c48a-451d-a500-af9ce7085eb9-ascii.stl	(similarity = 0.183)
+	benchmarks/FabWave/Grommets/18e67be4-c3d1-4acb-b708-0b18d329239c-ascii.stl	(similarity = 0.178)
+	benchmarks/FabWave/Grommets/f2a158e8-c59c-4f45-9285-2d10d1798275-ascii.stl	(similarity = 0.166)
+	benchmarks/FabWave/HeadlessScrews/3ec32bb7-ac48-4558-a669-f43afa1c50ec-ascii.stl	(similarity = 0.161)
+	benchmarks/FabWave/Bearings/1757496f-2a70-4509-bfc3-854b1eac8ab2-ascii.stl	(similarity = 0.157)
+202
+Neighborhood Match Score:  0.6018866467038501 
+
+Signature Match Score: 1.0 Neighborhood Match Score: 0.6018866467038501
+590 3 ./benchmarks/FabWave/Grommets/f022fa16-4fc3-45a7-b0f8-32f62b99bcfc-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Grommets/f022fa16-4fc3-45a7-b0f8-32f62b99bcfc-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Grommets/f022fa16-4fc3-45a7-b0f8-32f62b99bcfc-ascii.stl	(similarity = 0.461)
+	benchmarks/FabWave/Grommets/ed4e80e9-0e21-45b1-9ef9-eb345d1fc526-ascii.stl	(similarity = 0.37)
+	benchmarks/FabWave/Grommets/dff117d0-bb62-46cc-b344-9c1bc00d442b-ascii.stl	(similarity = 0.255)
+	benchmarks/FabWave/Grommets/907c66d9-4834-4fa3-aecc-7d192fb59092-ascii.stl	(similarity = 0.185)
+	benchmarks/FabWave/Grommets/2f9c8a99-f077-4029-bb8f-f94e6b6cdfc0-ascii.stl	(similarity = 0.159)
+	benchmarks/FabWave/Grommets/389158cc-4ea8-4266-b117-7e941d7e1f8c-ascii.stl	(similarity = 0.151)
+	benchmarks/FabWave/Grommets/0d5c13ec-4c06-49eb-b46d-428e99cbcf92-ascii.stl	(similarity = 0.148)
+	benchmarks/FabWave/Grommets/9c3eae38-c1d1-4d7b-b655-2e2b010b6c10-ascii.stl	(similarity = 0.142)
+	benchmarks/FabWave/Grommets/7d7ffca3-ce55-4b75-b519-93b39b272c5e-ascii.stl	(similarity = 0.129)
+	benchmarks/FabWave/Grommets/c7f0f7f9-f76b-455c-b730-66cc4eb00467-ascii.stl	(similarity = 0.12)
+202
+Signature Match Score:  1.0 
+
+
+Files matched with ./benchmarks/FabWave/Grommets/f022fa16-4fc3-45a7-b0f8-32f62b99bcfc-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Grommets/f022fa16-4fc3-45a7-b0f8-32f62b99bcfc-ascii.stl	(similarity = 0.481)
+	benchmarks/FabWave/Grommets/ed4e80e9-0e21-45b1-9ef9-eb345d1fc526-ascii.stl	(similarity = 0.411)
+	benchmarks/FabWave/Grommets/dff117d0-bb62-46cc-b344-9c1bc00d442b-ascii.stl	(similarity = 0.341)
+	benchmarks/FabWave/Grommets/4c61ab32-b705-4ab9-8e89-35f3804cabbc-ascii.stl	(similarity = 0.286)
+	benchmarks/FabWave/Grommets/c7f0f7f9-f76b-455c-b730-66cc4eb00467-ascii.stl	(similarity = 0.27)
+	benchmarks/FabWave/Grommets/2306d610-be44-494e-902b-9311b2e95089-ascii.stl	(similarity = 0.246)
+	benchmarks/FabWave/Grommets/907c66d9-4834-4fa3-aecc-7d192fb59092-ascii.stl	(similarity = 0.244)
+	benchmarks/FabWave/Pipes/cfcf6aa4-2a58-4f92-b48b-fc2c1a8e3972-ascii.stl	(similarity = 0.219)
+	benchmarks/FabWave/Grommets/389158cc-4ea8-4266-b117-7e941d7e1f8c-ascii.stl	(similarity = 0.218)
+	benchmarks/FabWave/Grommets/9c3eae38-c1d1-4d7b-b655-2e2b010b6c10-ascii.stl	(similarity = 0.193)
+202
+Neighborhood Match Score:  0.9374519350932231 
+
+Signature Match Score: 1.0 Neighborhood Match Score: 0.9403139775931355
+790 1 ./benchmarks/FabWave/HeadlessScrews/d21e35a6-dfce-4ebc-8254-aedc2bd09d8d-ascii.stl
+
+Files matched with ./benchmarks/FabWave/HeadlessScrews/d21e35a6-dfce-4ebc-8254-aedc2bd09d8d-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/HeadlessScrews/d21e35a6-dfce-4ebc-8254-aedc2bd09d8d-ascii.stl	(similarity = 0.805)
+	benchmarks/FabWave/HeadlessScrews/19fc6284-bb9d-4009-bd89-3daa5f0d0dc7-ascii.stl	(similarity = 0.069)
+	benchmarks/FabWave/HeadlessScrews/39adf041-797e-4908-bd46-2f4d69a6057f-ascii.stl	(similarity = 0.06)
+	benchmarks/FabWave/O_Rings/4775a9ea-40f4-447b-9d00-90b403ab5e5f-ascii.stl	(similarity = 0.044)
+	benchmarks/FabWave/O_Rings/c1f225cc-8eaa-4797-8fea-66acaa44f7db-ascii.stl	(similarity = 0.026)
+	benchmarks/FabWave/O_Rings/49f74d6c-0bf9-4292-badf-5dba69f37f60-ascii.stl	(similarity = 0.023)
+	benchmarks/FabWave/HeadlessScrews/d8c1984f-c616-45b4-b0b7-86b40a15f204-ascii.stl	(similarity = 0.023)
+	benchmarks/FabWave/HeadlessScrews/cb606ba9-8651-4de2-a620-33fcd12f3740-ascii.stl	(similarity = 0.021)
+	benchmarks/FabWave/O_Rings/52b73ad7-40eb-4c98-9096-375c8883a0ef-ascii.stl	(similarity = 0.019)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew53-ascii.stl	(similarity = 0.019)
+154
+Signature Match Score:  0.6502804356759131 
+
+
+Files matched with ./benchmarks/FabWave/HeadlessScrews/d21e35a6-dfce-4ebc-8254-aedc2bd09d8d-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/HeadlessScrews/d21e35a6-dfce-4ebc-8254-aedc2bd09d8d-ascii.stl	(similarity = 0.812)
+	benchmarks/FabWave/HeadlessScrews/19fc6284-bb9d-4009-bd89-3daa5f0d0dc7-ascii.stl	(similarity = 0.164)
+	benchmarks/FabWave/HeadlessScrews/39adf041-797e-4908-bd46-2f4d69a6057f-ascii.stl	(similarity = 0.143)
+	benchmarks/FabWave/O_Rings/c1f225cc-8eaa-4797-8fea-66acaa44f7db-ascii.stl	(similarity = 0.108)
+	benchmarks/FabWave/O_Rings/4775a9ea-40f4-447b-9d00-90b403ab5e5f-ascii.stl	(similarity = 0.108)
+	benchmarks/FabWave/O_Rings/bac7133d-09f9-4f5c-af5d-1eb2a30b6ab4-ascii.stl	(similarity = 0.093)
+	benchmarks/FabWave/Bearings/1757496f-2a70-4509-bfc3-854b1eac8ab2-ascii.stl	(similarity = 0.074)
+	benchmarks/FabWave/Bearings/b9d62ddf-402a-44c0-bed6-e702c9ce2a57-ascii.stl	(similarity = 0.073)
+	benchmarks/FabWave/Bearings/e8df9edc-fb17-4c30-a7c7-8c8ad433c117-ascii.stl	(similarity = 0.073)
+	benchmarks/FabWave/Bearings/15b15de4-353d-45da-af8c-5da2962878e7-ascii.stl	(similarity = 0.072)
+154
+Neighborhood Match Score:  0.5216414791984154 
+
+Signature Match Score: 0.6502804356759131 Neighborhood Match Score: 0.5216414791984154
+791 2 ./benchmarks/FabWave/HeadlessScrews/e5ffdade-6295-4bad-ace1-1ab077a5c68f-ascii.stl
+
+Files matched with ./benchmarks/FabWave/HeadlessScrews/e5ffdade-6295-4bad-ace1-1ab077a5c68f-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/HeadlessScrews/e5ffdade-6295-4bad-ace1-1ab077a5c68f-ascii.stl	(similarity = 0.511)
+	benchmarks/FabWave/HeadlessScrews/cbd9a7ff-1f84-4b9c-ba62-b6043191fa54-ascii.stl	(similarity = 0.313)
+	benchmarks/FabWave/HeadlessScrews/fde3b1a6-1cf1-4c4f-b08d-10f26aaad0a9-ascii.stl	(similarity = 0.276)
+	benchmarks/FabWave/HeadlessScrews/b636ff49-ec12-42ae-b967-2c32a4d386f3-ascii.stl	(similarity = 0.221)
+	benchmarks/FabWave/HeadlessScrews/0f889853-1677-4460-b492-6583e7423b5c-ascii.stl	(similarity = 0.215)
+	benchmarks/FabWave/HeadlessScrews/8b45c0a6-8ac3-409e-8965-b8d1b0b1e71c-ascii.stl	(similarity = 0.215)
+	benchmarks/FabWave/HeadlessScrews/de4bf9f9-3d2a-4370-863e-facf5db207f2-ascii.stl	(similarity = 0.148)
+	benchmarks/FabWave/HeadlessScrews/15c829d0-c280-4568-b693-f1ab0867ab22-ascii.stl	(similarity = 0.116)
+	benchmarks/FabWave/HeadlessScrews/5f5342a4-7b99-4a26-80bc-f9995d6a7ddb-ascii.stl	(similarity = 0.107)
+	benchmarks/FabWave/HeadlessScrews/32c1e4e7-509b-40e8-a66a-3ae50f4bb5e5-ascii.stl	(similarity = 0.102)
+154
+Signature Match Score:  1.0 
+
+
+Files matched with ./benchmarks/FabWave/HeadlessScrews/e5ffdade-6295-4bad-ace1-1ab077a5c68f-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/HeadlessScrews/e5ffdade-6295-4bad-ace1-1ab077a5c68f-ascii.stl	(similarity = 0.6)
+	benchmarks/FabWave/HeadlessScrews/cbd9a7ff-1f84-4b9c-ba62-b6043191fa54-ascii.stl	(similarity = 0.494)
+	benchmarks/FabWave/HeadlessScrews/fde3b1a6-1cf1-4c4f-b08d-10f26aaad0a9-ascii.stl	(similarity = 0.472)
+	benchmarks/FabWave/HeadlessScrews/8b45c0a6-8ac3-409e-8965-b8d1b0b1e71c-ascii.stl	(similarity = 0.391)
+	benchmarks/FabWave/HeadlessScrews/b636ff49-ec12-42ae-b967-2c32a4d386f3-ascii.stl	(similarity = 0.384)
+	benchmarks/FabWave/HeadlessScrews/0f889853-1677-4460-b492-6583e7423b5c-ascii.stl	(similarity = 0.358)
+	benchmarks/FabWave/HeadlessScrews/36e609df-48d1-476c-a6e2-8cea1907d52a-ascii.stl	(similarity = 0.324)
+	benchmarks/FabWave/HeadlessScrews/32c1e4e7-509b-40e8-a66a-3ae50f4bb5e5-ascii.stl	(similarity = 0.311)
+	benchmarks/FabWave/HeadlessScrews/de4bf9f9-3d2a-4370-863e-facf5db207f2-ascii.stl	(similarity = 0.31)
+	benchmarks/FabWave/HeadlessScrews/8c126441-8e41-440f-8557-15287e320928-ascii.stl	(similarity = 0.31)
+154
+Neighborhood Match Score:  1.0 
+
+Signature Match Score: 1.0 Neighborhood Match Score: 1.0
+792 3 ./benchmarks/FabWave/HeadlessScrews/65f9734d-6cf0-4723-81b7-f50bcd7e4aab-ascii.stl
+
+Files matched with ./benchmarks/FabWave/HeadlessScrews/65f9734d-6cf0-4723-81b7-f50bcd7e4aab-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/HeadlessScrews/65f9734d-6cf0-4723-81b7-f50bcd7e4aab-ascii.stl	(similarity = 0.43)
+	benchmarks/FabWave/HeadlessScrews/5d1ee32d-026e-4010-9209-1a633a1071e3-ascii.stl	(similarity = 0.286)
+	benchmarks/FabWave/HeadlessScrews/36b33700-7e80-422e-8a2e-a70de7ffba98-ascii.stl	(similarity = 0.229)
+	benchmarks/FabWave/HeadlessScrews/8c3fa75a-57da-4543-af51-e572a7a96440-ascii.stl	(similarity = 0.225)
+	benchmarks/FabWave/HeadlessScrews/0b6dc9ea-37b8-4e36-a761-6daaf43ffd37-ascii.stl	(similarity = 0.212)
+	benchmarks/FabWave/HeadlessScrews/a82e64d3-835b-4a81-86d1-b50f943d58c6-ascii.stl	(similarity = 0.207)
+	benchmarks/FabWave/HeadlessScrews/c6ed6411-6d45-457f-affe-01c67e519533-ascii.stl	(similarity = 0.205)
+	benchmarks/FabWave/HeadlessScrews/1a4fe6c0-530d-43a1-8533-d331d51d0a3c-ascii.stl	(similarity = 0.174)
+	benchmarks/FabWave/HeadlessScrews/8ec7b2f2-b713-40c8-9f86-ad9b6d19627c-ascii.stl	(similarity = 0.174)
+	benchmarks/FabWave/HeadlessScrews/d1801dfe-81d5-4cc5-bc60-3b620a5c9032-ascii.stl	(similarity = 0.154)
+154
+Signature Match Score:  1.0 
+
+
+Files matched with ./benchmarks/FabWave/HeadlessScrews/65f9734d-6cf0-4723-81b7-f50bcd7e4aab-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/HeadlessScrews/b169d21d-15da-4e32-898a-4a5083f892d4-ascii.stl	(similarity = 0.487)
+	benchmarks/FabWave/HeadlessScrews/ce5f037a-cab5-4a42-9761-c9756bf39d4e-ascii.stl	(similarity = 0.486)
+	benchmarks/FabWave/HeadlessScrews/65f9734d-6cf0-4723-81b7-f50bcd7e4aab-ascii.stl	(similarity = 0.482)
+	benchmarks/FabWave/HeadlessScrews/36b33700-7e80-422e-8a2e-a70de7ffba98-ascii.stl	(similarity = 0.434)
+	benchmarks/FabWave/HeadlessScrews/5d1ee32d-026e-4010-9209-1a633a1071e3-ascii.stl	(similarity = 0.387)
+	benchmarks/FabWave/HeadlessScrews/1a4fe6c0-530d-43a1-8533-d331d51d0a3c-ascii.stl	(similarity = 0.348)
+	benchmarks/FabWave/HeadlessScrews/d1801dfe-81d5-4cc5-bc60-3b620a5c9032-ascii.stl	(similarity = 0.335)
+	benchmarks/FabWave/HeadlessScrews/8ec7b2f2-b713-40c8-9f86-ad9b6d19627c-ascii.stl	(similarity = 0.321)
+	benchmarks/FabWave/HeadlessScrews/dce04c20-5003-4a85-93cb-5c6cf45f1a53-ascii.stl	(similarity = 0.314)
+	benchmarks/FabWave/HeadlessScrews/8adcb19d-d9f2-48a7-b86c-30ac341efe15-ascii.stl	(similarity = 0.314)
+154
+Neighborhood Match Score:  0.9504318313219594 
+
+Signature Match Score: 1.0 Neighborhood Match Score: 0.9504318313219594
+944 1 ./benchmarks/FabWave/Hex_Head_Screws/stlfile72-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Hex_Head_Screws/stlfile72-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Hex_Head_Screws/stlfile72-ascii.stl	(similarity = 0.512)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile17-ascii.stl	(similarity = 0.231)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile10-ascii.stl	(similarity = 0.22)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile103-ascii.stl	(similarity = 0.209)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile36-ascii.stl	(similarity = 0.169)
+	benchmarks/FabWave/Collets/99b954c3-13b4-445b-b822-4659ac543758-ascii-ascii.stl	(similarity = 0.134)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile34-ascii.stl	(similarity = 0.082)
+	benchmarks/FabWave/Collets/788eca98-c0ba-4a64-8ef6-e89eb060fd22-ascii-ascii.stl	(similarity = 0.075)
+	benchmarks/FabWave/Collets/b255a8b1-d88f-40b3-a7db-63d54e10df1c-ascii-ascii.stl	(similarity = 0.068)
+	benchmarks/FabWave/Collets/1efbb85f-7a08-48fe-b227-6b4d45963c1e-ascii-ascii.stl	(similarity = 0.066)
+84
+Signature Match Score:  0.7498261046720608 
+
+
+Files matched with ./benchmarks/FabWave/Hex_Head_Screws/stlfile72-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Hex_Head_Screws/stlfile72-ascii.stl	(similarity = 0.665)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile10-ascii.stl	(similarity = 0.484)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile17-ascii.stl	(similarity = 0.474)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile103-ascii.stl	(similarity = 0.456)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile36-ascii.stl	(similarity = 0.425)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile37-ascii.stl	(similarity = 0.359)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew40-ascii.stl	(similarity = 0.3)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile73-ascii.stl	(similarity = 0.294)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile34-ascii.stl	(similarity = 0.212)
+	benchmarks/FabWave/Collets/99b954c3-13b4-445b-b822-4659ac543758-ascii-ascii.stl	(similarity = 0.206)
+84
+Neighborhood Match Score:  0.8765954521560336 
+
+Signature Match Score: 0.7498261046720608 Neighborhood Match Score: 0.8801382788199777
+945 2 ./benchmarks/FabWave/Hex_Head_Screws/stlfile51-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Hex_Head_Screws/stlfile51-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Hex_Head_Screws/stlfile51-ascii.stl	(similarity = 0.598)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile52-ascii.stl	(similarity = 0.39)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile88-ascii.stl	(similarity = 0.232)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile87-ascii.stl	(similarity = 0.199)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew96-ascii.stl	(similarity = 0.065)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew83-ascii.stl	(similarity = 0.064)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile49-ascii.stl	(similarity = 0.059)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew48-ascii.stl	(similarity = 0.058)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile50-ascii.stl	(similarity = 0.056)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew28-ascii.stl	(similarity = 0.046)
+84
+Signature Match Score:  0.7328097862768981 
+
+
+Files matched with ./benchmarks/FabWave/Hex_Head_Screws/stlfile51-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Hex_Head_Screws/stlfile51-ascii.stl	(similarity = 0.712)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile52-ascii.stl	(similarity = 0.61)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile88-ascii.stl	(similarity = 0.465)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile87-ascii.stl	(similarity = 0.436)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew96-ascii.stl	(similarity = 0.246)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew48-ascii.stl	(similarity = 0.219)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew83-ascii.stl	(similarity = 0.218)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile49-ascii.stl	(similarity = 0.165)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile54-ascii.stl	(similarity = 0.157)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile50-ascii.stl	(similarity = 0.125)
+84
+Neighborhood Match Score:  0.7865806158861993 
+
+Signature Match Score: 0.7328097862768981 Neighborhood Match Score: 0.7865806158861993
+946 3 ./benchmarks/FabWave/Hex_Head_Screws/stlfile37-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Hex_Head_Screws/stlfile37-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Hex_Head_Screws/stlfile37-ascii.stl	(similarity = 0.527)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile73-ascii.stl	(similarity = 0.173)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile72-ascii.stl	(similarity = 0.163)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile10-ascii.stl	(similarity = 0.155)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile17-ascii.stl	(similarity = 0.151)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile103-ascii.stl	(similarity = 0.147)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile36-ascii.stl	(similarity = 0.138)
+	benchmarks/FabWave/Collets/99b954c3-13b4-445b-b822-4659ac543758-ascii-ascii.stl	(similarity = 0.067)
+	benchmarks/FabWave/Collets/92726ca8-80e0-49e2-a34e-92c45134e492-ascii-ascii.stl	(similarity = 0.046)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile104-ascii.stl	(similarity = 0.045)
+84
+Signature Match Score:  0.8777659126863586 
+
+
+Files matched with ./benchmarks/FabWave/Hex_Head_Screws/stlfile37-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Hex_Head_Screws/stlfile37-ascii.stl	(similarity = 0.67)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile10-ascii.stl	(similarity = 0.45)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile72-ascii.stl	(similarity = 0.447)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile17-ascii.stl	(similarity = 0.439)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile103-ascii.stl	(similarity = 0.43)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile36-ascii.stl	(similarity = 0.417)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile73-ascii.stl	(similarity = 0.408)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew40-ascii.stl	(similarity = 0.209)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew21-ascii.stl	(similarity = 0.166)
+	benchmarks/FabWave/Pipes/1c73517f-eea9-44ef-9a0a-54618d258816-ascii.stl	(similarity = 0.147)
+84
+Neighborhood Match Score:  0.8204522564131133 
+
+Signature Match Score: 0.8777659126863586 Neighborhood Match Score: 0.8204522564131133
+1028 1 ./benchmarks/FabWave/Keyway_Shaft/9a4accaa-97ff-4e50-9d0f-db9b569f795b-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Keyway_Shaft/9a4accaa-97ff-4e50-9d0f-db9b569f795b-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Keyway_Shaft/9a4accaa-97ff-4e50-9d0f-db9b569f795b-ascii.stl	(similarity = 0.612)
+	benchmarks/FabWave/Rotary_Shaft/8af1aeb8-5779-480a-92f2-dca65dba513f-ascii.stl	(similarity = 0.612)
+	benchmarks/FabWave/Keyway_Shaft/0749d792-5b5a-410e-a46b-883e0dd908c7-ascii.stl	(similarity = 0.553)
+	benchmarks/FabWave/Rotary_Shaft/86763a30-0e9a-4d25-9b63-4390a9c5e218-ascii.stl	(similarity = 0.553)
+	benchmarks/FabWave/Keyway_Shaft/b563f1fe-564b-442c-8078-547da3706d4d-ascii.stl	(similarity = 0.544)
+	benchmarks/FabWave/Rotary_Shaft/65f82f77-d130-4d13-8f60-21b794abc185-ascii.stl	(similarity = 0.539)
+	benchmarks/FabWave/Keyway_Shaft/e5737ae8-047f-4201-b936-c2c331c65f12-ascii.stl	(similarity = 0.538)
+	benchmarks/FabWave/Rotary_Shaft/9f389bca-14e1-4eb3-ad04-997733572cec-ascii.stl	(similarity = 0.537)
+	benchmarks/FabWave/Keyway_Shaft/61f4d97d-68b7-4dd9-8289-7c3e2b33f031-ascii.stl	(similarity = 0.092)
+	benchmarks/FabWave/Rotary_Shaft/4aef5eca-84b2-4388-8ede-4d64e9d7e9b6-ascii.stl	(similarity = 0.092)
+250
+Signature Match Score:  0.5990246042039378 
+
+
+Files matched with ./benchmarks/FabWave/Keyway_Shaft/9a4accaa-97ff-4e50-9d0f-db9b569f795b-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Keyway_Shaft/9a4accaa-97ff-4e50-9d0f-db9b569f795b-ascii.stl	(similarity = 0.651)
+	benchmarks/FabWave/Rotary_Shaft/8af1aeb8-5779-480a-92f2-dca65dba513f-ascii.stl	(similarity = 0.651)
+	benchmarks/FabWave/Keyway_Shaft/0749d792-5b5a-410e-a46b-883e0dd908c7-ascii.stl	(similarity = 0.607)
+	benchmarks/FabWave/Rotary_Shaft/86763a30-0e9a-4d25-9b63-4390a9c5e218-ascii.stl	(similarity = 0.607)
+	benchmarks/FabWave/Keyway_Shaft/b563f1fe-564b-442c-8078-547da3706d4d-ascii.stl	(similarity = 0.579)
+	benchmarks/FabWave/Rotary_Shaft/65f82f77-d130-4d13-8f60-21b794abc185-ascii.stl	(similarity = 0.576)
+	benchmarks/FabWave/Keyway_Shaft/e5737ae8-047f-4201-b936-c2c331c65f12-ascii.stl	(similarity = 0.574)
+	benchmarks/FabWave/Rotary_Shaft/9f389bca-14e1-4eb3-ad04-997733572cec-ascii.stl	(similarity = 0.574)
+	benchmarks/FabWave/Keyway_Shaft/b28ea5c4-f159-4ab9-a5dc-0fc89ff2cd4b-ascii.stl	(similarity = 0.385)
+	benchmarks/FabWave/Rotary_Shaft/a77e72f1-4bbd-42d4-9750-4f6c1e63ad1d-ascii.stl	(similarity = 0.385)
+250
+Neighborhood Match Score:  0.5990246042039378 
+
+Signature Match Score: 0.5990246042039378 Neighborhood Match Score: 0.5990246042039378
+1029 2 ./benchmarks/FabWave/Keyway_Shaft/4ed9d0db-d9cf-4008-b64b-6cec9f1321a7-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Keyway_Shaft/4ed9d0db-d9cf-4008-b64b-6cec9f1321a7-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Keyway_Shaft/4ed9d0db-d9cf-4008-b64b-6cec9f1321a7-ascii.stl	(similarity = 0.644)
+	benchmarks/FabWave/Keyway_Shaft/d803c355-bb81-414d-bd78-e9a7ef84ac41-ascii.stl	(similarity = 0.644)
+	benchmarks/FabWave/Rotary_Shaft/ff925cff-fcc6-410c-9d94-185d24061ac8-ascii.stl	(similarity = 0.616)
+	benchmarks/FabWave/Rotary_Shaft/7ae91ba5-5e1e-4f00-a35e-4bb63f8b88e1-ascii.stl	(similarity = 0.616)
+	benchmarks/FabWave/Keyway_Shaft/254dfa5d-21a9-4776-b954-6d3f73ed2908-ascii.stl	(similarity = 0.543)
+	benchmarks/FabWave/Keyway_Shaft/6cf59c94-5461-4d9c-9170-b08e457a2c2b-ascii.stl	(similarity = 0.543)
+	benchmarks/FabWave/Rotary_Shaft/83a8bae9-ea92-42dc-9bb4-fe6c40095c5f-ascii.stl	(similarity = 0.543)
+	benchmarks/FabWave/Rotary_Shaft/824f198b-aa63-42dc-ad6c-b5336fab88d4-ascii.stl	(similarity = 0.543)
+	benchmarks/FabWave/Keyway_Shaft/aeb4c4ba-5ab3-4ca4-a23d-e8504f6f852e-ascii.stl	(similarity = 0.354)
+	benchmarks/FabWave/Keyway_Shaft/933a4e7c-7f33-4e31-89ee-0322a29161fd-ascii.stl	(similarity = 0.354)
+250
+Signature Match Score:  0.6868333130655236 
+
+
+Files matched with ./benchmarks/FabWave/Keyway_Shaft/4ed9d0db-d9cf-4008-b64b-6cec9f1321a7-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Keyway_Shaft/a9c5c8bb-3cf7-47f4-83d7-c2f19b15a052-ascii.stl	(similarity = 0.741)
+	benchmarks/FabWave/Rotary_Shaft/f7cca351-26dd-4f46-a70a-7559392e7b6d-ascii.stl	(similarity = 0.741)
+	benchmarks/FabWave/Keyway_Shaft/4ed9d0db-d9cf-4008-b64b-6cec9f1321a7-ascii.stl	(similarity = 0.705)
+	benchmarks/FabWave/Keyway_Shaft/d803c355-bb81-414d-bd78-e9a7ef84ac41-ascii.stl	(similarity = 0.705)
+	benchmarks/FabWave/Rotary_Shaft/ff925cff-fcc6-410c-9d94-185d24061ac8-ascii.stl	(similarity = 0.705)
+	benchmarks/FabWave/Rotary_Shaft/7ae91ba5-5e1e-4f00-a35e-4bb63f8b88e1-ascii.stl	(similarity = 0.705)
+	benchmarks/FabWave/Keyway_Shaft/254dfa5d-21a9-4776-b954-6d3f73ed2908-ascii.stl	(similarity = 0.602)
+	benchmarks/FabWave/Keyway_Shaft/6cf59c94-5461-4d9c-9170-b08e457a2c2b-ascii.stl	(similarity = 0.602)
+	benchmarks/FabWave/Rotary_Shaft/83a8bae9-ea92-42dc-9bb4-fe6c40095c5f-ascii.stl	(similarity = 0.602)
+	benchmarks/FabWave/Rotary_Shaft/824f198b-aa63-42dc-ad6c-b5336fab88d4-ascii.stl	(similarity = 0.602)
+250
+Neighborhood Match Score:  0.5610075303246795 
+
+Signature Match Score: 0.6868333130655236 Neighborhood Match Score: 0.5610075303246795
+1030 3 ./benchmarks/FabWave/Keyway_Shaft/85dc9f96-b6fd-407a-9e24-7af72103e7b0-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Keyway_Shaft/85dc9f96-b6fd-407a-9e24-7af72103e7b0-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Keyway_Shaft/44349c83-5a3f-4cdc-a34a-dfb65e182ac3-ascii.stl	(similarity = 0.552)
+	benchmarks/FabWave/Keyway_Shaft/f773146b-a03d-4b52-b80d-7153d7216b3b-ascii.stl	(similarity = 0.552)
+	benchmarks/FabWave/Keyway_Shaft/68bc943c-3257-4528-8834-1aeb850bc72e-ascii.stl	(similarity = 0.497)
+	benchmarks/FabWave/Rotary_Shaft/387d573b-8cd3-4786-87f6-17a9efde0fea-ascii.stl	(similarity = 0.497)
+	benchmarks/FabWave/Keyway_Shaft/84adea1e-b7a2-40b2-9ea3-1b2cd795c9e0-ascii.stl	(similarity = 0.486)
+	benchmarks/FabWave/Keyway_Shaft/47edd588-a084-4dbd-825d-59760ea86f07-ascii.stl	(similarity = 0.486)
+	benchmarks/FabWave/Rotary_Shaft/92dfffb7-506c-4c85-b1af-8db224b88873-ascii.stl	(similarity = 0.446)
+	benchmarks/FabWave/Rotary_Shaft/1aab8513-7e5d-4a1f-ab2e-b2879d05776b-ascii.stl	(similarity = 0.446)
+	benchmarks/FabWave/Keyway_Shaft/85dc9f96-b6fd-407a-9e24-7af72103e7b0-ascii.stl	(similarity = 0.324)
+	benchmarks/FabWave/Rotary_Shaft/49cfbeea-9e5f-4570-9c76-52b709a53108-ascii.stl	(similarity = 0.324)
+250
+Signature Match Score:  0.6593626679957104 
+
+
+Files matched with ./benchmarks/FabWave/Keyway_Shaft/85dc9f96-b6fd-407a-9e24-7af72103e7b0-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Keyway_Shaft/1520e447-5838-4a44-9fda-d81de168b6b4-ascii.stl	(similarity = 0.714)
+	benchmarks/FabWave/Rotary_Shaft/a60a3ac7-d9c8-45fb-b190-cdb8aad33c37-ascii.stl	(similarity = 0.714)
+	benchmarks/FabWave/Keyway_Shaft/54e4cf91-3f8e-4221-a985-f714940e00b6-ascii.stl	(similarity = 0.68)
+	benchmarks/FabWave/Rotary_Shaft/b57e59c2-89bb-4263-837c-f0442711ed24-ascii.stl	(similarity = 0.68)
+	benchmarks/FabWave/Keyway_Shaft/85dc9f96-b6fd-407a-9e24-7af72103e7b0-ascii.stl	(similarity = 0.461)
+	benchmarks/FabWave/Rotary_Shaft/49cfbeea-9e5f-4570-9c76-52b709a53108-ascii.stl	(similarity = 0.461)
+	benchmarks/FabWave/Keyway_Shaft/3d70154b-adc7-4c2a-a098-5522ae17c1ed-ascii.stl	(similarity = 0.405)
+	benchmarks/FabWave/Keyway_Shaft/8db5d86b-9a9e-479c-b81d-c6406de5a56b-ascii.stl	(similarity = 0.405)
+	benchmarks/FabWave/Rotary_Shaft/56d69aa8-7bcb-4bd6-8322-9f13df81a55b-ascii.stl	(similarity = 0.405)
+	benchmarks/FabWave/Rotary_Shaft/1a96f471-2b7b-4232-a617-d0757ceac33e-ascii.stl	(similarity = 0.405)
+250
+Neighborhood Match Score:  0.5411014797487824 
+
+Signature Match Score: 0.6593626679957104 Neighborhood Match Score: 0.5411014797487824
+1278 1 ./benchmarks/FabWave/Machine_Key/fceb8f1e-c285-4f5b-aa10-fbd1e6dfd858-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Machine_Key/fceb8f1e-c285-4f5b-aa10-fbd1e6dfd858-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Machine_Key/fceb8f1e-c285-4f5b-aa10-fbd1e6dfd858-ascii.stl	(similarity = 0.611)
+	benchmarks/FabWave/Machine_Key/62abebbb-1b9e-4282-a358-4b68f4f0430c-ascii.stl	(similarity = 0.513)
+	benchmarks/FabWave/Machine_Key/743b283b-618e-4439-9aaa-269823c07baf-ascii.stl	(similarity = 0.111)
+	benchmarks/FabWave/Bushing/ada5a081-2a7f-4923-81ff-a957f5d5d9ba-ascii.stl	(similarity = 0.037)
+	benchmarks/FabWave/Bushing/5eae598f-3cfc-4c08-a53f-c63101521fda-ascii.stl	(similarity = 0.035)
+	benchmarks/FabWave/Thumb_Screws/cce16255-95c5-4404-aab1-d00ed69e9f82-ascii.stl	(similarity = 0.029)
+	benchmarks/FabWave/Bearings/e1466207-922e-4af1-8985-a5c7586696c2-ascii.stl	(similarity = 0.021)
+	benchmarks/FabWave/Bearings/14ca1911-40dc-41da-8bb0-072cb3886dfc-ascii.stl	(similarity = 0.021)
+	benchmarks/FabWave/Pipe_Joints/a59e81f5-c30b-4ea3-ab40-0bb0186b4d8e-ascii.stl	(similarity = 0.02)
+	benchmarks/FabWave/Bearings/e8df9edc-fb17-4c30-a7c7-8c8ad433c117-ascii.stl	(similarity = 0.02)
+76
+Signature Match Score:  0.5216414791984154 
+
+
+Files matched with ./benchmarks/FabWave/Machine_Key/fceb8f1e-c285-4f5b-aa10-fbd1e6dfd858-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Machine_Key/fceb8f1e-c285-4f5b-aa10-fbd1e6dfd858-ascii.stl	(similarity = 0.633)
+	benchmarks/FabWave/Machine_Key/62abebbb-1b9e-4282-a358-4b68f4f0430c-ascii.stl	(similarity = 0.538)
+	benchmarks/FabWave/Machine_Key/743b283b-618e-4439-9aaa-269823c07baf-ascii.stl	(similarity = 0.213)
+	benchmarks/FabWave/Bushing/ada5a081-2a7f-4923-81ff-a957f5d5d9ba-ascii.stl	(similarity = 0.14)
+	benchmarks/FabWave/Bushing/5eae598f-3cfc-4c08-a53f-c63101521fda-ascii.stl	(similarity = 0.12)
+	benchmarks/FabWave/Pipe_Joints/a59e81f5-c30b-4ea3-ab40-0bb0186b4d8e-ascii.stl	(similarity = 0.1)
+	benchmarks/FabWave/Thumb_Screws/cce16255-95c5-4404-aab1-d00ed69e9f82-ascii.stl	(similarity = 0.082)
+	benchmarks/FabWave/Bearings/14ca1911-40dc-41da-8bb0-072cb3886dfc-ascii.stl	(similarity = 0.077)
+	benchmarks/FabWave/Bearings/e1466207-922e-4af1-8985-a5c7586696c2-ascii.stl	(similarity = 0.075)
+	benchmarks/FabWave/Bearings/e8df9edc-fb17-4c30-a7c7-8c8ad433c117-ascii.stl	(similarity = 0.072)
+76
+Neighborhood Match Score:  0.5216414791984154 
+
+Signature Match Score: 0.5216414791984154 Neighborhood Match Score: 0.5216414791984154
+1279 2 ./benchmarks/FabWave/Machine_Key/7031a541-d68c-45b6-a798-1ce595463870-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Machine_Key/7031a541-d68c-45b6-a798-1ce595463870-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Machine_Key/7031a541-d68c-45b6-a798-1ce595463870-ascii.stl	(similarity = 0.531)
+	benchmarks/FabWave/Washers/de68af75-4f57-4c71-8fb0-752b0441b4c3-ascii.stl	(similarity = 0.108)
+	benchmarks/FabWave/Washers/cdb9a7e9-fe76-4970-a0ed-6a31db713956-ascii.stl	(similarity = 0.106)
+	benchmarks/FabWave/Washers/0d911dd6-8583-4419-b6bc-d846f8870bd9-ascii.stl	(similarity = 0.098)
+	benchmarks/FabWave/Washers/1dd456a3-27ab-470d-b04f-8e4432e383e4-ascii.stl	(similarity = 0.09)
+	benchmarks/FabWave/Washers/4d2864c7-3af6-4909-8fbf-9841afcdbc3a-ascii.stl	(similarity = 0.088)
+	benchmarks/FabWave/Washers/48cd829e-d4cf-45a5-b08b-48837fd30f93-ascii.stl	(similarity = 0.078)
+	benchmarks/FabWave/Washers/3835204f-6d14-43d4-b8c7-0809919f023f-ascii.stl	(similarity = 0.07)
+	benchmarks/FabWave/Washers/11d004de-d88c-4e0f-9341-90bb327fdf7e-ascii.stl	(similarity = 0.066)
+	benchmarks/FabWave/Washers/90158ae2-0245-4cb3-b22c-99a8a700ae59-ascii.stl	(similarity = 0.064)
+76
+Signature Match Score:  0.2974090120682439 
+
+
+Files matched with ./benchmarks/FabWave/Machine_Key/7031a541-d68c-45b6-a798-1ce595463870-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Machine_Key/7031a541-d68c-45b6-a798-1ce595463870-ascii.stl	(similarity = 0.552)
+	benchmarks/FabWave/Washers/3835204f-6d14-43d4-b8c7-0809919f023f-ascii.stl	(similarity = 0.282)
+	benchmarks/FabWave/Washers/cdb9a7e9-fe76-4970-a0ed-6a31db713956-ascii.stl	(similarity = 0.271)
+	benchmarks/FabWave/Washers/840eeff6-7f65-4524-9423-bb91758fe24c-ascii.stl	(similarity = 0.233)
+	benchmarks/FabWave/Washers/28096f91-efd6-4385-9ff9-cca7695e7930-ascii.stl	(similarity = 0.227)
+	benchmarks/FabWave/Washers/c0718c67-2505-4c8f-8bbd-82885243d1e8-ascii.stl	(similarity = 0.217)
+	benchmarks/FabWave/Washers/f3159e85-7c63-4168-8acf-5a4cdeca40d6-ascii.stl	(similarity = 0.207)
+	benchmarks/FabWave/Washers/05ada531-4fe0-4e2a-bf85-8a66a313aea6-ascii.stl	(similarity = 0.19)
+	benchmarks/FabWave/Washers/1dd456a3-27ab-470d-b04f-8e4432e383e4-ascii.stl	(similarity = 0.189)
+	benchmarks/FabWave/Washers/81e8ee60-e711-410a-9612-1ee3acba2d25-ascii.stl	(similarity = 0.161)
+76
+Neighborhood Match Score:  0.2974090120682439 
+
+Signature Match Score: 0.2974090120682439 Neighborhood Match Score: 0.2974090120682439
+1280 3 ./benchmarks/FabWave/Machine_Key/edffcfbd-991e-41ec-adca-7ea69063172f-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Machine_Key/edffcfbd-991e-41ec-adca-7ea69063172f-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Machine_Key/edffcfbd-991e-41ec-adca-7ea69063172f-ascii.stl	(similarity = 0.51)
+	benchmarks/FabWave/Machine_Key/3c85275a-21e8-4757-8d39-20d456252f5e-ascii.stl	(similarity = 0.128)
+	benchmarks/FabWave/Machine_Key/fda10b83-0374-406c-964c-6b08edef9851-ascii.stl	(similarity = 0.111)
+	benchmarks/FabWave/Gasket/879ec381-8ec2-4a2c-b95a-4d1c3e1017a5-ascii.stl	(similarity = 0.074)
+	benchmarks/FabWave/Machine_Key/7031a541-d68c-45b6-a798-1ce595463870-ascii.stl	(similarity = 0.062)
+	benchmarks/FabWave/Machine_Key/cdfc8eb4-a474-42dc-b17b-2c8182cdd090-ascii.stl	(similarity = 0.06)
+	benchmarks/FabWave/Washers/3835204f-6d14-43d4-b8c7-0809919f023f-ascii.stl	(similarity = 0.036)
+	benchmarks/FabWave/Washers/1dd456a3-27ab-470d-b04f-8e4432e383e4-ascii.stl	(similarity = 0.035)
+	benchmarks/FabWave/Gasket/d6e8d30b-ae35-417b-a101-07d3fe0e412a-ascii.stl	(similarity = 0.033)
+	benchmarks/FabWave/Bushing/e4722377-02cd-4dca-a6d0-339b2225a40c-ascii.stl	(similarity = 0.031)
+76
+Signature Match Score:  0.6689699717414951 
+
+
+Files matched with ./benchmarks/FabWave/Machine_Key/edffcfbd-991e-41ec-adca-7ea69063172f-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Machine_Key/edffcfbd-991e-41ec-adca-7ea69063172f-ascii.stl	(similarity = 0.519)
+	benchmarks/FabWave/Machine_Key/3c85275a-21e8-4757-8d39-20d456252f5e-ascii.stl	(similarity = 0.289)
+	benchmarks/FabWave/Machine_Key/fda10b83-0374-406c-964c-6b08edef9851-ascii.stl	(similarity = 0.225)
+	benchmarks/FabWave/Gasket/879ec381-8ec2-4a2c-b95a-4d1c3e1017a5-ascii.stl	(similarity = 0.208)
+	benchmarks/FabWave/Washers/3835204f-6d14-43d4-b8c7-0809919f023f-ascii.stl	(similarity = 0.191)
+	benchmarks/FabWave/Washers/840eeff6-7f65-4524-9423-bb91758fe24c-ascii.stl	(similarity = 0.165)
+	benchmarks/FabWave/Machine_Key/70b0d127-81a8-492b-ad31-f4f8929f6419-ascii.stl	(similarity = 0.165)
+	benchmarks/FabWave/Machine_Key/7031a541-d68c-45b6-a798-1ce595463870-ascii.stl	(similarity = 0.163)
+	benchmarks/FabWave/Machine_Key/cdfc8eb4-a474-42dc-b17b-2c8182cdd090-ascii.stl	(similarity = 0.161)
+	benchmarks/FabWave/Washers/05ada531-4fe0-4e2a-bf85-8a66a313aea6-ascii.stl	(similarity = 0.158)
+76
+Neighborhood Match Score:  0.7099664580827776 
+
+Signature Match Score: 0.6689699717414951 Neighborhood Match Score: 0.7099664580827776
+1354 1 ./benchmarks/FabWave/Nuts/8f073b64-01c0-4061-a0c3-67a4ad9d87f9-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Nuts/8f073b64-01c0-4061-a0c3-67a4ad9d87f9-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Nuts/8f073b64-01c0-4061-a0c3-67a4ad9d87f9-ascii.stl	(similarity = 0.527)
+	benchmarks/FabWave/Nuts/227753e1-738a-45f1-9a42-3c9d8d9b5c06-ascii.stl	(similarity = 0.343)
+	benchmarks/FabWave/Nuts/2ee8e60c-d5fc-44ab-9d3f-88e8ca7d028b-ascii.stl	(similarity = 0.321)
+	benchmarks/FabWave/Nuts/c61b52f9-2a69-4eb8-a251-6504d42e9ac6-ascii.stl	(similarity = 0.317)
+	benchmarks/FabWave/Nuts/9716ea73-74a5-4d12-a2ae-fe75474e68de-ascii.stl	(similarity = 0.06)
+	benchmarks/FabWave/Nuts/7684a7f4-7bf1-496d-b85d-5c6484ea5ccc-ascii.stl	(similarity = 0.055)
+	benchmarks/FabWave/Nuts/cc0cb2ca-8932-49c7-ba75-35c19fc3f27f-ascii.stl	(similarity = 0.044)
+	benchmarks/FabWave/Collets/788eca98-c0ba-4a64-8ef6-e89eb060fd22-ascii-ascii.stl	(similarity = 0.027)
+	benchmarks/FabWave/Nuts/5ae9a45c-5572-4b7a-b088-b50fd77d0585-ascii.stl	(similarity = 0.023)
+	benchmarks/FabWave/Collets/1efbb85f-7a08-48fe-b227-6b4d45963c1e-ascii-ascii.stl	(similarity = 0.021)
+47
+Signature Match Score:  0.8801382788199777 
+
+
+Files matched with ./benchmarks/FabWave/Nuts/8f073b64-01c0-4061-a0c3-67a4ad9d87f9-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Nuts/8f073b64-01c0-4061-a0c3-67a4ad9d87f9-ascii.stl	(similarity = 0.71)
+	benchmarks/FabWave/Nuts/227753e1-738a-45f1-9a42-3c9d8d9b5c06-ascii.stl	(similarity = 0.543)
+	benchmarks/FabWave/Nuts/2ee8e60c-d5fc-44ab-9d3f-88e8ca7d028b-ascii.stl	(similarity = 0.42)
+	benchmarks/FabWave/Nuts/c61b52f9-2a69-4eb8-a251-6504d42e9ac6-ascii.stl	(similarity = 0.414)
+	benchmarks/FabWave/Nuts/9716ea73-74a5-4d12-a2ae-fe75474e68de-ascii.stl	(similarity = 0.155)
+	benchmarks/FabWave/Nuts/cc0cb2ca-8932-49c7-ba75-35c19fc3f27f-ascii.stl	(similarity = 0.148)
+	benchmarks/FabWave/Washers/9d712810-4375-46ae-aa0f-7d92aba8b076-ascii.stl	(similarity = 0.116)
+	benchmarks/FabWave/Collets/1efbb85f-7a08-48fe-b227-6b4d45963c1e-ascii-ascii.stl	(similarity = 0.116)
+	benchmarks/FabWave/Collets/788eca98-c0ba-4a64-8ef6-e89eb060fd22-ascii-ascii.stl	(similarity = 0.091)
+	benchmarks/FabWave/Washers/c2b1840d-cdbb-472e-9799-6554fc9288d6-ascii.stl	(similarity = 0.08)
+47
+Neighborhood Match Score:  0.7543613648423924 
+
+Signature Match Score: 0.8801382788199777 Neighborhood Match Score: 0.7543613648423924
+1355 2 ./benchmarks/FabWave/Nuts/43f4d3d9-e114-4789-bff6-02094346decd-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Nuts/43f4d3d9-e114-4789-bff6-02094346decd-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Nuts/43f4d3d9-e114-4789-bff6-02094346decd-ascii.stl	(similarity = 0.47)
+	benchmarks/FabWave/Nuts/609c3060-3a21-4fc6-a718-750edc7f0f52-ascii.stl	(similarity = 0.342)
+	benchmarks/FabWave/Nuts/e07963e8-fdcf-4d7f-9b08-404690d3160f-ascii.stl	(similarity = 0.314)
+	benchmarks/FabWave/Nuts/919f6f7a-c2cd-462c-91f6-a50aa98cd279-ascii.stl	(similarity = 0.208)
+	benchmarks/FabWave/Nuts/3290b5ba-acd2-4db8-9218-d2634cb99e7c-ascii.stl	(similarity = 0.159)
+	benchmarks/FabWave/Nuts/23e0bbd4-f141-49f8-b253-0f09aa013cbf-ascii.stl	(similarity = 0.132)
+	benchmarks/FabWave/Nuts/0bb82d4f-36f7-4141-a8f1-c562422e1106-ascii.stl	(similarity = 0.128)
+	benchmarks/FabWave/Nuts/92adec99-eda0-41e5-9f47-4d0ca8168d43-ascii.stl	(similarity = 0.109)
+	benchmarks/FabWave/Nuts/8285cfc2-78b8-477a-96b1-d2718fa4e5d3-ascii.stl	(similarity = 0.109)
+	benchmarks/FabWave/Nuts/9716ea73-74a5-4d12-a2ae-fe75474e68de-ascii.stl	(similarity = 0.094)
+47
+Signature Match Score:  1.0 
+
+
+Files matched with ./benchmarks/FabWave/Nuts/43f4d3d9-e114-4789-bff6-02094346decd-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Nuts/43f4d3d9-e114-4789-bff6-02094346decd-ascii.stl	(similarity = 0.525)
+	benchmarks/FabWave/Nuts/609c3060-3a21-4fc6-a718-750edc7f0f52-ascii.stl	(similarity = 0.434)
+	benchmarks/FabWave/Nuts/e07963e8-fdcf-4d7f-9b08-404690d3160f-ascii.stl	(similarity = 0.427)
+	benchmarks/FabWave/Nuts/3290b5ba-acd2-4db8-9218-d2634cb99e7c-ascii.stl	(similarity = 0.333)
+	benchmarks/FabWave/Nuts/8285cfc2-78b8-477a-96b1-d2718fa4e5d3-ascii.stl	(similarity = 0.296)
+	benchmarks/FabWave/Nuts/23e0bbd4-f141-49f8-b253-0f09aa013cbf-ascii.stl	(similarity = 0.296)
+	benchmarks/FabWave/Nuts/919f6f7a-c2cd-462c-91f6-a50aa98cd279-ascii.stl	(similarity = 0.255)
+	benchmarks/FabWave/Nuts/9716ea73-74a5-4d12-a2ae-fe75474e68de-ascii.stl	(similarity = 0.242)
+	benchmarks/FabWave/Nuts/92adec99-eda0-41e5-9f47-4d0ca8168d43-ascii.stl	(similarity = 0.241)
+	benchmarks/FabWave/Nuts/712e716b-7e26-42aa-b376-142b54060bdb-ascii.stl	(similarity = 0.229)
+47
+Neighborhood Match Score:  1.0 
+
+Signature Match Score: 1.0 Neighborhood Match Score: 1.0
+1356 3 ./benchmarks/FabWave/Nuts/e2405d43-1253-42b1-a44c-5f922d2ae15e-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Nuts/e2405d43-1253-42b1-a44c-5f922d2ae15e-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Nuts/e2405d43-1253-42b1-a44c-5f922d2ae15e-ascii.stl	(similarity = 0.509)
+	benchmarks/FabWave/Nuts/3241cc34-e663-483c-98a4-b06a57044531-ascii.stl	(similarity = 0.401)
+	benchmarks/FabWave/Nuts/92ee04c7-0da4-4b7f-a3ec-ead868255008-ascii.stl	(similarity = 0.396)
+	benchmarks/FabWave/Nuts/712e716b-7e26-42aa-b376-142b54060bdb-ascii.stl	(similarity = 0.386)
+	benchmarks/FabWave/Nuts/59486acb-0d5b-4c10-a949-5b3bdc354fec-ascii.stl	(similarity = 0.377)
+	benchmarks/FabWave/Nuts/1451be3d-5bd5-42dc-810f-93254ee61263-ascii.stl	(similarity = 0.349)
+	benchmarks/FabWave/Nuts/8675cb20-9391-4bb7-b550-dd53109d008e-ascii.stl	(similarity = 0.34)
+	benchmarks/FabWave/Nuts/0650a24d-58a8-47f3-813c-0d964dcbe8e6-ascii.stl	(similarity = 0.338)
+	benchmarks/FabWave/Nuts/340b1cbc-93c0-41be-a96e-4c0f723764fb-ascii.stl	(similarity = 0.338)
+	benchmarks/FabWave/Nuts/3227cefc-64c6-41a1-90c0-f48a59037476-ascii.stl	(similarity = 0.254)
+47
+Signature Match Score:  1.0 
+
+
+Files matched with ./benchmarks/FabWave/Nuts/e2405d43-1253-42b1-a44c-5f922d2ae15e-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Nuts/e2405d43-1253-42b1-a44c-5f922d2ae15e-ascii.stl	(similarity = 0.749)
+	benchmarks/FabWave/Nuts/3241cc34-e663-483c-98a4-b06a57044531-ascii.stl	(similarity = 0.673)
+	benchmarks/FabWave/Nuts/92ee04c7-0da4-4b7f-a3ec-ead868255008-ascii.stl	(similarity = 0.669)
+	benchmarks/FabWave/Nuts/712e716b-7e26-42aa-b376-142b54060bdb-ascii.stl	(similarity = 0.666)
+	benchmarks/FabWave/Nuts/1451be3d-5bd5-42dc-810f-93254ee61263-ascii.stl	(similarity = 0.662)
+	benchmarks/FabWave/Nuts/8675cb20-9391-4bb7-b550-dd53109d008e-ascii.stl	(similarity = 0.636)
+	benchmarks/FabWave/Nuts/340b1cbc-93c0-41be-a96e-4c0f723764fb-ascii.stl	(similarity = 0.57)
+	benchmarks/FabWave/Nuts/59486acb-0d5b-4c10-a949-5b3bdc354fec-ascii.stl	(similarity = 0.536)
+	benchmarks/FabWave/Nuts/0650a24d-58a8-47f3-813c-0d964dcbe8e6-ascii.stl	(similarity = 0.534)
+	benchmarks/FabWave/Nuts/23e59efe-7377-456c-85b3-d52e91a1485d-ascii.stl	(similarity = 0.261)
+47
+Neighborhood Match Score:  1.0 
+
+Signature Match Score: 1.0 Neighborhood Match Score: 1.0
+1401 1 ./benchmarks/FabWave/O_Rings/82b14fce-3469-4ba5-a9b5-bdd4e51285e5-ascii.stl
+
+Files matched with ./benchmarks/FabWave/O_Rings/82b14fce-3469-4ba5-a9b5-bdd4e51285e5-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/O_Rings/82b14fce-3469-4ba5-a9b5-bdd4e51285e5-ascii.stl	(similarity = 0.437)
+	benchmarks/FabWave/O_Rings/bfa63a73-22c8-4422-90f1-002b351eebc5-ascii.stl	(similarity = 0.165)
+	benchmarks/FabWave/O_Rings/3deeffab-7a2c-4eac-b3ab-998fae20e6a2-ascii.stl	(similarity = 0.137)
+	benchmarks/FabWave/O_Rings/ec6155fb-9497-4377-b7a6-cc7f7e16b7ea-ascii.stl	(similarity = 0.121)
+	benchmarks/FabWave/O_Rings/e96ec6b1-4e5b-4df7-b6be-68fe76f549be-ascii.stl	(similarity = 0.116)
+	benchmarks/FabWave/O_Rings/7909ed73-9ed7-48b6-8331-50e6cf15a314-ascii.stl	(similarity = 0.112)
+	benchmarks/FabWave/O_Rings/2c47fe46-60bf-4756-852e-64773c246cf8-ascii.stl	(similarity = 0.104)
+	benchmarks/FabWave/O_Rings/fadbb1cb-3c7d-43c4-a910-99171ee23e79-ascii.stl	(similarity = 0.101)
+	benchmarks/FabWave/O_Rings/f9682c34-2b7c-418e-bb7a-b8eeb5478e58-ascii.stl	(similarity = 0.098)
+	benchmarks/FabWave/O_Rings/b8a457b9-6102-45a0-910d-8c28a640e04b-ascii.stl	(similarity = 0.097)
+376
+Signature Match Score:  1.0 
+
+
+Files matched with ./benchmarks/FabWave/O_Rings/82b14fce-3469-4ba5-a9b5-bdd4e51285e5-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/O_Rings/82b14fce-3469-4ba5-a9b5-bdd4e51285e5-ascii.stl	(similarity = 0.603)
+	benchmarks/FabWave/O_Rings/a9a95da6-312f-4b49-8da0-6586a8e4218f-ascii.stl	(similarity = 0.309)
+	benchmarks/FabWave/O_Rings/a0f4dd9e-b896-4754-ad37-3ee53aa11b0a-ascii.stl	(similarity = 0.304)
+	benchmarks/FabWave/O_Rings/f6a8be0a-5dca-4845-9110-6c5be42e346e-ascii.stl	(similarity = 0.288)
+	benchmarks/FabWave/O_Rings/3deeffab-7a2c-4eac-b3ab-998fae20e6a2-ascii.stl	(similarity = 0.248)
+	benchmarks/FabWave/O_Rings/217ab371-1382-462d-aeda-9d2be7e96d9e-ascii.stl	(similarity = 0.247)
+	benchmarks/FabWave/O_Rings/34afdb74-7d51-4906-a528-68a9f5b8778a-ascii.stl	(similarity = 0.241)
+	benchmarks/FabWave/O_Rings/bfa63a73-22c8-4422-90f1-002b351eebc5-ascii.stl	(similarity = 0.203)
+	benchmarks/FabWave/O_Rings/e0941b45-6f9e-42ae-aa06-ae539856e89b-ascii.stl	(similarity = 0.169)
+	benchmarks/FabWave/O_Rings/deffc913-6bea-4f5b-acff-eba9107de31c-ascii.stl	(similarity = 0.166)
+376
+Neighborhood Match Score:  1.0 
+
+Signature Match Score: 1.0 Neighborhood Match Score: 1.0
+1402 2 ./benchmarks/FabWave/O_Rings/1ee122c7-7691-45b8-80c3-dd6e1cbf47b8-ascii.stl
+
+Files matched with ./benchmarks/FabWave/O_Rings/1ee122c7-7691-45b8-80c3-dd6e1cbf47b8-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/O_Rings/1ee122c7-7691-45b8-80c3-dd6e1cbf47b8-ascii.stl	(similarity = 0.577)
+	benchmarks/FabWave/O_Rings/768756c6-f6d5-4549-927f-6d72c851fd2c-ascii.stl	(similarity = 0.557)
+	benchmarks/FabWave/O_Rings/e3854517-8989-4083-b815-c9f5b583deca-ascii.stl	(similarity = 0.551)
+	benchmarks/FabWave/O_Rings/bd222c5e-a560-4cb6-ae1b-4e94a0aabfc8-ascii.stl	(similarity = 0.51)
+	benchmarks/FabWave/O_Rings/bb02aaa0-3ada-45ac-8bac-7808f2c7368a-ascii.stl	(similarity = 0.201)
+	benchmarks/FabWave/Grommets/82f2fa49-507e-4539-94fd-5955468e7f24-ascii.stl	(similarity = 0.161)
+	benchmarks/FabWave/Grommets/6fea2f2e-9b2f-4fac-9a8d-3803a5543a38-ascii.stl	(similarity = 0.118)
+	benchmarks/FabWave/O_Rings/aa21feaa-2a22-43ef-880b-7165a939ff65-ascii.stl	(similarity = 0.113)
+	benchmarks/FabWave/Grommets/7716393f-17f9-46eb-a40f-3e78bf210a33-ascii.stl	(similarity = 0.084)
+	benchmarks/FabWave/Grommets/5c157fcb-eb26-4e84-b363-fd954c8ff853-ascii.stl	(similarity = 0.074)
+376
+Signature Match Score:  0.7462832780081168 
+
+
+Files matched with ./benchmarks/FabWave/O_Rings/1ee122c7-7691-45b8-80c3-dd6e1cbf47b8-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/O_Rings/1ee122c7-7691-45b8-80c3-dd6e1cbf47b8-ascii.stl	(similarity = 0.748)
+	benchmarks/FabWave/O_Rings/e3854517-8989-4083-b815-c9f5b583deca-ascii.stl	(similarity = 0.714)
+	benchmarks/FabWave/O_Rings/768756c6-f6d5-4549-927f-6d72c851fd2c-ascii.stl	(similarity = 0.713)
+	benchmarks/FabWave/O_Rings/bd222c5e-a560-4cb6-ae1b-4e94a0aabfc8-ascii.stl	(similarity = 0.661)
+	benchmarks/FabWave/O_Rings/bb02aaa0-3ada-45ac-8bac-7808f2c7368a-ascii.stl	(similarity = 0.363)
+	benchmarks/FabWave/O_Rings/81c4c7b3-40d7-4ec7-b824-b10957903ad9-ascii.stl	(similarity = 0.31)
+	benchmarks/FabWave/O_Rings/c57b1166-8695-4b37-b89b-376e028f8150-ascii.stl	(similarity = 0.301)
+	benchmarks/FabWave/O_Rings/83e5c68e-df29-400d-9a58-9f399c0b56d0-ascii.stl	(similarity = 0.298)
+	benchmarks/FabWave/Grommets/6fea2f2e-9b2f-4fac-9a8d-3803a5543a38-ascii.stl	(similarity = 0.272)
+	benchmarks/FabWave/O_Rings/b3be403a-36b3-48dd-a889-f24db25e8fe6-ascii.stl	(similarity = 0.249)
+376
+Neighborhood Match Score:  0.9403139775931355 
+
+Signature Match Score: 0.7462832780081168 Neighborhood Match Score: 0.9403139775931355
+1403 3 ./benchmarks/FabWave/O_Rings/c6f20737-523c-4ff8-b139-64c806949eef-ascii.stl
+
+Files matched with ./benchmarks/FabWave/O_Rings/c6f20737-523c-4ff8-b139-64c806949eef-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/O_Rings/c6f20737-523c-4ff8-b139-64c806949eef-ascii.stl	(similarity = 0.432)
+	benchmarks/FabWave/O_Rings/fb32bf77-52e7-4ee9-8aa1-43155b94cb2a-ascii.stl	(similarity = 0.187)
+	benchmarks/FabWave/O_Rings/09d7b6cc-65e3-48c3-aca5-a5136e8f1853-ascii.stl	(similarity = 0.187)
+	benchmarks/FabWave/O_Rings/d518d9d4-5b3c-4fa3-b2ce-f1174606891e-ascii.stl	(similarity = 0.149)
+	benchmarks/FabWave/O_Rings/e8276837-9189-4e76-b897-4894a069c97a-ascii.stl	(similarity = 0.141)
+	benchmarks/FabWave/O_Rings/d20b8a4b-aec2-4264-9629-8d75db8fb4a8-ascii.stl	(similarity = 0.14)
+	benchmarks/FabWave/O_Rings/537a8e85-9fe6-40f9-9d77-e3ea0f044463-ascii.stl	(similarity = 0.137)
+	benchmarks/FabWave/O_Rings/f8dd46bd-54ba-4a26-bdb1-0e1cfd2ea2c1-ascii.stl	(similarity = 0.125)
+	benchmarks/FabWave/O_Rings/e780025e-1a74-41ad-a87b-825269614827-ascii.stl	(similarity = 0.121)
+	benchmarks/FabWave/O_Rings/75bad840-3ce1-4c57-b147-a8bff7b5abcb-ascii.stl	(similarity = 0.109)
+376
+Signature Match Score:  1.0 
+
+
+Files matched with ./benchmarks/FabWave/O_Rings/c6f20737-523c-4ff8-b139-64c806949eef-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/O_Rings/c6f20737-523c-4ff8-b139-64c806949eef-ascii.stl	(similarity = 0.493)
+	benchmarks/FabWave/O_Rings/ed807ab7-d6ae-4a01-b0f2-89e3b7a9a77a-ascii.stl	(similarity = 0.296)
+	benchmarks/FabWave/O_Rings/72492902-59ce-490b-b8a7-c2f603f89f4b-ascii.stl	(similarity = 0.288)
+	benchmarks/FabWave/O_Rings/72f5a944-84a4-42d8-89ca-d8f4af7e9ea9-ascii.stl	(similarity = 0.255)
+	benchmarks/FabWave/O_Rings/fb32bf77-52e7-4ee9-8aa1-43155b94cb2a-ascii.stl	(similarity = 0.246)
+	benchmarks/FabWave/O_Rings/e8276837-9189-4e76-b897-4894a069c97a-ascii.stl	(similarity = 0.238)
+	benchmarks/FabWave/O_Rings/889d24fe-26e3-476a-b111-40fb8407c46f-ascii.stl	(similarity = 0.228)
+	benchmarks/FabWave/O_Rings/dce8c0cf-bcf5-45a8-a4c9-0280de5b365b-ascii.stl	(similarity = 0.195)
+	benchmarks/FabWave/O_Rings/21320861-8296-46ed-a318-eecd224c4dcd-ascii.stl	(similarity = 0.182)
+	benchmarks/FabWave/O_Rings/6d4a9b39-c2c5-4917-b1f5-8bf5b2a5260a-ascii.stl	(similarity = 0.179)
+376
+Neighborhood Match Score:  1.0 
+
+Signature Match Score: 1.0 Neighborhood Match Score: 1.0
+1777 1 ./benchmarks/FabWave/Pipe_Fittings/44965k434-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Pipe_Fittings/44965k434-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Pipe_Fittings/44965k434-ascii.stl	(similarity = 0.527)
+	benchmarks/FabWave/Pipe_Fittings/44965k433-ascii.stl	(similarity = 0.16)
+	benchmarks/FabWave/Pipe_Fittings/44965k435-ascii.stl	(similarity = 0.127)
+	benchmarks/FabWave/Pipe_Fittings/44965k440-ascii.stl	(similarity = 0.094)
+	benchmarks/FabWave/Pipe_Fittings/raipipemodel3-ascii.stl	(similarity = 0.072)
+	benchmarks/FabWave/Grommets/7716393f-17f9-46eb-a40f-3e78bf210a33-ascii.stl	(similarity = 0.058)
+	benchmarks/FabWave/Bearings/ad861ce9-5d60-4248-90c4-e049e9243f7c-ascii.stl	(similarity = 0.048)
+	benchmarks/FabWave/Bearings/d8ee3a87-9f0b-4cec-a62a-871bee58f279-ascii.stl	(similarity = 0.047)
+	benchmarks/FabWave/Bearings/bcd7f4f0-c649-412d-81d8-53ce27db1b53-ascii.stl	(similarity = 0.047)
+	benchmarks/FabWave/Grommets/41083c05-5ba4-4dea-9c79-b00e42089fc5-ascii.stl	(similarity = 0.041)
+28
+Signature Match Score:  0.6837352131013399 
+
+
+Files matched with ./benchmarks/FabWave/Pipe_Fittings/44965k434-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Pipe_Fittings/44965k434-ascii.stl	(similarity = 0.672)
+	benchmarks/FabWave/Pipe_Fittings/44965k440-ascii.stl	(similarity = 0.28)
+	benchmarks/FabWave/Pipe_Fittings/44965k433-ascii.stl	(similarity = 0.278)
+	benchmarks/FabWave/Pipe_Fittings/44965k435-ascii.stl	(similarity = 0.276)
+	benchmarks/FabWave/Bearings/f676ecd7-78ba-4480-82cd-19dea06eb923-ascii.stl	(similarity = 0.182)
+	benchmarks/FabWave/O_Rings/7e53e37d-832a-4d11-ac4d-73c59d32c850-ascii.stl	(similarity = 0.176)
+	benchmarks/FabWave/Pipe_Fittings/raipipemodel3-ascii.stl	(similarity = 0.165)
+	benchmarks/FabWave/Grommets/7716393f-17f9-46eb-a40f-3e78bf210a33-ascii.stl	(similarity = 0.151)
+	benchmarks/FabWave/Gasket/d920fbde-8297-499f-b876-d0062a130109-ascii.stl	(similarity = 0.147)
+	benchmarks/FabWave/Pipe_Fittings/raipipemodel4-ascii.stl	(similarity = 0.109)
+28
+Neighborhood Match Score:  0.7304374201432788 
+
+Signature Match Score: 0.6837352131013399 Neighborhood Match Score: 0.6731237638700336
+1778 2 ./benchmarks/FabWave/Pipe_Fittings/raipipemodel0-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Pipe_Fittings/raipipemodel0-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Pipe_Fittings/raipipemodel0-ascii.stl	(similarity = 0.452)
+	benchmarks/FabWave/Pipe_Fittings/raipipemodel1-ascii.stl	(similarity = 0.392)
+	benchmarks/FabWave/Pipe_Fittings/raipipemodel2-ascii.stl	(similarity = 0.347)
+	benchmarks/FabWave/Shaft_Collar/b348c6c1-6e0e-4c03-85c3-d13cde583dc0-ascii.stl	(similarity = 0.123)
+	benchmarks/FabWave/Shaft_Collar/770726f8-5673-43d8-b8b9-185a04612fb1-ascii.stl	(similarity = 0.114)
+	benchmarks/FabWave/Shaft_Collar/3695df82-8919-4b4c-8cb1-c3d2affa2ee8-ascii.stl	(similarity = 0.101)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew42-ascii.stl	(similarity = 0.074)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew28-ascii.stl	(similarity = 0.065)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew83-ascii.stl	(similarity = 0.059)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew4-ascii.stl	(similarity = 0.059)
+28
+Signature Match Score:  0.5216414791984154 
+
+
+Files matched with ./benchmarks/FabWave/Pipe_Fittings/raipipemodel0-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Pipe_Fittings/raipipemodel1-ascii.stl	(similarity = 0.528)
+	benchmarks/FabWave/Pipe_Fittings/raipipemodel0-ascii.stl	(similarity = 0.498)
+	benchmarks/FabWave/Pipe_Fittings/raipipemodel2-ascii.stl	(similarity = 0.488)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew4-ascii.stl	(similarity = 0.373)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew28-ascii.stl	(similarity = 0.324)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew49-ascii.stl	(similarity = 0.317)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew83-ascii.stl	(similarity = 0.313)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew42-ascii.stl	(similarity = 0.297)
+	benchmarks/FabWave/Shaft_Collar/b348c6c1-6e0e-4c03-85c3-d13cde583dc0-ascii.stl	(similarity = 0.294)
+	benchmarks/FabWave/Shaft_Collar/770726f8-5673-43d8-b8b9-185a04612fb1-ascii.stl	(similarity = 0.267)
+28
+Neighborhood Match Score:  0.4850532067293792 
+
+Signature Match Score: 0.5216414791984154 Neighborhood Match Score: 0.4850532067293792
+1779 3 ./benchmarks/FabWave/Pipe_Fittings/mpraolong90elbowconnector6-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Pipe_Fittings/mpraolong90elbowconnector6-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Pipe_Fittings/mpraolong90elbowconnector6-ascii.stl	(similarity = 0.461)
+	benchmarks/FabWave/Pipe_Fittings/mpraolong90elbowconnector7-ascii.stl	(similarity = 0.171)
+	benchmarks/FabWave/Pipe_Fittings/mpraolong90elbowconnector9-ascii.stl	(similarity = 0.141)
+	benchmarks/FabWave/O_Rings/b531af1a-3dd1-4725-b622-cece6f88433a-ascii.stl	(similarity = 0.107)
+	benchmarks/FabWave/Pipes/139d7588-ad4b-409b-9de1-862352deba20-ascii.stl	(similarity = 0.094)
+	benchmarks/FabWave/Brackets/bracket223-ascii.stl	(similarity = 0.086)
+	benchmarks/FabWave/Pipe_Fittings/mpraolong90elbowconnector8-ascii.stl	(similarity = 0.084)
+	benchmarks/FabWave/O_Rings/7fb66e31-187a-449e-9062-0f383e44de1a-ascii.stl	(similarity = 0.082)
+	benchmarks/FabWave/O_Rings/84a3582a-e597-40c6-a130-cf2d02c4a578-ascii.stl	(similarity = 0.062)
+	benchmarks/FabWave/Grommets/d81ea7fb-6049-478b-9a14-f7d1305c3708-ascii.stl	(similarity = 0.055)
+28
+Signature Match Score:  0.5877323707691363 
+
+
+Files matched with ./benchmarks/FabWave/Pipe_Fittings/mpraolong90elbowconnector6-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Pipe_Fittings/mpraolong90elbowconnector6-ascii.stl	(similarity = 0.598)
+	benchmarks/FabWave/Pipe_Fittings/mpraolong90elbowconnector7-ascii.stl	(similarity = 0.343)
+	benchmarks/FabWave/Pipe_Fittings/mpraolong90elbowconnector8-ascii.stl	(similarity = 0.315)
+	benchmarks/FabWave/Pipe_Fittings/mpraolong90elbowconnector9-ascii.stl	(similarity = 0.298)
+	benchmarks/FabWave/O_Rings/b531af1a-3dd1-4725-b622-cece6f88433a-ascii.stl	(similarity = 0.264)
+	benchmarks/FabWave/O_Rings/7fb66e31-187a-449e-9062-0f383e44de1a-ascii.stl	(similarity = 0.217)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew66-ascii.stl	(similarity = 0.2)
+	benchmarks/FabWave/Pipes/139d7588-ad4b-409b-9de1-862352deba20-ascii.stl	(similarity = 0.191)
+	benchmarks/FabWave/Grommets/b77d356e-feb6-4c3a-b1d8-b9418623fdf2-ascii.stl	(similarity = 0.1)
+	benchmarks/FabWave/Grommets/ef1beb40-6d5e-49a3-a06e-ea1f9123a115-ascii.stl	(similarity = 0.1)
+28
+Neighborhood Match Score:  0.6070328722993127 
+
+Signature Match Score: 0.5922676309394679 Neighborhood Match Score: 0.6070328722993127
+1805 1 ./benchmarks/FabWave/Pipe_Joints/23f8765a-b35f-48fe-9f84-53d17ecbe7ea-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Pipe_Joints/23f8765a-b35f-48fe-9f84-53d17ecbe7ea-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Pipe_Joints/23f8765a-b35f-48fe-9f84-53d17ecbe7ea-ascii.stl	(similarity = 0.553)
+	benchmarks/FabWave/Pipe_Joints/22dbe866-ad04-46e2-93b2-01362b3fe009-ascii.stl	(similarity = 0.117)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew33-ascii.stl	(similarity = 0.066)
+	benchmarks/FabWave/Bushing/816205f4-3f30-4d04-9522-912171c5da6c-ascii.stl	(similarity = 0.06)
+	benchmarks/FabWave/Bushing/90f5b493-1557-460d-932e-3c8bf7904362-ascii.stl	(similarity = 0.058)
+	benchmarks/FabWave/Bushing/b621aa42-1f41-4bbf-8555-5f0d0fd78721-ascii.stl	(similarity = 0.057)
+	benchmarks/FabWave/Pipe_Joints/0686e805-72fa-4529-9e16-67ef16975305-ascii.stl	(similarity = 0.052)
+	benchmarks/FabWave/Bushing/cf22af7b-6d8d-4562-a11b-a046f5eafa9e-ascii.stl	(similarity = 0.051)
+	benchmarks/FabWave/Bushing/ee9b4692-1a07-438d-9f32-6cba4c4642cf-ascii.stl	(similarity = 0.05)
+	benchmarks/FabWave/Bushing/376f7e56-00fc-4b5a-a851-d51a6fe0a64e-ascii.stl	(similarity = 0.05)
+10
+Signature Match Score:  0.488596033413055 
+
+
+Files matched with ./benchmarks/FabWave/Pipe_Joints/23f8765a-b35f-48fe-9f84-53d17ecbe7ea-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Pipe_Joints/23f8765a-b35f-48fe-9f84-53d17ecbe7ea-ascii.stl	(similarity = 0.579)
+	benchmarks/FabWave/Pipe_Joints/22dbe866-ad04-46e2-93b2-01362b3fe009-ascii.stl	(similarity = 0.251)
+	benchmarks/FabWave/Bushing/816205f4-3f30-4d04-9522-912171c5da6c-ascii.stl	(similarity = 0.193)
+	benchmarks/FabWave/Bushing/90f5b493-1557-460d-932e-3c8bf7904362-ascii.stl	(similarity = 0.192)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew33-ascii.stl	(similarity = 0.179)
+	benchmarks/FabWave/Bushing/b621aa42-1f41-4bbf-8555-5f0d0fd78721-ascii.stl	(similarity = 0.177)
+	benchmarks/FabWave/Bushing/ec46534f-5b78-4913-b366-86d7f3918e23-ascii.stl	(similarity = 0.161)
+	benchmarks/FabWave/Bushing/cf22af7b-6d8d-4562-a11b-a046f5eafa9e-ascii.stl	(similarity = 0.146)
+	benchmarks/FabWave/Shaft_Collar/6c0bb3c2-d328-487c-b9ec-d82cb0cc293f-ascii.stl	(similarity = 0.146)
+	benchmarks/FabWave/Bushing/376f7e56-00fc-4b5a-a851-d51a6fe0a64e-ascii.stl	(similarity = 0.146)
+10
+Neighborhood Match Score:  0.4225051418423341 
+
+Signature Match Score: 0.4225051418423341 Neighborhood Match Score: 0.4225051418423341
+1806 2 ./benchmarks/FabWave/Pipe_Joints/31a4005c-9244-4481-86ea-a7c4706b77e0-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Pipe_Joints/31a4005c-9244-4481-86ea-a7c4706b77e0-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Pipe_Joints/31a4005c-9244-4481-86ea-a7c4706b77e0-ascii.stl	(similarity = 0.558)
+	benchmarks/FabWave/Pipe_Joints/522d5d62-34da-4d81-b5b0-4555b0d2a0da-ascii.stl	(similarity = 0.171)
+	benchmarks/FabWave/Pipe_Joints/378b9058-1172-4758-a9d4-9547370e5bfe-ascii.stl	(similarity = 0.087)
+	benchmarks/FabWave/Pipe_Joints/23f8765a-b35f-48fe-9f84-53d17ecbe7ea-ascii.stl	(similarity = 0.076)
+	benchmarks/FabWave/Bushing/9b17ea4d-ff50-42c6-afde-ef06d9c61715-ascii.stl	(similarity = 0.074)
+	benchmarks/FabWave/Pipe_Joints/0686e805-72fa-4529-9e16-67ef16975305-ascii.stl	(similarity = 0.071)
+	benchmarks/FabWave/Pipe_Joints/22dbe866-ad04-46e2-93b2-01362b3fe009-ascii.stl	(similarity = 0.07)
+	benchmarks/FabWave/Bushing/fa76768c-89c3-4a18-be09-b15f4ac60fcf-ascii.stl	(similarity = 0.069)
+	benchmarks/FabWave/Bushing/89d4d12c-b833-41f3-80ae-30ed79515a86-ascii.stl	(similarity = 0.067)
+	benchmarks/FabWave/Bushing/c7574366-137a-4bda-8c52-4b5f947acf6a-ascii.stl	(similarity = 0.039)
+10
+Signature Match Score:  0.743749915611086 
+
+
+Files matched with ./benchmarks/FabWave/Pipe_Joints/31a4005c-9244-4481-86ea-a7c4706b77e0-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Pipe_Joints/31a4005c-9244-4481-86ea-a7c4706b77e0-ascii.stl	(similarity = 0.607)
+	benchmarks/FabWave/Pipe_Joints/522d5d62-34da-4d81-b5b0-4555b0d2a0da-ascii.stl	(similarity = 0.328)
+	benchmarks/FabWave/Pipe_Joints/378b9058-1172-4758-a9d4-9547370e5bfe-ascii.stl	(similarity = 0.181)
+	benchmarks/FabWave/Bushing/9b17ea4d-ff50-42c6-afde-ef06d9c61715-ascii.stl	(similarity = 0.171)
+	benchmarks/FabWave/Pipe_Joints/23f8765a-b35f-48fe-9f84-53d17ecbe7ea-ascii.stl	(similarity = 0.161)
+	benchmarks/FabWave/Pipe_Joints/22dbe866-ad04-46e2-93b2-01362b3fe009-ascii.stl	(similarity = 0.156)
+	benchmarks/FabWave/Pipe_Joints/0686e805-72fa-4529-9e16-67ef16975305-ascii.stl	(similarity = 0.146)
+	benchmarks/FabWave/Bushing/772ca0d5-dea7-4528-a7a5-37ca7c9d992b-ascii.stl	(similarity = 0.138)
+	benchmarks/FabWave/Bushing/fa76768c-89c3-4a18-be09-b15f4ac60fcf-ascii.stl	(similarity = 0.134)
+	benchmarks/FabWave/Bushing/89d4d12c-b833-41f3-80ae-30ed79515a86-ascii.stl	(similarity = 0.133)
+10
+Neighborhood Match Score:  0.735060863312216 
+
+Signature Match Score: 0.743749915611086 Neighborhood Match Score: 0.7099664580827776
+1807 3 ./benchmarks/FabWave/Pipe_Joints/522d5d62-34da-4d81-b5b0-4555b0d2a0da-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Pipe_Joints/522d5d62-34da-4d81-b5b0-4555b0d2a0da-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Pipe_Joints/522d5d62-34da-4d81-b5b0-4555b0d2a0da-ascii.stl	(similarity = 0.508)
+	benchmarks/FabWave/Pipe_Joints/378b9058-1172-4758-a9d4-9547370e5bfe-ascii.stl	(similarity = 0.161)
+	benchmarks/FabWave/Bushing/9b17ea4d-ff50-42c6-afde-ef06d9c61715-ascii.stl	(similarity = 0.147)
+	benchmarks/FabWave/Bushing/fa76768c-89c3-4a18-be09-b15f4ac60fcf-ascii.stl	(similarity = 0.146)
+	benchmarks/FabWave/Bushing/c7574366-137a-4bda-8c52-4b5f947acf6a-ascii.stl	(similarity = 0.146)
+	benchmarks/FabWave/Pipe_Joints/31a4005c-9244-4481-86ea-a7c4706b77e0-ascii.stl	(similarity = 0.135)
+	benchmarks/FabWave/Bushing/89d4d12c-b833-41f3-80ae-30ed79515a86-ascii.stl	(similarity = 0.128)
+	benchmarks/FabWave/Bushing/96adc707-c8e9-4c19-b3df-7a809161458d-ascii.stl	(similarity = 0.127)
+	benchmarks/FabWave/Bushing/2891cbab-0c2d-47fb-925e-2d8ebd533a92-ascii.stl	(similarity = 0.108)
+	benchmarks/FabWave/Bushing/50979a49-4199-414b-b956-a936ddc0819e-ascii.stl	(similarity = 0.093)
+10
+Signature Match Score:  0.49313129358338664 
+
+
+Files matched with ./benchmarks/FabWave/Pipe_Joints/522d5d62-34da-4d81-b5b0-4555b0d2a0da-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Pipe_Joints/522d5d62-34da-4d81-b5b0-4555b0d2a0da-ascii.stl	(similarity = 0.604)
+	benchmarks/FabWave/Pipe_Joints/378b9058-1172-4758-a9d4-9547370e5bfe-ascii.stl	(similarity = 0.282)
+	benchmarks/FabWave/Pipe_Joints/31a4005c-9244-4481-86ea-a7c4706b77e0-ascii.stl	(similarity = 0.275)
+	benchmarks/FabWave/Bushing/9b17ea4d-ff50-42c6-afde-ef06d9c61715-ascii.stl	(similarity = 0.258)
+	benchmarks/FabWave/Bushing/fa76768c-89c3-4a18-be09-b15f4ac60fcf-ascii.stl	(similarity = 0.243)
+	benchmarks/FabWave/Bushing/89d4d12c-b833-41f3-80ae-30ed79515a86-ascii.stl	(similarity = 0.232)
+	benchmarks/FabWave/Bushing/96adc707-c8e9-4c19-b3df-7a809161458d-ascii.stl	(similarity = 0.226)
+	benchmarks/FabWave/Bushing/c7574366-137a-4bda-8c52-4b5f947acf6a-ascii.stl	(similarity = 0.19)
+	benchmarks/FabWave/Bushing/57fd8080-eb53-43d4-892f-c6df05396a27-ascii.stl	(similarity = 0.15)
+	benchmarks/FabWave/Bushing/315e3fc1-5aa3-4df3-ac02-f0d484fb3bb6-ascii.stl	(similarity = 0.139)
+10
+Neighborhood Match Score:  0.5216414791984154 
+
+Signature Match Score: 0.49313129358338664 Neighborhood Match Score: 0.5216414791984154
+1815 1 ./benchmarks/FabWave/Pipes/01288f20-ced3-4e60-a083-dca89eb1caff-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Pipes/01288f20-ced3-4e60-a083-dca89eb1caff-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Pipes/01288f20-ced3-4e60-a083-dca89eb1caff-ascii.stl	(similarity = 0.541)
+	benchmarks/FabWave/O_Rings/81c4c7b3-40d7-4ec7-b824-b10957903ad9-ascii.stl	(similarity = 0.154)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew101-ascii.stl	(similarity = 0.13)
+	benchmarks/FabWave/O_Rings/917b1348-eaee-4b4c-8407-1f2e7eacb919-ascii.stl	(similarity = 0.089)
+	benchmarks/FabWave/Pipes/263a8e36-91ce-4e57-a867-86c5b88cd925-ascii.stl	(similarity = 0.084)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew5-ascii.stl	(similarity = 0.076)
+	benchmarks/FabWave/Brackets/bracket23-ascii.stl	(similarity = 0.065)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew1-ascii.stl	(similarity = 0.041)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile72-ascii.stl	(similarity = 0.041)
+	benchmarks/FabWave/Collets/99b954c3-13b4-445b-b822-4659ac543758-ascii-ascii.stl	(similarity = 0.04)
+9
+Signature Match Score:  0.3741113528702711 
+
+
+Files matched with ./benchmarks/FabWave/Pipes/01288f20-ced3-4e60-a083-dca89eb1caff-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Pipes/01288f20-ced3-4e60-a083-dca89eb1caff-ascii.stl	(similarity = 0.601)
+	benchmarks/FabWave/O_Rings/81c4c7b3-40d7-4ec7-b824-b10957903ad9-ascii.stl	(similarity = 0.356)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew101-ascii.stl	(similarity = 0.272)
+	benchmarks/FabWave/O_Rings/917b1348-eaee-4b4c-8407-1f2e7eacb919-ascii.stl	(similarity = 0.25)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew1-ascii.stl	(similarity = 0.225)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew4-ascii.stl	(similarity = 0.194)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew42-ascii.stl	(similarity = 0.194)
+	benchmarks/FabWave/Pipes/263a8e36-91ce-4e57-a867-86c5b88cd925-ascii.stl	(similarity = 0.193)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew5-ascii.stl	(similarity = 0.191)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew40-ascii.stl	(similarity = 0.187)
+9
+Neighborhood Match Score:  0.3599570769750207 
+
+Signature Match Score: 0.3741113528702711 Neighborhood Match Score: 0.3599570769750207
+1816 2 ./benchmarks/FabWave/Pipes/00830e1f-727c-4866-a456-657bcf05eefa-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Pipes/00830e1f-727c-4866-a456-657bcf05eefa-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Pipes/00830e1f-727c-4866-a456-657bcf05eefa-ascii.stl	(similarity = 0.439)
+	benchmarks/FabWave/Pipes/1b318f88-7bd4-4e71-9327-2d910a149999-ascii.stl	(similarity = 0.149)
+	benchmarks/FabWave/Pipes/12d299ec-1719-41ef-8562-956f9a394e89-ascii.stl	(similarity = 0.134)
+	benchmarks/FabWave/Brackets/bracket327-ascii.stl	(similarity = 0.116)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile75-ascii.stl	(similarity = 0.115)
+	benchmarks/FabWave/Brackets/bracket318-ascii.stl	(similarity = 0.115)
+	benchmarks/FabWave/Brackets/bracket210-ascii.stl	(similarity = 0.112)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew67-ascii.stl	(similarity = 0.089)
+	benchmarks/FabWave/Gasket/7b98e737-c908-46dd-98d7-e3db1afa0fff-ascii.stl	(similarity = 0.06)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew26-ascii.stl	(similarity = 0.059)
+9
+Signature Match Score:  0.5216414791984154 
+
+
+Files matched with ./benchmarks/FabWave/Pipes/00830e1f-727c-4866-a456-657bcf05eefa-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Pipes/00830e1f-727c-4866-a456-657bcf05eefa-ascii.stl	(similarity = 0.447)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile75-ascii.stl	(similarity = 0.339)
+	benchmarks/FabWave/Pipes/1b318f88-7bd4-4e71-9327-2d910a149999-ascii.stl	(similarity = 0.299)
+	benchmarks/FabWave/HeadlessScrews/3ec32bb7-ac48-4558-a669-f43afa1c50ec-ascii.stl	(similarity = 0.291)
+	benchmarks/FabWave/Brackets/bracket210-ascii.stl	(similarity = 0.253)
+	benchmarks/FabWave/Brackets/bracket318-ascii.stl	(similarity = 0.251)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew67-ascii.stl	(similarity = 0.249)
+	benchmarks/FabWave/Pipes/12d299ec-1719-41ef-8562-956f9a394e89-ascii.stl	(similarity = 0.231)
+	benchmarks/FabWave/Brackets/bracket25-ascii.stl	(similarity = 0.22)
+	benchmarks/FabWave/Brackets/bracket327-ascii.stl	(similarity = 0.217)
+9
+Neighborhood Match Score:  0.459093414331102 
+
+Signature Match Score: 0.5216414791984154 Neighborhood Match Score: 0.4626362409950461
+1817 3 ./benchmarks/FabWave/Pipes/1b318f88-7bd4-4e71-9327-2d910a149999-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Pipes/1b318f88-7bd4-4e71-9327-2d910a149999-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Pipes/1b318f88-7bd4-4e71-9327-2d910a149999-ascii.stl	(similarity = 0.492)
+	benchmarks/FabWave/Pipes/00830e1f-727c-4866-a456-657bcf05eefa-ascii.stl	(similarity = 0.141)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew26-ascii.stl	(similarity = 0.14)
+	benchmarks/FabWave/Brackets/bracket210-ascii.stl	(similarity = 0.123)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile56-ascii.stl	(similarity = 0.098)
+	benchmarks/FabWave/Gasket/7b98e737-c908-46dd-98d7-e3db1afa0fff-ascii.stl	(similarity = 0.095)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew10-ascii.stl	(similarity = 0.061)
+	benchmarks/FabWave/Gasket/bcbb8883-e1f4-4560-ae4d-9944e6a3f142-ascii.stl	(similarity = 0.056)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew10-ascii.stl	(similarity = 0.055)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew47-ascii.stl	(similarity = 0.043)
+9
+Signature Match Score:  0.4225051418423341 
+
+
+Files matched with ./benchmarks/FabWave/Pipes/1b318f88-7bd4-4e71-9327-2d910a149999-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Pipes/1b318f88-7bd4-4e71-9327-2d910a149999-ascii.stl	(similarity = 0.599)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew26-ascii.stl	(similarity = 0.322)
+	benchmarks/FabWave/Brackets/bracket210-ascii.stl	(similarity = 0.282)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew47-ascii.stl	(similarity = 0.281)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew37-ascii.stl	(similarity = 0.239)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile56-ascii.stl	(similarity = 0.238)
+	benchmarks/FabWave/Pipes/00830e1f-727c-4866-a456-657bcf05eefa-ascii.stl	(similarity = 0.224)
+	benchmarks/FabWave/Gasket/7b98e737-c908-46dd-98d7-e3db1afa0fff-ascii.stl	(similarity = 0.203)
+	benchmarks/FabWave/O_Rings/dce8c0cf-bcf5-45a8-a4c9-0280de5b365b-ascii.stl	(similarity = 0.192)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew18-ascii.stl	(similarity = 0.182)
+9
+Neighborhood Match Score:  0.3634999036389647 
+
+Signature Match Score: 0.4225051418423341 Neighborhood Match Score: 0.3634999036389647
+1824 1 ./benchmarks/FabWave/Rollers/rollertype19-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Rollers/rollertype19-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Rollers/rollertype19-ascii.stl	(similarity = 0.551)
+	benchmarks/FabWave/Washers/509211d2-7082-4af1-8338-ed77a1fee5de-ascii.stl	(similarity = 0.059)
+	benchmarks/FabWave/Grommets/03f3a8cf-394a-46a9-966a-42848124cd05-ascii.stl	(similarity = 0.056)
+	benchmarks/FabWave/Grommets/c0a7a4cb-03f8-4787-84cf-0d1f4f542d04-ascii.stl	(similarity = 0.054)
+	benchmarks/FabWave/Washers/783ca628-580f-48a0-bdf6-69810265aed6-ascii.stl	(similarity = 0.046)
+	benchmarks/FabWave/Grommets/ed4ce9b1-adb2-48f5-85df-7559a56cadcc-ascii.stl	(similarity = 0.044)
+	benchmarks/FabWave/Grommets/e854ed17-31c6-437e-b871-c1dae4015926-ascii.stl	(similarity = 0.025)
+	benchmarks/FabWave/Washers/6d687210-3161-4eb8-9879-a6a7228d9b60-ascii.stl	(similarity = 0.024)
+	benchmarks/FabWave/Washers/54987817-61ec-40d5-9a22-ce685776d68a-ascii.stl	(similarity = 0.024)
+	benchmarks/FabWave/Washers/ebeab1af-2e04-4da3-a736-661e253f4e9c-ascii.stl	(similarity = 0.02)
+14
+Signature Match Score:  0.2974090120682439 
+
+
+Files matched with ./benchmarks/FabWave/Rollers/rollertype19-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Rollers/rollertype19-ascii.stl	(similarity = 0.645)
+	benchmarks/FabWave/Grommets/03f3a8cf-394a-46a9-966a-42848124cd05-ascii.stl	(similarity = 0.175)
+	benchmarks/FabWave/Washers/509211d2-7082-4af1-8338-ed77a1fee5de-ascii.stl	(similarity = 0.175)
+	benchmarks/FabWave/Grommets/c0a7a4cb-03f8-4787-84cf-0d1f4f542d04-ascii.stl	(similarity = 0.161)
+	benchmarks/FabWave/Washers/783ca628-580f-48a0-bdf6-69810265aed6-ascii.stl	(similarity = 0.152)
+	benchmarks/FabWave/Washers/54987817-61ec-40d5-9a22-ce685776d68a-ascii.stl	(similarity = 0.147)
+	benchmarks/FabWave/Grommets/ed4ce9b1-adb2-48f5-85df-7559a56cadcc-ascii.stl	(similarity = 0.146)
+	benchmarks/FabWave/Washers/158ec452-db1d-4209-8b9f-59d74a78046f-ascii.stl	(similarity = 0.094)
+	benchmarks/FabWave/Washers/f2eff85f-235d-4a11-9ec2-67de5210cc51-ascii.stl	(similarity = 0.092)
+	benchmarks/FabWave/Washers/ed4fc27d-370e-4d9f-884f-0e4b4d1d24a8-ascii.stl	(similarity = 0.091)
+14
+Neighborhood Match Score:  0.2974090120682439 
+
+Signature Match Score: 0.2974090120682439 Neighborhood Match Score: 0.2974090120682439
+1825 2 ./benchmarks/FabWave/Rollers/rollertype13-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Rollers/rollertype13-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Rollers/rollertype13-ascii.stl	(similarity = 0.532)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile102-ascii.stl	(similarity = 0.057)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile71-ascii.stl	(similarity = 0.056)
+	benchmarks/FabWave/Rollers/rollertype110-ascii.stl	(similarity = 0.044)
+	benchmarks/FabWave/Rollers/rollertype111-ascii.stl	(similarity = 0.043)
+	benchmarks/FabWave/Rollers/rollertype16-ascii.stl	(similarity = 0.043)
+	benchmarks/FabWave/Rollers/rollertype10-ascii.stl	(similarity = 0.04)
+	benchmarks/FabWave/Washers/sshettigarsleevewasher14-ascii.stl	(similarity = 0.039)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/786f8fc0-0387-4b53-a63e-06689f95b2af-ascii.stl	(similarity = 0.037)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/ba0fc3a7-0010-4e68-8acb-7f8eec61569a-ascii.stl	(similarity = 0.032)
+14
+Signature Match Score:  0.5962197892829417 
+
+
+Files matched with ./benchmarks/FabWave/Rollers/rollertype13-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Rollers/rollertype13-ascii.stl	(similarity = 0.584)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/786f8fc0-0387-4b53-a63e-06689f95b2af-ascii.stl	(similarity = 0.162)
+	benchmarks/FabWave/Washers/5fed8e08-60c9-4aea-a024-f96b059f5de1-ascii.stl	(similarity = 0.149)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/ba0fc3a7-0010-4e68-8acb-7f8eec61569a-ascii.stl	(similarity = 0.148)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile102-ascii.stl	(similarity = 0.147)
+	benchmarks/FabWave/Washers/c7fab052-3ad3-43a7-8376-98771ac08a60-ascii.stl	(similarity = 0.147)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile71-ascii.stl	(similarity = 0.144)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/2c0a3bb2-9237-4b67-bfbc-ee4a077a29af-ascii.stl	(similarity = 0.136)
+	benchmarks/FabWave/Grommets/c0bce94e-ffa7-48e3-b7a5-881613d3a497-ascii.stl	(similarity = 0.127)
+	benchmarks/FabWave/Washers/fe6ed49c-5dac-489b-af79-f5970f6ceae0-ascii.stl	(similarity = 0.125)
+14
+Neighborhood Match Score:  0.2974090120682439 
+
+Signature Match Score: 0.5962197892829417 Neighborhood Match Score: 0.2974090120682439
+1826 3 ./benchmarks/FabWave/Rollers/rollertype11-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Rollers/rollertype11-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Rollers/rollertype11-ascii.stl	(similarity = 0.491)
+	benchmarks/FabWave/Rollers/rollertype10-ascii.stl	(similarity = 0.209)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile102-ascii.stl	(similarity = 0.13)
+	benchmarks/FabWave/Washers/sshettigarsleevewasher39-ascii.stl	(similarity = 0.119)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile71-ascii.stl	(similarity = 0.114)
+	benchmarks/FabWave/Washers/7a8250e7-7743-44f9-940f-5a8addb8c827-ascii.stl	(similarity = 0.104)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/a8c032a2-dce2-455f-82be-b9c1417a351b-ascii.stl	(similarity = 0.099)
+	benchmarks/FabWave/Washers/91188890-81fb-4e8a-b7f3-a7164330cdd3-ascii.stl	(similarity = 0.095)
+	benchmarks/FabWave/Washers/sshettigarsleevewasher14-ascii.stl	(similarity = 0.049)
+	benchmarks/FabWave/Rollers/rollertype110-ascii.stl	(similarity = 0.04)
+14
+Signature Match Score:  0.4798187981155794 
+
+
+Files matched with ./benchmarks/FabWave/Rollers/rollertype11-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Rollers/rollertype11-ascii.stl	(similarity = 0.549)
+	benchmarks/FabWave/Rollers/rollertype10-ascii.stl	(similarity = 0.329)
+	benchmarks/FabWave/Washers/7a8250e7-7743-44f9-940f-5a8addb8c827-ascii.stl	(similarity = 0.236)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile102-ascii.stl	(similarity = 0.227)
+	benchmarks/FabWave/Washers/91188890-81fb-4e8a-b7f3-a7164330cdd3-ascii.stl	(similarity = 0.211)
+	benchmarks/FabWave/Washers/sshettigarsleevewasher39-ascii.stl	(similarity = 0.211)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile71-ascii.stl	(similarity = 0.195)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/a8c032a2-dce2-455f-82be-b9c1417a351b-ascii.stl	(similarity = 0.158)
+	benchmarks/FabWave/Washers/sshettigarsleevewasher54-ascii.stl	(similarity = 0.127)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/47b52b1d-3786-47b2-b9f0-74fa976482f3-ascii.stl	(similarity = 0.109)
+14
+Neighborhood Match Score:  0.4225051418423341 
+
+Signature Match Score: 0.4798187981155794 Neighborhood Match Score: 0.4225051418423341
+1838 1 ./benchmarks/FabWave/Rotary_Shaft/420d5a4c-a8a3-469c-8051-32cfb6a05fb0-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Rotary_Shaft/420d5a4c-a8a3-469c-8051-32cfb6a05fb0-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Keyway_Shaft/45f5d92e-9c05-482e-af2b-42f4efa1b8de-ascii.stl	(similarity = 0.639)
+	benchmarks/FabWave/Keyway_Shaft/e5d68a0a-a54b-4500-ad14-c36d99f52065-ascii.stl	(similarity = 0.597)
+	benchmarks/FabWave/Rotary_Shaft/420d5a4c-a8a3-469c-8051-32cfb6a05fb0-ascii.stl	(similarity = 0.597)
+	benchmarks/FabWave/Rotary_Shaft/86317ac0-1e3b-4b32-9c47-85e012463b94-ascii.stl	(similarity = 0.597)
+	benchmarks/FabWave/Keyway_Shaft/52633ed0-056b-4a22-9599-bb25ce717025-ascii.stl	(similarity = 0.587)
+	benchmarks/FabWave/Rotary_Shaft/0182c079-214c-4989-82fb-03ced91d2b7b-ascii.stl	(similarity = 0.587)
+	benchmarks/FabWave/Keyway_Shaft/69bb5c4d-ecbf-4fe3-9310-d3695af2bc11-ascii.stl	(similarity = 0.42)
+	benchmarks/FabWave/Rotary_Shaft/806d7cae-2663-4cab-98ce-a28076bdf570-ascii.stl	(similarity = 0.42)
+	benchmarks/FabWave/Keyway_Shaft/83013a08-e37b-4463-8405-fa77213262a7-ascii.stl	(similarity = 0.369)
+	benchmarks/FabWave/Rotary_Shaft/c3b39c79-0117-4213-a6a3-bc1d22671b44-ascii.stl	(similarity = 0.369)
+250
+Signature Match Score:  0.4245837720560939 
+
+
+Files matched with ./benchmarks/FabWave/Rotary_Shaft/420d5a4c-a8a3-469c-8051-32cfb6a05fb0-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Keyway_Shaft/52633ed0-056b-4a22-9599-bb25ce717025-ascii.stl	(similarity = 0.695)
+	benchmarks/FabWave/Keyway_Shaft/69bb5c4d-ecbf-4fe3-9310-d3695af2bc11-ascii.stl	(similarity = 0.678)
+	benchmarks/FabWave/Keyway_Shaft/83013a08-e37b-4463-8405-fa77213262a7-ascii.stl	(similarity = 0.678)
+	benchmarks/FabWave/Keyway_Shaft/de4bb4ee-49e3-424c-80e0-d4fef8ad5a09-ascii.stl	(similarity = 0.651)
+	benchmarks/FabWave/Rotary_Shaft/0182c079-214c-4989-82fb-03ced91d2b7b-ascii.stl	(similarity = 0.642)
+	benchmarks/FabWave/Keyway_Shaft/45f5d92e-9c05-482e-af2b-42f4efa1b8de-ascii.stl	(similarity = 0.603)
+	benchmarks/FabWave/Keyway_Shaft/e5d68a0a-a54b-4500-ad14-c36d99f52065-ascii.stl	(similarity = 0.603)
+	benchmarks/FabWave/Rotary_Shaft/420d5a4c-a8a3-469c-8051-32cfb6a05fb0-ascii.stl	(similarity = 0.603)
+	benchmarks/FabWave/Rotary_Shaft/86317ac0-1e3b-4b32-9c47-85e012463b94-ascii.stl	(similarity = 0.603)
+	benchmarks/FabWave/Keyway_Shaft/3189f8dd-5a78-4db1-8918-a7ee3978ffbd-ascii.stl	(similarity = 0.462)
+250
+Neighborhood Match Score:  0.2302104605690569 
+
+Signature Match Score: 0.4245837720560939 Neighborhood Match Score: 0.2302104605690569
+1839 2 ./benchmarks/FabWave/Rotary_Shaft/ddd49933-4ac0-4265-9c1f-004ee4917610-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Rotary_Shaft/ddd49933-4ac0-4265-9c1f-004ee4917610-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Keyway_Shaft/5c2764a8-8b75-4190-b761-7023a68ff83b-ascii.stl	(similarity = 0.521)
+	benchmarks/FabWave/Rotary_Shaft/ddd49933-4ac0-4265-9c1f-004ee4917610-ascii.stl	(similarity = 0.521)
+	benchmarks/FabWave/Keyway_Shaft/590162fb-d719-40a6-a5b2-2dd2a4e8c413-ascii.stl	(similarity = 0.45)
+	benchmarks/FabWave/Rotary_Shaft/5bbb31a6-a537-498c-8d08-90adf7c00e22-ascii.stl	(similarity = 0.45)
+	benchmarks/FabWave/Keyway_Shaft/5f4d5c7a-74b8-435c-b53d-7f4ff13dcdf8-ascii.stl	(similarity = 0.183)
+	benchmarks/FabWave/Keyway_Shaft/ce362193-bd0f-40b5-a035-5b948f662026-ascii.stl	(similarity = 0.182)
+	benchmarks/FabWave/Keyway_Shaft/16a28ae3-708d-4230-bade-4284fb273057-ascii.stl	(similarity = 0.16)
+	benchmarks/FabWave/Rotary_Shaft/a7531cb2-9f36-41f4-b9d9-2309264f24be-ascii.stl	(similarity = 0.16)
+	benchmarks/FabWave/Keyway_Shaft/1d85607a-3c84-4ee4-9c37-59ca204c2404-ascii.stl	(similarity = 0.137)
+	benchmarks/FabWave/Keyway_Shaft/90916e15-819d-44e0-a49c-6c910c7c123e-ascii.stl	(similarity = 0.104)
+250
+Signature Match Score:  0.33558365266880946 
+
+
+Files matched with ./benchmarks/FabWave/Rotary_Shaft/ddd49933-4ac0-4265-9c1f-004ee4917610-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Keyway_Shaft/5c2764a8-8b75-4190-b761-7023a68ff83b-ascii.stl	(similarity = 0.533)
+	benchmarks/FabWave/Rotary_Shaft/ddd49933-4ac0-4265-9c1f-004ee4917610-ascii.stl	(similarity = 0.533)
+	benchmarks/FabWave/Keyway_Shaft/590162fb-d719-40a6-a5b2-2dd2a4e8c413-ascii.stl	(similarity = 0.475)
+	benchmarks/FabWave/Rotary_Shaft/5bbb31a6-a537-498c-8d08-90adf7c00e22-ascii.stl	(similarity = 0.475)
+	benchmarks/FabWave/Keyway_Shaft/16a28ae3-708d-4230-bade-4284fb273057-ascii.stl	(similarity = 0.413)
+	benchmarks/FabWave/Rotary_Shaft/a7531cb2-9f36-41f4-b9d9-2309264f24be-ascii.stl	(similarity = 0.413)
+	benchmarks/FabWave/Keyway_Shaft/5f4d5c7a-74b8-435c-b53d-7f4ff13dcdf8-ascii.stl	(similarity = 0.344)
+	benchmarks/FabWave/Keyway_Shaft/ce362193-bd0f-40b5-a035-5b948f662026-ascii.stl	(similarity = 0.344)
+	benchmarks/FabWave/Bushing/2a6e0c19-7c19-4ddf-8afc-23fd6de768d5-ascii.stl	(similarity = 0.328)
+	benchmarks/FabWave/Keyway_Shaft/90916e15-819d-44e0-a49c-6c910c7c123e-ascii.stl	(similarity = 0.21)
+250
+Neighborhood Match Score:  0.3436617395030851 
+
+Signature Match Score: 0.33558365266880946 Neighborhood Match Score: 0.3436617395030851
+1840 3 ./benchmarks/FabWave/Rotary_Shaft/163dd377-e62d-4138-9b2b-67d46d17edf9-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Rotary_Shaft/163dd377-e62d-4138-9b2b-67d46d17edf9-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Keyway_Shaft/cc055418-72ac-476d-b84c-e5fba714cb33-ascii.stl	(similarity = 0.776)
+	benchmarks/FabWave/Keyway_Shaft/381498af-1bb1-42d1-bad3-e6d859d96a4c-ascii.stl	(similarity = 0.776)
+	benchmarks/FabWave/Keyway_Shaft/4d0e2bd3-7dcb-4ca9-983f-22f232d53204-ascii.stl	(similarity = 0.776)
+	benchmarks/FabWave/Keyway_Shaft/b4b69aae-7ec8-4ad5-adb4-37439473d0e3-ascii.stl	(similarity = 0.776)
+	benchmarks/FabWave/Keyway_Shaft/e336425c-c12b-4bd5-8a94-389536afa234-ascii.stl	(similarity = 0.776)
+	benchmarks/FabWave/Rotary_Shaft/163dd377-e62d-4138-9b2b-67d46d17edf9-ascii.stl	(similarity = 0.776)
+	benchmarks/FabWave/Rotary_Shaft/44830ae1-7f9f-418d-a9f0-c0839c4d3561-ascii.stl	(similarity = 0.776)
+	benchmarks/FabWave/Rotary_Shaft/e0062716-91c3-4f3e-95aa-7e86ccd49a4c-ascii.stl	(similarity = 0.776)
+	benchmarks/FabWave/Rotary_Shaft/257097af-a727-4991-b2c9-5100a94199a7-ascii.stl	(similarity = 0.776)
+	benchmarks/FabWave/Rotary_Shaft/24d15719-59e5-4d1e-8f6b-40f358f6e5be-ascii.stl	(similarity = 0.776)
+250
+Signature Match Score:  0.3515778627691862 
+
+
+Files matched with ./benchmarks/FabWave/Rotary_Shaft/163dd377-e62d-4138-9b2b-67d46d17edf9-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Keyway_Shaft/cc055418-72ac-476d-b84c-e5fba714cb33-ascii.stl	(similarity = 0.778)
+	benchmarks/FabWave/Keyway_Shaft/381498af-1bb1-42d1-bad3-e6d859d96a4c-ascii.stl	(similarity = 0.778)
+	benchmarks/FabWave/Keyway_Shaft/4d0e2bd3-7dcb-4ca9-983f-22f232d53204-ascii.stl	(similarity = 0.778)
+	benchmarks/FabWave/Keyway_Shaft/b4b69aae-7ec8-4ad5-adb4-37439473d0e3-ascii.stl	(similarity = 0.778)
+	benchmarks/FabWave/Keyway_Shaft/e336425c-c12b-4bd5-8a94-389536afa234-ascii.stl	(similarity = 0.778)
+	benchmarks/FabWave/Rotary_Shaft/163dd377-e62d-4138-9b2b-67d46d17edf9-ascii.stl	(similarity = 0.778)
+	benchmarks/FabWave/Rotary_Shaft/44830ae1-7f9f-418d-a9f0-c0839c4d3561-ascii.stl	(similarity = 0.778)
+	benchmarks/FabWave/Rotary_Shaft/e0062716-91c3-4f3e-95aa-7e86ccd49a4c-ascii.stl	(similarity = 0.778)
+	benchmarks/FabWave/Rotary_Shaft/257097af-a727-4991-b2c9-5100a94199a7-ascii.stl	(similarity = 0.778)
+	benchmarks/FabWave/Rotary_Shaft/24d15719-59e5-4d1e-8f6b-40f358f6e5be-ascii.stl	(similarity = 0.778)
+250
+Neighborhood Match Score:  0.3515778627691862 
+
+Signature Match Score: 0.3515778627691862 Neighborhood Match Score: 0.3515778627691862
+2088 1 ./benchmarks/FabWave/Shaft_Collar/139d385b-f6b4-4df4-9e67-80cb58ed57c3-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Shaft_Collar/139d385b-f6b4-4df4-9e67-80cb58ed57c3-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Shaft_Collar/139d385b-f6b4-4df4-9e67-80cb58ed57c3-ascii.stl	(similarity = 0.52)
+	benchmarks/FabWave/Shaft_Collar/2a615b43-8807-458f-bc76-abb610ce9bb4-ascii.stl	(similarity = 0.51)
+	benchmarks/FabWave/Shaft_Collar/14086ad0-cf2a-42e8-acd0-b06910c18449-ascii.stl	(similarity = 0.51)
+	benchmarks/FabWave/Shaft_Collar/08c2d588-41ee-483f-85d8-2a622ea3819e-ascii.stl	(similarity = 0.43)
+	benchmarks/FabWave/Shaft_Collar/0060c913-aa6e-47c7-9eb2-d7d981ab126e-ascii.stl	(similarity = 0.426)
+	benchmarks/FabWave/Shaft_Collar/3aa90305-33df-4d0e-a823-bb3d6aeffc25-ascii.stl	(similarity = 0.411)
+	benchmarks/FabWave/Shaft_Collar/380f3b36-0ce2-43fa-8d73-5e753861121b-ascii.stl	(similarity = 0.402)
+	benchmarks/FabWave/Shaft_Collar/0792c31b-2069-4fe8-841b-d4ce65b12b0c-ascii.stl	(similarity = 0.166)
+	benchmarks/FabWave/Shaft_Collar/11678dfa-22ec-4331-aa7f-6cf81b7a72e6-ascii.stl	(similarity = 0.132)
+	benchmarks/FabWave/Shaft_Collar/615e3d77-7071-4598-8b2b-97272fadfe3a-ascii.stl	(similarity = 0.102)
+57
+Signature Match Score:  1.0 
+
+
+Files matched with ./benchmarks/FabWave/Shaft_Collar/139d385b-f6b4-4df4-9e67-80cb58ed57c3-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Shaft_Collar/2a615b43-8807-458f-bc76-abb610ce9bb4-ascii.stl	(similarity = 0.729)
+	benchmarks/FabWave/Shaft_Collar/14086ad0-cf2a-42e8-acd0-b06910c18449-ascii.stl	(similarity = 0.729)
+	benchmarks/FabWave/Shaft_Collar/139d385b-f6b4-4df4-9e67-80cb58ed57c3-ascii.stl	(similarity = 0.72)
+	benchmarks/FabWave/Shaft_Collar/08c2d588-41ee-483f-85d8-2a622ea3819e-ascii.stl	(similarity = 0.693)
+	benchmarks/FabWave/Shaft_Collar/380f3b36-0ce2-43fa-8d73-5e753861121b-ascii.stl	(similarity = 0.634)
+	benchmarks/FabWave/Shaft_Collar/0060c913-aa6e-47c7-9eb2-d7d981ab126e-ascii.stl	(similarity = 0.597)
+	benchmarks/FabWave/Shaft_Collar/3aa90305-33df-4d0e-a823-bb3d6aeffc25-ascii.stl	(similarity = 0.579)
+	benchmarks/FabWave/Shaft_Collar/0792c31b-2069-4fe8-841b-d4ce65b12b0c-ascii.stl	(similarity = 0.342)
+	benchmarks/FabWave/Shaft_Collar/0c5dda27-7932-4a6d-9e47-3decc488dd45-ascii.stl	(similarity = 0.224)
+	benchmarks/FabWave/Shaft_Collar/41b85801-a018-400e-9df5-c7963262f822-ascii.stl	(similarity = 0.182)
+57
+Neighborhood Match Score:  0.9504318313219594 
+
+Signature Match Score: 1.0 Neighborhood Match Score: 0.9634117275309637
+2089 2 ./benchmarks/FabWave/Shaft_Collar/13132bde-fac1-453b-a40e-e6380477199e-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Shaft_Collar/13132bde-fac1-453b-a40e-e6380477199e-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Shaft_Collar/2a2bbc0e-59e0-4492-b588-464783bd616f-ascii.stl	(similarity = 0.61)
+	benchmarks/FabWave/Shaft_Collar/13132bde-fac1-453b-a40e-e6380477199e-ascii.stl	(similarity = 0.603)
+	benchmarks/FabWave/Shaft_Collar/10cf10c4-0641-428e-ae64-d90966615c5b-ascii.stl	(similarity = 0.588)
+	benchmarks/FabWave/Shaft_Collar/0d109e7b-79fc-4c24-93f8-23c354eb431b-ascii.stl	(similarity = 0.445)
+	benchmarks/FabWave/Shaft_Collar/42864fa5-44ae-4a17-947f-0e315eb27649-ascii.stl	(similarity = 0.43)
+	benchmarks/FabWave/Shaft_Collar/5cdc0dfe-33ca-4ea9-a0e5-e5154bedb25b-ascii.stl	(similarity = 0.196)
+	benchmarks/FabWave/Shaft_Collar/2fd219bf-2f35-4592-9500-2e9f815085da-ascii.stl	(similarity = 0.159)
+	benchmarks/FabWave/Shaft_Collar/615e3d77-7071-4598-8b2b-97272fadfe3a-ascii.stl	(similarity = 0.158)
+	benchmarks/FabWave/Shaft_Collar/54467a93-4bcb-479c-9bf3-39997bbb840d-ascii.stl	(similarity = 0.114)
+	benchmarks/FabWave/Shaft_Collar/0792c31b-2069-4fe8-841b-d4ce65b12b0c-ascii.stl	(similarity = 0.071)
+57
+Signature Match Score:  0.9634117275309637 
+
+
+Files matched with ./benchmarks/FabWave/Shaft_Collar/13132bde-fac1-453b-a40e-e6380477199e-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Shaft_Collar/2a2bbc0e-59e0-4492-b588-464783bd616f-ascii.stl	(similarity = 0.8)
+	benchmarks/FabWave/Shaft_Collar/10cf10c4-0641-428e-ae64-d90966615c5b-ascii.stl	(similarity = 0.797)
+	benchmarks/FabWave/Shaft_Collar/13132bde-fac1-453b-a40e-e6380477199e-ascii.stl	(similarity = 0.737)
+	benchmarks/FabWave/Shaft_Collar/42864fa5-44ae-4a17-947f-0e315eb27649-ascii.stl	(similarity = 0.644)
+	benchmarks/FabWave/Shaft_Collar/0d109e7b-79fc-4c24-93f8-23c354eb431b-ascii.stl	(similarity = 0.643)
+	benchmarks/FabWave/Shaft_Collar/2fd219bf-2f35-4592-9500-2e9f815085da-ascii.stl	(similarity = 0.364)
+	benchmarks/FabWave/Shaft_Collar/615e3d77-7071-4598-8b2b-97272fadfe3a-ascii.stl	(similarity = 0.364)
+	benchmarks/FabWave/Shaft_Collar/5cdc0dfe-33ca-4ea9-a0e5-e5154bedb25b-ascii.stl	(similarity = 0.314)
+	benchmarks/FabWave/Shaft_Collar/6c0bb3c2-d328-487c-b9ec-d82cb0cc293f-ascii.stl	(similarity = 0.301)
+	benchmarks/FabWave/Shaft_Collar/4ce3ec0b-3b8e-47db-a2d2-2fba28983ab3-ascii.stl	(similarity = 0.263)
+57
+Neighborhood Match Score:  0.9504318313219594 
+
+Signature Match Score: 0.9634117275309637 Neighborhood Match Score: 0.9504318313219594
+2090 3 ./benchmarks/FabWave/Shaft_Collar/4ce3ec0b-3b8e-47db-a2d2-2fba28983ab3-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Shaft_Collar/4ce3ec0b-3b8e-47db-a2d2-2fba28983ab3-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Shaft_Collar/4ce3ec0b-3b8e-47db-a2d2-2fba28983ab3-ascii.stl	(similarity = 0.611)
+	benchmarks/FabWave/Shaft_Collar/17eca316-fe34-4404-a2e1-bee178eb474a-ascii.stl	(similarity = 0.593)
+	benchmarks/FabWave/Shaft_Collar/6013fb13-dd79-43cd-a3ad-d56b0d2cd0b1-ascii.stl	(similarity = 0.575)
+	benchmarks/FabWave/Shaft_Collar/07d1451b-f1c1-4fef-85db-bb5dc6f1cb02-ascii.stl	(similarity = 0.55)
+	benchmarks/FabWave/Shaft_Collar/063ab5f9-ca52-4941-a31a-6b2ae6e0b2a3-ascii.stl	(similarity = 0.543)
+	benchmarks/FabWave/Shaft_Collar/0fd96099-0686-4614-8b86-7da8e2582e9f-ascii.stl	(similarity = 0.536)
+	benchmarks/FabWave/Shaft_Collar/25804419-b21a-4b76-b1c4-4c7a0a3c2ac4-ascii.stl	(similarity = 0.534)
+	benchmarks/FabWave/Shaft_Collar/71dfa852-43d7-4d16-a366-77630e3c3381-ascii.stl	(similarity = 0.528)
+	benchmarks/FabWave/Keyway_Shaft/9e454c31-3fe8-4472-9de0-23bd09b913ad-ascii.stl	(similarity = 0.298)
+	benchmarks/FabWave/Keyway_Shaft/527bf54a-d84c-472d-ad31-8a61c16fc0bd-ascii.stl	(similarity = 0.278)
+57
+Signature Match Score:  0.8830003213198901 
+
+
+Files matched with ./benchmarks/FabWave/Shaft_Collar/4ce3ec0b-3b8e-47db-a2d2-2fba28983ab3-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Shaft_Collar/4ce3ec0b-3b8e-47db-a2d2-2fba28983ab3-ascii.stl	(similarity = 0.842)
+	benchmarks/FabWave/Shaft_Collar/6013fb13-dd79-43cd-a3ad-d56b0d2cd0b1-ascii.stl	(similarity = 0.792)
+	benchmarks/FabWave/Shaft_Collar/17eca316-fe34-4404-a2e1-bee178eb474a-ascii.stl	(similarity = 0.79)
+	benchmarks/FabWave/Shaft_Collar/07d1451b-f1c1-4fef-85db-bb5dc6f1cb02-ascii.stl	(similarity = 0.76)
+	benchmarks/FabWave/Shaft_Collar/25804419-b21a-4b76-b1c4-4c7a0a3c2ac4-ascii.stl	(similarity = 0.739)
+	benchmarks/FabWave/Shaft_Collar/71dfa852-43d7-4d16-a366-77630e3c3381-ascii.stl	(similarity = 0.736)
+	benchmarks/FabWave/Shaft_Collar/063ab5f9-ca52-4941-a31a-6b2ae6e0b2a3-ascii.stl	(similarity = 0.667)
+	benchmarks/FabWave/Shaft_Collar/0fd96099-0686-4614-8b86-7da8e2582e9f-ascii.stl	(similarity = 0.665)
+	benchmarks/FabWave/Shaft_Collar/24c82b47-f459-4d8f-afaf-308a2038cccb-ascii.stl	(similarity = 0.551)
+	benchmarks/FabWave/Shaft_Collar/4c4aafa5-e083-43ba-8923-a3d4dea9809c-ascii.stl	(similarity = 0.434)
+57
+Neighborhood Match Score:  1.0 
+
+Signature Match Score: 0.8830003213198901 Neighborhood Match Score: 1.0
+2145 1 ./benchmarks/FabWave/Slotted_Flat_Head_Screws/a78506e7-2ec6-4e2f-8150-9391d764a9f3-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Slotted_Flat_Head_Screws/a78506e7-2ec6-4e2f-8150-9391d764a9f3-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/a78506e7-2ec6-4e2f-8150-9391d764a9f3-ascii.stl	(similarity = 0.508)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/387bb048-e422-46c6-bfa9-7f2f0ae96dd6-ascii.stl	(similarity = 0.171)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/1cd1e5e9-2fab-476e-a76a-ba90a544c744-ascii.stl	(similarity = 0.131)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/d3b575ae-1468-46f5-bce0-c959e3cbf870-ascii.stl	(similarity = 0.089)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile42-ascii.stl	(similarity = 0.079)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile41-ascii.stl	(similarity = 0.078)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile20-ascii.stl	(similarity = 0.076)
+	benchmarks/FabWave/Brackets/bracket28-ascii.stl	(similarity = 0.075)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile13-ascii.stl	(similarity = 0.055)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile39-ascii.stl	(similarity = 0.04)
+112
+Signature Match Score:  0.6070328722993127 
+
+
+Files matched with ./benchmarks/FabWave/Slotted_Flat_Head_Screws/a78506e7-2ec6-4e2f-8150-9391d764a9f3-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/a78506e7-2ec6-4e2f-8150-9391d764a9f3-ascii.stl	(similarity = 0.542)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/387bb048-e422-46c6-bfa9-7f2f0ae96dd6-ascii.stl	(similarity = 0.307)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/1cd1e5e9-2fab-476e-a76a-ba90a544c744-ascii.stl	(similarity = 0.267)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/d3b575ae-1468-46f5-bce0-c959e3cbf870-ascii.stl	(similarity = 0.212)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile42-ascii.stl	(similarity = 0.191)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile20-ascii.stl	(similarity = 0.172)
+	benchmarks/FabWave/Collets/e4e6416e-3d9c-42cb-96c7-aa694a454f59-ascii-ascii.stl	(similarity = 0.171)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/a2e3aba2-6023-427b-8eeb-95dc93266149-ascii.stl	(similarity = 0.167)
+	benchmarks/FabWave/Brackets/bracket28-ascii.stl	(similarity = 0.161)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile41-ascii.stl	(similarity = 0.152)
+112
+Neighborhood Match Score:  0.70262638299145 
+
+Signature Match Score: 0.6070328722993127 Neighborhood Match Score: 0.6979929271595655
+2146 2 ./benchmarks/FabWave/Slotted_Flat_Head_Screws/31407fcb-e72a-431a-b03f-e7df82b31f17-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Slotted_Flat_Head_Screws/31407fcb-e72a-431a-b03f-e7df82b31f17-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/31407fcb-e72a-431a-b03f-e7df82b31f17-ascii.stl	(similarity = 0.557)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/5499e495-8faa-4f7b-9848-96de7574dcde-ascii.stl	(similarity = 0.091)
+	benchmarks/FabWave/Collets/dba4f0e5-f2d1-4cc3-a527-784f2cd274ea-ascii-ascii.stl	(similarity = 0.054)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/e55173d3-ec4b-4cd4-a154-9282c48e40de-ascii.stl	(similarity = 0.046)
+	benchmarks/FabWave/Grommets/eef3a762-83b5-4c22-bbcd-c3359df8f801-ascii.stl	(similarity = 0.045)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/841ea681-af21-401f-9f16-9df7cd0a29f8-ascii.stl	(similarity = 0.041)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/1edf3d22-4ff8-4ecd-b262-c15afc22686f-ascii.stl	(similarity = 0.04)
+	benchmarks/FabWave/Washers/e51a94af-e8e8-4cac-80e9-03fe42f98c9b-ascii.stl	(similarity = 0.035)
+	benchmarks/FabWave/Collets/38faa869-5f1d-40d9-afa8-b99bb3c58947-ascii-ascii.stl	(similarity = 0.035)
+	benchmarks/FabWave/Washers/9df2b34e-d49f-4435-a7c1-7ae9d827c536-ascii.stl	(similarity = 0.033)
+112
+Signature Match Score:  0.7240247581364777 
+
+
+Files matched with ./benchmarks/FabWave/Slotted_Flat_Head_Screws/31407fcb-e72a-431a-b03f-e7df82b31f17-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/31407fcb-e72a-431a-b03f-e7df82b31f17-ascii.stl	(similarity = 0.586)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/5499e495-8faa-4f7b-9848-96de7574dcde-ascii.stl	(similarity = 0.215)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/e55173d3-ec4b-4cd4-a154-9282c48e40de-ascii.stl	(similarity = 0.213)
+	benchmarks/FabWave/Collets/093abcca-2cb5-4045-9fa6-d54273a69a8b-ascii-ascii.stl	(similarity = 0.202)
+	benchmarks/FabWave/Collets/2c3b6dfa-ce4b-4e40-a86f-ddf460a760d0-ascii-ascii.stl	(similarity = 0.2)
+	benchmarks/FabWave/Collets/dba4f0e5-f2d1-4cc3-a527-784f2cd274ea-ascii-ascii.stl	(similarity = 0.194)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/841ea681-af21-401f-9f16-9df7cd0a29f8-ascii.stl	(similarity = 0.193)
+	benchmarks/FabWave/Collets/38faa869-5f1d-40d9-afa8-b99bb3c58947-ascii-ascii.stl	(similarity = 0.192)
+	benchmarks/FabWave/Collets/1f364bf7-1d4f-44cc-8bb6-22adb969d64a-ascii-ascii.stl	(similarity = 0.189)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/9daa67a2-6174-4bd7-a956-04d6d01d54c2-ascii.stl	(similarity = 0.159)
+112
+Neighborhood Match Score:  0.8225230135211908 
+
+Signature Match Score: 0.7109470881888698 Neighborhood Match Score: 0.8193205789392627
+2147 3 ./benchmarks/FabWave/Slotted_Flat_Head_Screws/b72437b9-d327-48bf-8d99-b8e01c182f48-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Slotted_Flat_Head_Screws/b72437b9-d327-48bf-8d99-b8e01c182f48-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/b72437b9-d327-48bf-8d99-b8e01c182f48-ascii.stl	(similarity = 0.494)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/a201628d-ccae-4edc-8b8f-329465903c4d-ascii.stl	(similarity = 0.251)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/20ea9f8b-5efe-48e8-8f8d-fc134f16962c-ascii.stl	(similarity = 0.233)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/9daa67a2-6174-4bd7-a956-04d6d01d54c2-ascii.stl	(similarity = 0.231)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/554363a0-7523-4150-957c-5b505afbadcf-ascii.stl	(similarity = 0.194)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/676dc28d-3560-44c0-8624-a48ce1f8d0a8-ascii.stl	(similarity = 0.116)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/c38d91fb-1a05-4a2d-9b6b-a1c8da7f5b90-ascii.stl	(similarity = 0.082)
+	benchmarks/FabWave/Collets/92726ca8-80e0-49e2-a34e-92c45134e492-ascii-ascii.stl	(similarity = 0.044)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/f4ba94c6-d550-4585-ae2e-4f6cc3c50a07-ascii.stl	(similarity = 0.03)
+	benchmarks/FabWave/Washers/7772061a-3697-4539-9e6a-d447dafe3588-ascii.stl	(similarity = 0.02)
+112
+Signature Match Score:  0.9114123112733662 
+
+
+Files matched with ./benchmarks/FabWave/Slotted_Flat_Head_Screws/b72437b9-d327-48bf-8d99-b8e01c182f48-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/b72437b9-d327-48bf-8d99-b8e01c182f48-ascii.stl	(similarity = 0.561)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/20ea9f8b-5efe-48e8-8f8d-fc134f16962c-ascii.stl	(similarity = 0.42)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/9daa67a2-6174-4bd7-a956-04d6d01d54c2-ascii.stl	(similarity = 0.42)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/a201628d-ccae-4edc-8b8f-329465903c4d-ascii.stl	(similarity = 0.396)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/554363a0-7523-4150-957c-5b505afbadcf-ascii.stl	(similarity = 0.339)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/c38d91fb-1a05-4a2d-9b6b-a1c8da7f5b90-ascii.stl	(similarity = 0.21)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/676dc28d-3560-44c0-8624-a48ce1f8d0a8-ascii.stl	(similarity = 0.188)
+	benchmarks/FabWave/Collets/92726ca8-80e0-49e2-a34e-92c45134e492-ascii-ascii.stl	(similarity = 0.146)
+	benchmarks/FabWave/Washers/81d06a0a-a594-4100-b07d-acda9dcbdb7e-ascii.stl	(similarity = 0.115)
+	benchmarks/FabWave/Slotted_Flat_Head_Screws/cd23cd2b-e5c5-4c36-879c-2286910b79e5-ascii.stl	(similarity = 0.114)
+112
+Neighborhood Match Score:  0.9090399451397471 
+
+Signature Match Score: 0.9128433325233224 Neighborhood Match Score: 0.9400691394099888
+2257 1 ./benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew80-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew80-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew80-ascii.stl	(similarity = 0.528)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew2-ascii.stl	(similarity = 0.204)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew36-ascii.stl	(similarity = 0.154)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew65-ascii.stl	(similarity = 0.145)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew89-ascii.stl	(similarity = 0.145)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew56-ascii.stl	(similarity = 0.143)
+	benchmarks/FabWave/Keyway_Shaft/3d70154b-adc7-4c2a-a098-5522ae17c1ed-ascii.stl	(similarity = 0.128)
+	benchmarks/FabWave/Keyway_Shaft/8db5d86b-9a9e-479c-b81d-c6406de5a56b-ascii.stl	(similarity = 0.128)
+	benchmarks/FabWave/Rotary_Shaft/56d69aa8-7bcb-4bd6-8322-9f13df81a55b-ascii.stl	(similarity = 0.128)
+	benchmarks/FabWave/Rotary_Shaft/1a96f471-2b7b-4232-a617-d0757ceac33e-ascii.stl	(similarity = 0.124)
+154
+Signature Match Score:  0.7543613648423924 
+
+
+Files matched with ./benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew80-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew80-ascii.stl	(similarity = 0.637)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew2-ascii.stl	(similarity = 0.379)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew65-ascii.stl	(similarity = 0.341)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew25-ascii.stl	(similarity = 0.322)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew36-ascii.stl	(similarity = 0.292)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew56-ascii.stl	(similarity = 0.289)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew89-ascii.stl	(similarity = 0.257)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew37-ascii.stl	(similarity = 0.247)
+	benchmarks/FabWave/Socket_Head_Screws/annatestscrew4-ascii.stl	(similarity = 0.244)
+	benchmarks/FabWave/Pipes/cfcf6aa4-2a58-4f92-b48b-fc2c1a8e3972-ascii.stl	(similarity = 0.241)
+154
+Neighborhood Match Score:  0.9426863437267546 
+
+Signature Match Score: 0.7543613648423924 Neighborhood Match Score: 0.9426863437267546
+2258 2 ./benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew90-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew90-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew90-ascii.stl	(similarity = 0.543)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew81-ascii.stl	(similarity = 0.198)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew18-ascii.stl	(similarity = 0.165)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew26-ascii.stl	(similarity = 0.161)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew3-ascii.stl	(similarity = 0.146)
+	benchmarks/FabWave/Bushing/c7574366-137a-4bda-8c52-4b5f947acf6a-ascii.stl	(similarity = 0.098)
+	benchmarks/FabWave/Bushing/fa76768c-89c3-4a18-be09-b15f4ac60fcf-ascii.stl	(similarity = 0.083)
+	benchmarks/FabWave/Bushing/50979a49-4199-414b-b956-a936ddc0819e-ascii.stl	(similarity = 0.077)
+	benchmarks/FabWave/Bushing/2b105424-1bc0-4b50-975a-9badb78107f7-ascii.stl	(similarity = 0.076)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew2-ascii.stl	(similarity = 0.069)
+154
+Signature Match Score:  0.7410488693745851 
+
+
+Files matched with ./benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew90-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew90-ascii.stl	(similarity = 0.589)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew81-ascii.stl	(similarity = 0.317)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew3-ascii.stl	(similarity = 0.306)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew18-ascii.stl	(similarity = 0.3)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew65-ascii.stl	(similarity = 0.297)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew25-ascii.stl	(similarity = 0.29)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew2-ascii.stl	(similarity = 0.284)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew26-ascii.stl	(similarity = 0.272)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew38-ascii.stl	(similarity = 0.205)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew82-ascii.stl	(similarity = 0.19)
+154
+Neighborhood Match Score:  1.0 
+
+Signature Match Score: 0.7410488693745851 Neighborhood Match Score: 1.0
+2259 3 ./benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew44-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew44-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew44-ascii.stl	(similarity = 0.515)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew8-ascii.stl	(similarity = 0.315)
+	benchmarks/FabWave/Brackets/bracket318-ascii.stl	(similarity = 0.142)
+	benchmarks/FabWave/Brackets/bracket327-ascii.stl	(similarity = 0.141)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew9-ascii.stl	(similarity = 0.13)
+	benchmarks/FabWave/Keyway_Shaft/76b4ca43-18ef-4614-8a6c-50139a5e2de8-ascii.stl	(similarity = 0.109)
+	benchmarks/FabWave/Keyway_Shaft/193d8294-3a89-4e43-bd0e-4e5f32101e87-ascii.stl	(similarity = 0.109)
+	benchmarks/FabWave/Rotary_Shaft/9f3e0c2e-ca12-4824-8143-5d9c490c2086-ascii.stl	(similarity = 0.109)
+	benchmarks/FabWave/Rotary_Shaft/34c8b6b4-488c-40b4-8045-2a13e02f226d-ascii.stl	(similarity = 0.109)
+	benchmarks/FabWave/Keyway_Shaft/30bd5d64-4c4c-4562-88de-4861f4aae13a-ascii.stl	(similarity = 0.075)
+154
+Signature Match Score:  0.4992074826443613 
+
+
+Files matched with ./benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew44-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew44-ascii.stl	(similarity = 0.649)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew8-ascii.stl	(similarity = 0.451)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew9-ascii.stl	(similarity = 0.351)
+	benchmarks/FabWave/Keyway_Shaft/76b4ca43-18ef-4614-8a6c-50139a5e2de8-ascii.stl	(similarity = 0.314)
+	benchmarks/FabWave/Keyway_Shaft/193d8294-3a89-4e43-bd0e-4e5f32101e87-ascii.stl	(similarity = 0.314)
+	benchmarks/FabWave/Brackets/bracket327-ascii.stl	(similarity = 0.297)
+	benchmarks/FabWave/Brackets/bracket318-ascii.stl	(similarity = 0.297)
+	benchmarks/FabWave/Rotary_Shaft/9f3e0c2e-ca12-4824-8143-5d9c490c2086-ascii.stl	(similarity = 0.292)
+	benchmarks/FabWave/Rotary_Shaft/34c8b6b4-488c-40b4-8045-2a13e02f226d-ascii.stl	(similarity = 0.292)
+	benchmarks/FabWave/Socket_Head_Screws/jazukassocketheadscrew6-ascii.stl	(similarity = 0.254)
+154
+Neighborhood Match Score:  0.5789551354716607 
+
+Signature Match Score: 0.4992074826443613 Neighborhood Match Score: 0.5789551354716607
+2411 1 ./benchmarks/FabWave/Thumb_Screws/40614a47-0c37-4241-8250-decc4cb30c2b-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Thumb_Screws/40614a47-0c37-4241-8250-decc4cb30c2b-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Thumb_Screws/40614a47-0c37-4241-8250-decc4cb30c2b-ascii.stl	(similarity = 0.519)
+	benchmarks/FabWave/Thumb_Screws/20bea8fe-5a93-425e-872f-9bf56ed1c080-ascii.stl	(similarity = 0.43)
+	benchmarks/FabWave/Keyway_Shaft/3476a5c9-078b-4cf8-aca2-a3be1e2de9fb-ascii.stl	(similarity = 0.196)
+	benchmarks/FabWave/Keyway_Shaft/9d62da66-21d5-448d-a003-b1fee3e7fd5a-ascii.stl	(similarity = 0.19)
+	benchmarks/FabWave/Keyway_Shaft/a0539b39-9f03-490e-b962-55ec3761f456-ascii.stl	(similarity = 0.159)
+	benchmarks/FabWave/Rotary_Shaft/b76baf17-2334-4d04-a34a-7955ebd46a74-ascii.stl	(similarity = 0.159)
+	benchmarks/FabWave/Rotary_Shaft/c088e935-de64-463f-adb3-c929c642397f-ascii.stl	(similarity = 0.159)
+	benchmarks/FabWave/Keyway_Shaft/dd0d7250-e91a-47db-85ac-220c857525d9-ascii.stl	(similarity = 0.156)
+	benchmarks/FabWave/Keyway_Shaft/5d967951-85bb-466e-af33-f3cae163c351-ascii.stl	(similarity = 0.134)
+	benchmarks/FabWave/Rotary_Shaft/793485ce-7004-4a96-b789-b139e8f7c8fe-ascii.stl	(similarity = 0.134)
+23
+Signature Match Score:  0.4225051418423341 
+
+
+Files matched with ./benchmarks/FabWave/Thumb_Screws/40614a47-0c37-4241-8250-decc4cb30c2b-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Thumb_Screws/40614a47-0c37-4241-8250-decc4cb30c2b-ascii.stl	(similarity = 0.579)
+	benchmarks/FabWave/Thumb_Screws/20bea8fe-5a93-425e-872f-9bf56ed1c080-ascii.stl	(similarity = 0.464)
+	benchmarks/FabWave/Keyway_Shaft/3476a5c9-078b-4cf8-aca2-a3be1e2de9fb-ascii.stl	(similarity = 0.445)
+	benchmarks/FabWave/Keyway_Shaft/a0539b39-9f03-490e-b962-55ec3761f456-ascii.stl	(similarity = 0.418)
+	benchmarks/FabWave/Rotary_Shaft/b76baf17-2334-4d04-a34a-7955ebd46a74-ascii.stl	(similarity = 0.392)
+	benchmarks/FabWave/Keyway_Shaft/5d967951-85bb-466e-af33-f3cae163c351-ascii.stl	(similarity = 0.375)
+	benchmarks/FabWave/Keyway_Shaft/c41831fc-27ba-4a6f-a46d-038b4e0fb9f3-ascii.stl	(similarity = 0.36)
+	benchmarks/FabWave/Rotary_Shaft/793485ce-7004-4a96-b789-b139e8f7c8fe-ascii.stl	(similarity = 0.316)
+	benchmarks/FabWave/Keyway_Shaft/d232991f-9a86-4487-acf5-799404e99c4c-ascii.stl	(similarity = 0.31)
+	benchmarks/FabWave/Keyway_Shaft/e2bb10df-69bf-4247-910a-3f5d0c8d5813-ascii.stl	(similarity = 0.261)
+23
+Neighborhood Match Score:  0.4225051418423341 
+
+Signature Match Score: 0.4225051418423341 Neighborhood Match Score: 0.4225051418423341
+2412 2 ./benchmarks/FabWave/Thumb_Screws/1fe76547-6f95-4fa7-b9be-a8bb39ee519c-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Thumb_Screws/1fe76547-6f95-4fa7-b9be-a8bb39ee519c-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Thumb_Screws/1fe76547-6f95-4fa7-b9be-a8bb39ee519c-ascii.stl	(similarity = 0.486)
+	benchmarks/FabWave/Thumb_Screws/8bcb470e-ab9a-4fb0-9faf-279559583a12-ascii.stl	(similarity = 0.231)
+	benchmarks/FabWave/Thumb_Screws/32646ae1-957f-40a9-b37f-ff4a9a245e89-ascii.stl	(similarity = 0.199)
+	benchmarks/FabWave/Thumb_Screws/7b126889-3e37-4b0f-8b69-6d9b4d37d1fd-ascii.stl	(similarity = 0.191)
+	benchmarks/FabWave/Thumb_Screws/0b14dd84-1720-48b1-96a7-4b9c23180bfe-ascii.stl	(similarity = 0.181)
+	benchmarks/FabWave/Thumb_Screws/5f0291f4-5d2e-4ed1-ad98-f67bc33980b4-ascii.stl	(similarity = 0.16)
+	benchmarks/FabWave/Thumb_Screws/ba4988f2-c506-4d3c-8e4f-eb0be222909e-ascii.stl	(similarity = 0.157)
+	benchmarks/FabWave/Thumb_Screws/6315bf89-1bd9-4f33-be3d-49e2376918be-ascii.stl	(similarity = 0.114)
+	benchmarks/FabWave/Thumb_Screws/11ba728f-d3c2-4aca-aca1-bb16ba8bb45f-ascii.stl	(similarity = 0.086)
+	benchmarks/FabWave/Thumb_Screws/82f5c31f-0338-479a-a5b0-1f9f1b78fda9-ascii.stl	(similarity = 0.071)
+23
+Signature Match Score:  1.0 
+
+
+Files matched with ./benchmarks/FabWave/Thumb_Screws/1fe76547-6f95-4fa7-b9be-a8bb39ee519c-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Thumb_Screws/1fe76547-6f95-4fa7-b9be-a8bb39ee519c-ascii.stl	(similarity = 0.617)
+	benchmarks/FabWave/Thumb_Screws/8bcb470e-ab9a-4fb0-9faf-279559583a12-ascii.stl	(similarity = 0.456)
+	benchmarks/FabWave/Thumb_Screws/7b126889-3e37-4b0f-8b69-6d9b4d37d1fd-ascii.stl	(similarity = 0.372)
+	benchmarks/FabWave/Thumb_Screws/32646ae1-957f-40a9-b37f-ff4a9a245e89-ascii.stl	(similarity = 0.357)
+	benchmarks/FabWave/Thumb_Screws/0b14dd84-1720-48b1-96a7-4b9c23180bfe-ascii.stl	(similarity = 0.347)
+	benchmarks/FabWave/Thumb_Screws/5f0291f4-5d2e-4ed1-ad98-f67bc33980b4-ascii.stl	(similarity = 0.315)
+	benchmarks/FabWave/Thumb_Screws/ba4988f2-c506-4d3c-8e4f-eb0be222909e-ascii.stl	(similarity = 0.272)
+	benchmarks/FabWave/Thumb_Screws/82f5c31f-0338-479a-a5b0-1f9f1b78fda9-ascii.stl	(similarity = 0.207)
+	benchmarks/FabWave/Thumb_Screws/f4004b46-ef04-488d-8ffe-5ae08bfef291-ascii.stl	(similarity = 0.177)
+	benchmarks/FabWave/Thumb_Screws/dca1eebf-ef6b-47e9-8948-a7c4d2db48b2-ascii.stl	(similarity = 0.175)
+23
+Neighborhood Match Score:  1.0 
+
+Signature Match Score: 1.0 Neighborhood Match Score: 1.0
+2413 3 ./benchmarks/FabWave/Thumb_Screws/81bd35bd-3c0b-4dab-a827-81c254b3128e-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Thumb_Screws/81bd35bd-3c0b-4dab-a827-81c254b3128e-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Thumb_Screws/81bd35bd-3c0b-4dab-a827-81c254b3128e-ascii.stl	(similarity = 0.503)
+	benchmarks/FabWave/Bushing/fa76768c-89c3-4a18-be09-b15f4ac60fcf-ascii.stl	(similarity = 0.124)
+	benchmarks/FabWave/Bushing/093021c1-7904-4820-96ae-85aa2de02914-ascii.stl	(similarity = 0.077)
+	benchmarks/FabWave/Bushing/1206c8a8-0a2b-47ca-8daf-042d21cd66f3-ascii.stl	(similarity = 0.07)
+	benchmarks/FabWave/Thumb_Screws/467a4489-bbd6-47a6-b663-9f02e5377470-ascii.stl	(similarity = 0.069)
+	benchmarks/FabWave/Bushing/62a0e330-c490-4ce3-a37a-0062e7e5fe49-ascii.stl	(similarity = 0.069)
+	benchmarks/FabWave/Bushing/7cbb2b76-fa5d-463f-940a-5774e17cf261-ascii.stl	(similarity = 0.055)
+	benchmarks/FabWave/Bushing/c7574366-137a-4bda-8c52-4b5f947acf6a-ascii.stl	(similarity = 0.05)
+	benchmarks/FabWave/Bushing/9d1d9a49-beca-4494-b1b6-194c01dd0088-ascii.stl	(similarity = 0.048)
+	benchmarks/FabWave/Bushing/2f2d0f0f-0a49-45b5-a0bd-e27e6f70e732-ascii.stl	(similarity = 0.042)
+23
+Signature Match Score:  0.6870556764351355 
+
+
+Files matched with ./benchmarks/FabWave/Thumb_Screws/81bd35bd-3c0b-4dab-a827-81c254b3128e-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Thumb_Screws/81bd35bd-3c0b-4dab-a827-81c254b3128e-ascii.stl	(similarity = 0.534)
+	benchmarks/FabWave/Bushing/fa76768c-89c3-4a18-be09-b15f4ac60fcf-ascii.stl	(similarity = 0.284)
+	benchmarks/FabWave/Bushing/1206c8a8-0a2b-47ca-8daf-042d21cd66f3-ascii.stl	(similarity = 0.272)
+	benchmarks/FabWave/Bushing/62a0e330-c490-4ce3-a37a-0062e7e5fe49-ascii.stl	(similarity = 0.244)
+	benchmarks/FabWave/Bushing/9d1d9a49-beca-4494-b1b6-194c01dd0088-ascii.stl	(similarity = 0.244)
+	benchmarks/FabWave/Bushing/c7574366-137a-4bda-8c52-4b5f947acf6a-ascii.stl	(similarity = 0.21)
+	benchmarks/FabWave/Bushing/f038c987-aa4b-40d9-838f-ab9a7a2a5c5c-ascii.stl	(similarity = 0.204)
+	benchmarks/FabWave/Bushing/093021c1-7904-4820-96ae-85aa2de02914-ascii.stl	(similarity = 0.194)
+	benchmarks/FabWave/Bushing/e49ccbf2-9881-4d9e-a207-c5a005115401-ascii.stl	(similarity = 0.192)
+	benchmarks/FabWave/Hex_Head_Screws/stlfile75-ascii.stl	(similarity = 0.186)
+23
+Neighborhood Match Score:  0.6200476778974993 
+
+Signature Match Score: 0.6870556764351355 Neighborhood Match Score: 0.6200476778974993
+2434 1 ./benchmarks/FabWave/Washers/959f454d-bbbd-4f58-947d-81e6f3cd3493-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Washers/959f454d-bbbd-4f58-947d-81e6f3cd3493-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Washers/959f454d-bbbd-4f58-947d-81e6f3cd3493-ascii.stl	(similarity = 0.505)
+	benchmarks/FabWave/Washers/cff1d043-3752-4cad-bd86-efc830bcc018-ascii.stl	(similarity = 0.469)
+	benchmarks/FabWave/Washers/ebeab1af-2e04-4da3-a736-661e253f4e9c-ascii.stl	(similarity = 0.139)
+	benchmarks/FabWave/Washers/ce91583b-aa9a-4b52-ab33-732bc37f353d-ascii.stl	(similarity = 0.137)
+	benchmarks/FabWave/Washers/caf4dead-7618-4490-9deb-5cb98e0f3343-ascii.stl	(similarity = 0.126)
+	benchmarks/FabWave/Washers/a767991c-408f-4c71-846b-e32c60158980-ascii.stl	(similarity = 0.126)
+	benchmarks/FabWave/Washers/a1affaa8-6357-4eb5-9c75-35bae8036400-ascii.stl	(similarity = 0.113)
+	benchmarks/FabWave/Washers/499115a3-3555-40ae-be2e-aa4ea85da71a-ascii.stl	(similarity = 0.091)
+	benchmarks/FabWave/Washers/7e0beb3f-2377-4c4d-8c03-1a1cd4f57df4-ascii.stl	(similarity = 0.086)
+	benchmarks/FabWave/Washers/864f047f-3335-4971-8088-4664a5f7dac7-ascii.stl	(similarity = 0.08)
+646
+Signature Match Score:  1.0 
+
+
+Files matched with ./benchmarks/FabWave/Washers/959f454d-bbbd-4f58-947d-81e6f3cd3493-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Washers/959f454d-bbbd-4f58-947d-81e6f3cd3493-ascii.stl	(similarity = 0.709)
+	benchmarks/FabWave/Washers/cff1d043-3752-4cad-bd86-efc830bcc018-ascii.stl	(similarity = 0.63)
+	benchmarks/FabWave/Washers/a767991c-408f-4c71-846b-e32c60158980-ascii.stl	(similarity = 0.328)
+	benchmarks/FabWave/Washers/ca8c9493-b0e9-4703-815c-4ec1d731d6f8-ascii.stl	(similarity = 0.309)
+	benchmarks/FabWave/Washers/fdc54913-ba55-420c-a925-038809a40c64-ascii.stl	(similarity = 0.297)
+	benchmarks/FabWave/Washers/caf4dead-7618-4490-9deb-5cb98e0f3343-ascii.stl	(similarity = 0.285)
+	benchmarks/FabWave/Washers/9b698bac-5835-4540-b9d0-43eef29dd296-ascii.stl	(similarity = 0.27)
+	benchmarks/FabWave/Washers/a252d8cd-97f3-4304-ab79-9273ef63e94a-ascii.stl	(similarity = 0.259)
+	benchmarks/FabWave/Washers/befb0369-3a28-47bf-a6b3-197df3589270-ascii.stl	(similarity = 0.249)
+	benchmarks/FabWave/Washers/045e24ea-c91c-4f22-b993-65fceb40aa8c-ascii.stl	(similarity = 0.199)
+646
+Neighborhood Match Score:  1.0 
+
+Signature Match Score: 1.0 Neighborhood Match Score: 1.0
+2435 2 ./benchmarks/FabWave/Washers/e7ac9d13-87b2-4938-b3ae-3084cf5da1d8-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Washers/e7ac9d13-87b2-4938-b3ae-3084cf5da1d8-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Washers/e7ac9d13-87b2-4938-b3ae-3084cf5da1d8-ascii.stl	(similarity = 0.394)
+	benchmarks/FabWave/Washers/efd34717-6db3-47d4-93b8-f11f4a7518f6-ascii.stl	(similarity = 0.155)
+	benchmarks/FabWave/Washers/727d7381-0c13-44b5-a0f6-c23e135baaf3-ascii.stl	(similarity = 0.151)
+	benchmarks/FabWave/Washers/9b698bac-5835-4540-b9d0-43eef29dd296-ascii.stl	(similarity = 0.136)
+	benchmarks/FabWave/Washers/65989f78-2531-47a4-ac92-7072ed567375-ascii.stl	(similarity = 0.104)
+	benchmarks/FabWave/Washers/ebeab1af-2e04-4da3-a736-661e253f4e9c-ascii.stl	(similarity = 0.09)
+	benchmarks/FabWave/Washers/f97fac7b-021f-4cee-9de4-743854499f5a-ascii.stl	(similarity = 0.084)
+	benchmarks/FabWave/Washers/d8a19cc6-1938-4cc9-8761-3512330e9e87-ascii.stl	(similarity = 0.081)
+	benchmarks/FabWave/Washers/badeb6c6-0a86-4c59-8595-20ba5e7fd1cd-ascii.stl	(similarity = 0.078)
+	benchmarks/FabWave/Washers/353d8094-e763-493a-b807-1a3219d0c16e-ascii.stl	(similarity = 0.078)
+646
+Signature Match Score:  1.0 
+
+
+Files matched with ./benchmarks/FabWave/Washers/e7ac9d13-87b2-4938-b3ae-3084cf5da1d8-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Washers/e7ac9d13-87b2-4938-b3ae-3084cf5da1d8-ascii.stl	(similarity = 0.503)
+	benchmarks/FabWave/Washers/9b698bac-5835-4540-b9d0-43eef29dd296-ascii.stl	(similarity = 0.319)
+	benchmarks/FabWave/Washers/727d7381-0c13-44b5-a0f6-c23e135baaf3-ascii.stl	(similarity = 0.303)
+	benchmarks/FabWave/Washers/efd34717-6db3-47d4-93b8-f11f4a7518f6-ascii.stl	(similarity = 0.295)
+	benchmarks/FabWave/Washers/d8a19cc6-1938-4cc9-8761-3512330e9e87-ascii.stl	(similarity = 0.288)
+	benchmarks/FabWave/Washers/befb0369-3a28-47bf-a6b3-197df3589270-ascii.stl	(similarity = 0.274)
+	benchmarks/FabWave/Washers/2137f07f-f4e0-4328-aa3e-e18825e859f0-ascii.stl	(similarity = 0.247)
+	benchmarks/FabWave/Washers/e694d732-9deb-4e18-99ba-1f63722af000-ascii.stl	(similarity = 0.228)
+	benchmarks/FabWave/Washers/e2ffd5de-7d9b-4e67-845f-3deefb452325-ascii.stl	(similarity = 0.216)
+	benchmarks/FabWave/Washers/91473913-7bad-4887-b964-06d7bdb85718-ascii.stl	(similarity = 0.2)
+646
+Neighborhood Match Score:  1.0 
+
+Signature Match Score: 1.0 Neighborhood Match Score: 1.0
+2436 3 ./benchmarks/FabWave/Washers/285f7dcc-51a8-4358-a2fa-0ecebf57e16c-ascii.stl
+
+Files matched with ./benchmarks/FabWave/Washers/285f7dcc-51a8-4358-a2fa-0ecebf57e16c-ascii.stl using the number of signatures : 
+	benchmarks/FabWave/Washers/fc9345bb-c5c1-4c30-b985-6e050cd3edbb-ascii.stl	(similarity = 0.606)
+	benchmarks/FabWave/Washers/f27769d2-4e6d-452a-a33a-d718b291695a-ascii.stl	(similarity = 0.603)
+	benchmarks/FabWave/Washers/285f7dcc-51a8-4358-a2fa-0ecebf57e16c-ascii.stl	(similarity = 0.599)
+	benchmarks/FabWave/Washers/fc4a197c-8b05-46f6-b37a-d7cfb06b6daa-ascii.stl	(similarity = 0.591)
+	benchmarks/FabWave/Washers/395a4863-2bba-492c-a548-d9e2d7d1f4fc-ascii.stl	(similarity = 0.574)
+	benchmarks/FabWave/Washers/0c12daf5-9630-4aa6-a83c-741f27d4a7a5-ascii.stl	(similarity = 0.534)
+	benchmarks/FabWave/Washers/7fe0fc98-a939-4f10-8024-1f44c6b558eb-ascii.stl	(similarity = 0.453)
+	benchmarks/FabWave/Washers/81d06a0a-a594-4100-b07d-acda9dcbdb7e-ascii.stl	(similarity = 0.267)
+	benchmarks/FabWave/Washers/1306260a-0bf6-437f-a893-6b98a0077cea-ascii.stl	(similarity = 0.25)
+	benchmarks/FabWave/Washers/2f573bd8-f3ba-4b9a-a1e5-d51080753cf1-ascii.stl	(similarity = 0.185)
+646
+Signature Match Score:  0.9504318313219594 
+
+
+Files matched with ./benchmarks/FabWave/Washers/285f7dcc-51a8-4358-a2fa-0ecebf57e16c-ascii.stl using the number of neighborhoods : 
+	benchmarks/FabWave/Washers/285f7dcc-51a8-4358-a2fa-0ecebf57e16c-ascii.stl	(similarity = 0.853)
+	benchmarks/FabWave/Washers/fc9345bb-c5c1-4c30-b985-6e050cd3edbb-ascii.stl	(similarity = 0.729)
+	benchmarks/FabWave/Washers/395a4863-2bba-492c-a548-d9e2d7d1f4fc-ascii.stl	(similarity = 0.724)
+	benchmarks/FabWave/Washers/f27769d2-4e6d-452a-a33a-d718b291695a-ascii.stl	(similarity = 0.72)
+	benchmarks/FabWave/Washers/fc4a197c-8b05-46f6-b37a-d7cfb06b6daa-ascii.stl	(similarity = 0.714)
+	benchmarks/FabWave/Washers/0c12daf5-9630-4aa6-a83c-741f27d4a7a5-ascii.stl	(similarity = 0.709)
+	benchmarks/FabWave/Washers/7fe0fc98-a939-4f10-8024-1f44c6b558eb-ascii.stl	(similarity = 0.644)
+	benchmarks/FabWave/Washers/7c3ff4f1-063c-438f-a4d7-4519be5ec535-ascii.stl	(similarity = 0.555)
+	benchmarks/FabWave/Washers/ed4fc27d-370e-4d9f-884f-0e4b4d1d24a8-ascii.stl	(similarity = 0.377)
+	benchmarks/FabWave/Washers/81d06a0a-a594-4100-b07d-acda9dcbdb7e-ascii.stl	(similarity = 0.277)
+646
+Neighborhood Match Score:  1.0 
+
+Signature Match Score: 0.9504318313219594 Neighborhood Match Score: 1.0
+Signature Match Cumlative Score: .73119727081209405555
+Neighborhood Match Cumlative Score: .72314648741929891944

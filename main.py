@@ -1,6 +1,8 @@
 import helper as _hp
 import database as _db
 import fingerprint as _fp
+import score as _sc
+import search as _search
 import sys
 from tqdm import tqdm
 
@@ -48,20 +50,20 @@ def main():
             db.add_signatures(neighborhoods, stl_file)
         # Search in database for potential matches
         else: # mode == 'search':
-            anchor_matches, signatures_matches = db.search_signatures(neighborhoods)
+            anchor_matches, signatures_matches = _db.feedback_search_signatures1(db, neighborhoods)
 
             matches = None
             if _hp.PRINT_NAIVE:
                 print('\nFiles matched with ' + stl_file + ' using the number of signatures : ', end='')
                 matches = signatures_matches
                 _hp.print_lst_of_tuples(matches)
-                print()
+                print("Signature Match Score: ", _sc.score(matches, stl_file, 100), "\n")
 
             if _hp.NEIGHBORHOODS:
                 print('\nFiles matched with ' + stl_file + ' using the number of neighborhoods : ', end='')
                 matches = anchor_matches
                 _hp.print_lst_of_tuples(matches)
-                print()
+                print("Neighborhood Match Score: ", _sc.score(matches, stl_file, 100), "\n")
 
             if _hp.EXPORT_PNGS or _hp.SHOW_PNGS:
                 _hp.export_pngs([i[0] for i in matches], _hp.SHOW_PNGS)
